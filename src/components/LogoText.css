@@ -1,0 +1,19 @@
+/* ------------------------------------------------------------ *\
+	Logo
+\* ------------------------------------------------------------ */
+
+.logo {
+  display: inline-block;
+  font-family: var(--ff-gruppo);
+  font-size: 38px;
+  line-height: 1;
+}
+
+.logo a {
+  text-decoration: none;
+  transition: opacity var(--t-duration);
+}
+
+.logo a:hover {
+  opacity: 0.8;
+}

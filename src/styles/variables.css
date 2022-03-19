@@ -1,0 +1,40 @@
+:root {
+  /* Class colors */
+  --c-class-dk							: 196, 30, 58;
+	--c-class-dh							: 163,	48,	201;
+	--c-class-druid						: 255,	124,	10;
+	--c-class-hunter					: 170,	211,	114;
+	--c-class-mage						: 63,	199,	235;
+	--c-class-monk						: 0,	255,	152;
+	--c-class-paladin					: 244,	140,	186;
+	--c-class-priest 					: 255,	255,	255;
+	--c-class-rogue	 					: 255,	244,	104;
+	--c-class-shaman	 				:	0,	112,	221;
+	--c-class-warlock 				: 135,	136,	238;
+	--c-class-warrior 				: 198,	155,	109;
+
+  /* Base colors */
+  --c-black                 : #000;
+  --c-white                 : #fff;
+  --c-base                  : #055590;
+
+  /* Dark colors */
+  --c-dark									: #242424;
+  --c-dark-2								: #282828;
+  --c-dark-3                : #484848;
+
+  /* Other colors */
+  --c-menu-link							: #bbb;
+
+  /* Fonts */
+  --font-size-base          : 1.6rem;
+  --font-weight-base        : 400;
+  --line-height-base        : 1.2em;
+  --ff-sans-serif           : "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ff-serif                : Georgia, "Times New Roman", Times, serif;
+  --ff-montserrat           : 'Montserrat', sans-serif;
+  --ff-gruppo               : 'Gruppo', cursive;
+
+  /* Transition */
+  --t-duration              : 0.3s;
+}
