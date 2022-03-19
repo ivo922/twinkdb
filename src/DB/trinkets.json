@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "name": "On proc",
+      "items": [
+        {
+          "name": "Pit Fighter",
+          "wowheadURL": "https://www.wowhead.com/item=74034",
+          "note": "13 stamina + mastery proc.",
+          "source": "https://www.wowhead.com/object=209620|Darkmoon Treasure Chest@Darkmoon Island"
+        },
+        {
+          "name": "Greka's Dentures",
+          "wowheadURL": "https://www.wowhead.com/item=113408?ilvl=25",
+          "note": "9 haste + str on proc",
+          "source": "https://www.wowhead.com/object=232588|Greka's Urn@Shadowmoon Valley"
+        },
+        {
+          "name": "External Combustion Engine",
+          "wowheadURL": "https://www.wowhead.com/item=113025?ilvl=24",
+          "note": "7 crit + str proc",
+          "source": "https://www.wowhead.com/quest=34090@Talador"
+        },
+        {
+          "name": "\"Reliable\" Threat Assessor",
+          "wowheadURL": "https://www.wowhead.com/item=113024?ilvl=24",
+          "note": "6 mastery + agi proc",
+          "source": "https://www.wowhead.com/quest=34090@Talador"
+        },
+        {
+          "name": "Foolproof Targeting Mechanism",
+          "wowheadURL": "https://www.wowhead.com/item=113023?ilvl=24",
+          "note": "9 mastery + int proc",
+          "source": "https://www.wowhead.com/quest=34090@Talador"
+        },
+        {
+          "name": "Harlan's Loaded Dice",
+          "wowheadURL": "https://www.wowhead.com/item=155881?ilvl=25",
+          "note": "6 agi + crit/haste/mastery on proc",
+          "source": "https://www.wowhead.com/npc=126983|Harlan Sweete@Freehold"
+        },
+        {
+          "name": "Ember of Nullification",
+          "wowheadURL": "https://www.wowhead.com/item=136978?ilvl=25",
+          "note": "5 agi/str, 8 vers + silence on proc",
+          "source": "https://www.wowhead.com/npc=98696|Illysanna Ravencrest@Black Rook Hold"
+        },
+        {
+          "name": "Lekos' Leash",
+          "wowheadURL": "https://www.wowhead.com/item=128958?ilvl=25",
+          "note": "9 crit + agi on proc <span class=\"q4\">(DH ONLY)</span>",
+          "source": "https://www.wowhead.com/npc=97069|Wrath-Lord Lekos@Vault of the Wardens"
+        },
+        {
+          "name": "Kliaa's Venomclaws",
+          "wowheadURL": "https://www.wowhead.com/item=113163?ilvl=25",
+          "note": "9 mastery + agi on proc",
+          "source": "https://www.wowhead.com/quest=33834@Shadowmoon Valley"
+        },
+        {
+          "name": "Giantstalker's Guile",
+          "wowheadURL": "https://www.wowhead.com/item=111530?ilvl=25",
+          "note": "9 vers + agi on proc",
+          "source": "https://www.wowhead.com/npc=71665|Giant-Slayer Kul@Frostfire Ridge"
+        },
+        {
+          "name": "Scales of Gennadian",
+          "wowheadURL": "https://www.wowhead.com/item=116075?ilvl=25",
+          "note": "6 agi + mastery on proc",
+          "source": "https://www.wowhead.com/npc=80471|Gennadian@Talador"
+        },
+        {
+          "name": "Moonstone Luck Token",
+          "wowheadURL": "https://www.wowhead.com/item=113160?ilvl=24",
+          "note": "6 int + int on proc",
+          "source": "https://www.wowhead.com/quest=34847@Shadowmoon Valley"
+        },
+        {
+          "name": "Forge Ember",
+          "wowheadURL": "https://www.wowhead.com/item=37660?ilvl=25",
+          "note": "9 crit + int on proc",
+          "source": "https://www.wowhead.com/npc=27978|Sjonnir the Ironshaper@Halls of Stone"
+        },
+        {
+          "name": "Spark of Life",
+          "wowheadURL": "https://www.wowhead.com/item=37657?ilvl=25",
+          "note": "9 haste + vers on proc",
+          "source": "https://www.wowhead.com/npc=27978|Sjonnir the Ironshaper@Halls of Stone"
+        },
+        {
+          "name": "Zugdug's Piece of Paradise",
+          "wowheadURL": "https://www.wowhead.com/item=131799?ilvl=25",
+          "note": "6 str + mastery on proc",
+          "source": "https://www.wowhead.com/npc=98299|Bodash the Hoarder@Highmountain"
+        },
+        {
+          "name": "Legacy of Om'ra",
+          "wowheadURL": "https://www.wowhead.com/item=113527?ilvl=25",
+          "note": "6 int + mastery on proc",
+          "source": "https://www.wowhead.com/npc=75071|Mother Om'ra@Shadowmoon Valley"
+        },
+        {
+          "name": "Endless Tincture of Renewed Combat",
+          "wowheadURL": "https://www.wowhead.com/item=152634?ilvl=19",
+          "note": "6 vers + heal on kill",
+          "source": "https://www.wowhead.com/spell=252362"
+        },
+        {
+          "name": "Empowered Shark's Tooth",
+          "wowheadURL": "https://www.wowhead.com/item=159765?ilvl=24",
+          "note": "6 main stat + crit proc",
+          "source": "https://www.wowhead.com/quest=48026@Zul'Dazar"
+        }
+      ]
+    },
+    {
+      "name": "On use",
+      "items": [
+        {
+          "name": "Enforcer's Stun Grenade",
+          "wowheadURL": "https://www.wowhead.com/item=110017?ilvl=25",
+          "note": "6 vers + vers on use",
+          "source": "https://www.wowhead.com/npc=80816|Ahri'ok Dugru@Iron Docks"
+        },
+        {
+          "name": "Armored Elekk Tusk",
+          "wowheadURL": "https://www.wowhead.com/item=108902?ilvl=25",
+          "note": "9 vers + mastery on use (lasts for 30s instead of 15)",
+          "source": "https://www.wowhead.com/object=226854|Armored Elekk Tusk@Shadowmoon Valley"
+        },
+        {
+          "name": "Orb of Torment",
+          "wowheadURL": "https://www.wowhead.com/item=137538?ilvl=25",
+          "note": "10 haste + 50% leech on use",
+          "source": "https://www.wowhead.com/npc=96015|Inquisitor Tormentorum@Vault of the Wardens"
+        },
+        {
+          "name": "Kihra's Adrenaline Injector",
+          "wowheadURL": "https://www.wowhead.com/item=109997?ilvl=25",
+          "note": "4 int + mastery on use",
+          "source": "https://www.wowhead.com/npc=79852|Oshir@Iron Docks"
+        },
+        {
+          "name": "Hargal's Favorite Trinket",
+          "wowheadURL": "https://www.wowhead.com/item=140161?ilvl=27",
+          "note": "Bladestorm <span class=\"q6\">(WARRIOR ONLY)</span>",
+          "source": "https://www.wowhead.com/item=141069"
+        },
+        {
+          "name": "Shivermaw's Jawbone",
+          "wowheadURL": "https://www.wowhead.com/item=137440?ilvl=25",
+          "note": "9 Stamina + AoE slow on-use",
+          "source": "https://www.wowhead.com/npc=101951|Shivermaw@Violet Hold"
+        },
+        {
+          "name": "Brooch of Munificent Deeds",
+          "wowheadURL": "https://www.wowhead.com/item=87500?ilvl=28",
+          "note": "10 Stamina + Max health on-use",
+          "source": "[Pandaria BoE]"
+        },
+        {
+          "name": "Argussian Compass",
+          "wowheadURL": "https://www.wowhead.com/item=27770?ilvl=25",
+          "note": "7 Stamina + Shield on-use",
+          "source": "https://www.wowhead.com/npc=17882|The Black Stalker@The Underbog"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "items": [
+        {
+          "name": "Inherited Insignia of the Alliance",
+          "wowheadURL": "https://www.wowhead.com/item=122371?ilvl=24",
+          "note": "Removes CC.",
+          "source": "https://www.wowhead.com/npc=6294"
+        },
+        {
+          "name": "Inherited Insignia of the Horde",
+          "wowheadURL": "https://www.wowhead.com/item=122370?ilvl=24",
+          "note": "Removes CC.",
+          "source": "https://www.wowhead.com/npc=6566"
+        },
+        {
+          "name": "Ghost Iron Dragonling",
+          "wowheadURL": "https://www.wowhead.com/item=77530?ilvl=25",
+          "note": "30 secondary stats and pet proc.",
+          "source": "https://www.wowhead.com/spell=127134"
+        },
+        {
+          "name": "Figurine - Ruby Hare",
+          "wowheadURL": "https://www.wowhead.com/item=42341?ilvl=19",
+          "note": "4 stamina + speed on use + 2 sockets",
+          "source": "https://www.wowhead.com/spell=56199"
+        },
+        {
+          "name": "Alchemist Stone",
+          "wowheadURL": "https://www.wowhead.com/item=13503/alchemist-stone",
+          "note": "3 stamina + 3 Main stat + 5 vers 40% on potions and <a href=\"https://www.wowhead.com/spell=82200/spinal-healing-injector\"></a>",
+          "source": "https://www.wowhead.com/spell=17632/alchemist-stone"
+        }
+      ]
+    },
+    {
+      "name": "Super rare",
+      "note": "Some of these might even be unobtainable.",
+      "items": [
+        {
+          "name": "Lucky Double-Sided Coin",
+          "wowheadURL": "https://www.wowhead.com/item=118876?ilvl=28",
+          "note": "5 crit + agi on use",
+          "source": "[Draenor BoE]"
+        },
+        {
+          "name": "Scabbard of Kyanos",
+          "wowheadURL": "https://www.wowhead.com/item=118882?ilvl=28",
+          "note": "Str on use",
+          "source": "[Draenor BoE]"
+        },
+        {
+          "name": "Fizzlebang's Folly",
+          "wowheadURL": "https://www.wowhead.com/item=118877?ilvl=26",
+          "note": "3 int + mastery on proc",
+          "source": "[Draenor BoE]"
+        },
+        {
+          "name": "Gerp's Perfect Arrow",
+          "wowheadURL": "https://www.wowhead.com/item=87495?ilvl=28",
+          "note": "10 crit + agi on use",
+          "source": "[Pandaria BoE]"
+        },
+        {
+          "name": "Grakl's Gleaming Talisman",
+          "wowheadURL": "https://www.wowhead.com/item=87499?ilvl=28",
+          "note": "7 int + int on use",
+          "source": "[Pandaria BoE]"
+        },
+        {
+          "name": "Daelo's Final Words",
+          "wowheadURL": "https://www.wowhead.com/item=87496?ilvl=28",
+          "note": "10 crit + str on use",
+          "source": "[Pandaria BoE]"
+        },
+        {
+          "name": "Bajheric Bangle",
+          "wowheadURL": "https://www.wowhead.com/item=118881?ilvl=26",
+          "note": "5 crit + str on proc",
+          "source": "[Draenor BoE]"
+        },
+        {
+          "name": "Everblooming Thorny Hibiscus",
+          "wowheadURL": "https://www.wowhead.com/item=118879?ilvl=26",
+          "note": "5 vers + haste on proc",
+          "source": "[Draenor BoE]"
+        },
+        {
+          "name": "Bronzed Elekk Statue",
+          "wowheadURL": "https://www.wowhead.com/item=118883?ilvl=26",
+          "note": "5 stamina + vers on proc",
+          "source": "[Draenor BoE]"
+        }
+      ]
+    }
+  ]
+}

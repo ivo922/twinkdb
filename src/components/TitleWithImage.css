@@ -1,0 +1,12 @@
+/* ------------------------------------------------------------ *\
+  title-with-image
+\* ------------------------------------------------------------ */
+
+.title-with-image {
+  display: flex;
+  align-items: center;
+}
+
+.title-with-image img {
+  margin-right: 10px;
+}

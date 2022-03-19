@@ -3,6 +3,54 @@ import LogoText from '../components/LogoText';
 import { Link } from 'react-router-dom';
 
 function Home() {
+  const images = {
+    suggest: {
+      src: require('../assets/images/suggest.png'),
+      alt: 'Suggest an item',
+    },
+    feedback: {
+      src: require('../assets/images/feedback.png'),
+      alt: 'Feedback',
+    },
+    guides: {
+      src: require('../assets/images/guides.png'),
+      alt: 'Guides',
+    },
+    weapons: {
+      src: require('../assets/images/weapon.png'),
+      alt: 'Weapons category',
+    },
+    armor: {
+      src: require('../assets/images/armor.png'),
+      alt: 'Armor category',
+    },
+    trinkets: {
+      src: require('../assets/images/trinket.png'),
+      alt: 'Trinkets category',
+    },
+    builds: {
+      src: require('../assets/images/builds.png'),
+      alt: 'Builds category',
+    },
+    calculator: {
+      src: require('../assets/images/calculator.png'),
+      alt: 'Stats calculator',
+    },
+  };
+
+  const routes = {
+    armor: '/armor',
+    weapons: '/weapons',
+    trinkets: '/trinkets',
+    builds: '/builds',
+    calculator: '/calculator',
+    suggest:
+      'https://docs.google.com/forms/d/e/1FAIpQLSeYFPOynx0F7DMazBJEviIUz3oQ2mmB-VNAiT9BKcVwyThlig/viewform?usp=sf_link',
+    moreGuides:
+      'https://xpoff.com/threads/20s-guide-index-and-faq-read-before-posting-new-threads.95324/',
+    feedback: 'https://xpoff.com/threads/level-20-items-sheet-updated.97014/',
+  };
+
   return (
     <div className="main">
       <div className="main__head container">
@@ -41,21 +89,14 @@ function Home() {
             <ul className="widgets">
               <li className="widget">
                 <div className="widget__image">
-                  <img
-                    src={ require('../assets/images/suggest.png') }
-                    alt="Suggest an item"
-                  />
+                  <img src={images.suggest.src} alt={images.suggest.alt} />
                 </div>
 
                 <div className="widget__content">
                   <h3 className="widget__title">Suggest an Item</h3>
 
                   <p>
-                    <a
-                      target="_blank"
-                      rel="noreferrer"
-                      href="https://docs.google.com/forms/d/e/1FAIpQLSeYFPOynx0F7DMazBJEviIUz3oQ2mmB-VNAiT9BKcVwyThlig/viewform?usp=sf_link"
-                    >
+                    <a target="_blank" rel="noreferrer" href={routes.suggest}>
                       Click here!
                     </a>
                   </p>
@@ -64,18 +105,14 @@ function Home() {
 
               <li className="widget">
                 <div className="widget__image">
-                  <img src={ require('../assets/images/feedback.png') } alt="Feedback" />
+                  <img src={images.feedback.src} alt={images.feedback.alt} />
                 </div>
 
                 <div className="widget__content">
                   <h3 className="widget__title">Got feedback?</h3>
 
                   <p>
-                    <a
-                      target="_blank"
-                      rel="noreferrer"
-                      href="https://xpoff.com/threads/level-20-items-sheet-updated.97014/"
-                    >
+                    <a target="_blank" rel="noreferrer" href={routes.feedback}>
                       Tell me here!
                     </a>
                   </p>
@@ -90,7 +127,7 @@ function Home() {
             <ul className="widgets">
               <li className="widget">
                 <div className="widget__image">
-                  <img src={ require('../assets/images/guides.png') } alt="Guides" />
+                  <img src={images.guides.src} alt={images.guides.alt} />
                 </div>
 
                 <div className="widget__content">
@@ -100,7 +137,7 @@ function Home() {
                     <a
                       target="_blank"
                       rel="noreferrer"
-                      href="https://xpoff.com/threads/20s-guide-index-and-faq-read-before-posting-new-threads.95324/"
+                      href={routes.moreGuides}
                     >
                       Visit XPOFF
                     </a>
@@ -120,10 +157,7 @@ function Home() {
                 <div className="category">
                   <div className="category__image">
                     <Link to="/weapons">
-                      <img
-                        src={ require('../assets/images/weapon.png') }
-                        alt="Weapons category"
-                      />
+                      <img src={images.weapons.src} alt={images.weapons.alt} />
                     </Link>
                   </div>
 
@@ -137,10 +171,7 @@ function Home() {
                 <div className="category">
                   <div className="category__image">
                     <Link to="/armor">
-                      <img
-                        src={ require('../assets/images/armor.png') }
-                        alt="Armor category"
-                      />
+                      <img src={images.armor.src} alt={images.armor.alt} />
                     </Link>
                   </div>
 
@@ -155,8 +186,8 @@ function Home() {
                   <div className="category__image">
                     <Link to="/trinkets">
                       <img
-                        src={ require('../assets/images/trinket.png') }
-                        alt="Trinkets category"
+                        src={images.trinkets.src}
+                        alt={images.trinkets.alt}
                       />
                     </Link>
                   </div>
@@ -171,10 +202,7 @@ function Home() {
                 <div className="category">
                   <div className="category__image">
                     <Link to="/builds">
-                      <img
-                        src={ require('../assets/images/builds.png') }
-                        alt="Builds category"
-                      />
+                      <img src={images.builds.src} alt={images.builds.alt} />
                     </Link>
                   </div>
 
@@ -189,8 +217,8 @@ function Home() {
                   <div className="category__image">
                     <Link to="/calculator">
                       <img
-                        src={ require('../assets/images/calculator.png') }
-                        alt="Calculator category"
+                        src={images.calculator.src}
+                        alt={images.calculator.alt}
                       />
                     </Link>
                   </div>

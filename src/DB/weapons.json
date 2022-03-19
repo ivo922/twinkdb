@@ -1,0 +1,1360 @@
+{
+  "categories": [
+    {
+      "name": "2H melee",
+      "items": [
+        {
+          "name": "Thunderlord Longspear",
+          "wowheadURL": "https://www.wowhead.com/item=107658?ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "11 - 22 (4.6 DPS)",
+            "stamina": 10,
+            "mainStat": 6,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 13,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/object=220641|Thunderlord Cache@Frostfire Ridge",
+          "rarity": 1,
+          "note": "You only get 1 chance at this drop. Can proc purple."
+        },
+        {
+          "name": "Crow Wing Reaper",
+          "wowheadURL": "https://www.wowhead.com/item=27986?ilvl=25",
+          "stats": {
+            "sockets": 3,
+            "damage": "10 - 23 (4.6 DPS)",
+            "stamina": 12,
+            "mainStat": 6,
+            "critical": 10,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=18473|Talon King Ikiss@Sethekk Halls",
+          "rarity": 1
+        },
+        {
+          "name": "The Chief's Enforcer",
+          "wowheadURL": "https://www.wowhead.com/item=9477?ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "14 - 19 (4.6 DPS)",
+            "stamina": 10,
+            "mainStat": 6,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=7267|Chief Ukorz Sandscalp@Zul'Farrak",
+          "rarity": 1
+        },
+        {
+          "name": "Runeblade of Baron Rivendare",
+          "wowheadURL": "https://www.wowhead.com/item=13505?ilvl=26",
+          "stats": {
+            "sockets": 0,
+            "damage": "13 - 22 (4.9 DPS)",
+            "stamina": 10,
+            "mainStat": 7,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 13
+          },
+          "source": "https://www.wowhead.com/npc=45412|Lord Aurius Rivendare@Stratholme",
+          "rarity": 2,
+          "note": "The heal scales with STR on paladin and INT on warrior and DK making it useless on anyhting but paladin."
+        },
+        {
+          "name": "Sul'thraze the Lasher",
+          "wowheadURL": "https://www.wowhead.com/item=9372?ilvl=26",
+          "stats": {
+            "sockets": 0,
+            "damage": "13 - 22 (4.9 DPS)",
+            "stamina": 10,
+            "mainStat": 7,
+            "critical": 0,
+            "haste": 4,
+            "mastery": 0,
+            "versatility": 10
+          },
+          "source": "[Zul'Farrak<br> (Combine 2 drops)]",
+          "rarity": 2,
+          "note": "Combine 2 blue weapons that drop in Zul'Farrak."
+        },
+        {
+          "name": "Gnarled Ash Staff",
+          "wowheadURL": "https://www.wowhead.com/item=791?ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "15 - 21 (5 DPS)",
+            "stamina": 5,
+            "mainStat": 7,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 17
+          },
+          "source": "https://www.wowhead.com/npc=75590|Enormous Bullfrog@Razorfen Kraul",
+          "rarity": 3
+        },
+        {
+          "name": "Combatant Claymore",
+          "wowheadURL": "https://www.wowhead.com/item=2877&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "13 - 23 (5 DPS)",
+            "stamina": 7,
+            "mainStat": 7,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 16
+          },
+          "source": "[Classic BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "Khoo's Point",
+          "wowheadURL": "https://www.wowhead.com/item=13058&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "12 - 24 (5 DPS)",
+            "stamina": 10,
+            "mainStat": 7,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 8
+          },
+          "source": "[Classic BoE]",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "name": "1H melee",
+      "items": [
+        {
+          "name": "Spectral Revenger",
+          "wowheadURL": "https://www.wowhead.com/item=160449&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "7 - 11 (3.5 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 3,
+            "versatility": 4
+          },
+          "source": "https://www.wowhead.com/npc=137529|Arvon the Betrayed@Drustvar",
+          "rarity": 1,
+          "note": "One time drop."
+        },
+        {
+          "name": "Cudgel of Naralex",
+          "wowheadURL": "https://www.wowhead.com/item=156998&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "damage": "10 - 13 (3.2 DPS)",
+            "stamina": 4,
+            "mainStat": 3,
+            "critical": 0,
+            "haste": 4,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/quest=24601@Southern Barrens",
+          "rarity": 1,
+          "note": "Can proc blue/purple making it a very good option."
+        },
+        {
+          "name": "Mok'Morokk's Headcracker",
+          "wowheadURL": "https://www.wowhead.com/item=156999&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "11 - 14 (3.5 DPS)",
+            "stamina": 2,
+            "mainStat": 3,
+            "critical": 6,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/quest=27418@Dustwallow Marsh",
+          "rarity": 1,
+          "note": "Can proc purple making it a very good option."
+        },
+        {
+          "name": "Blackout Truncheon",
+          "wowheadURL": "https://www.wowhead.com/item=27901&ilvl=25",
+          "stats": {
+            "sockets": 2,
+            "damage": "8 - 10 (3.5 DPS)",
+            "stamina": 0,
+            "mainStat": 4,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=18732|Grandmaster Vorpil@Shadow Labyrinth",
+          "rarity": 1
+        },
+        {
+          "name": "Claw of the Watcher",
+          "wowheadURL": "https://www.wowhead.com/item=27846&ilvl=25",
+          "stats": {
+            "sockets": 2,
+            "damage": "7 - 11 (3.5 DPS)",
+            "stamina": 0,
+            "mainStat": 3,
+            "critical": 5,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=18371|Shirrak the Dead Watcher@Auchenai Crypts",
+          "rarity": 1
+        },
+        {
+          "name": "The Bladefist",
+          "wowheadURL": "https://www.wowhead.com/item=29348&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "7 - 11 (3.5 DPS)",
+            "stamina": 0,
+            "mainStat": 0,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=16808|Warchief Kargath Bladefist@The Shattered Halls",
+          "rarity": 1
+        },
+        {
+          "name": "Dragon's Call",
+          "wowheadURL": "https://www.wowhead.com/item=10847&ilvl=26",
+          "stats": {
+            "sockets": 0,
+            "damage": "7 - 12 (3.7 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 3,
+            "haste": 3,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=5709|Shade of Eranikus@Sunken Temple",
+          "rarity": 2
+        },
+        {
+          "name": "Ironfoe",
+          "wowheadURL": "https://www.wowhead.com/item=11684&ilvl=26",
+          "stats": {
+            "sockets": 0,
+            "damage": "8 - 11 (3.7 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 3,
+            "haste": 3,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=9019|Emperor Dagran Thaurissan@Blackrock Depths",
+          "rarity": 2
+        },
+        {
+          "name": "Soulrending Claw",
+          "wowheadURL": "https://www.wowhead.com/item=160269&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "7 - 11 (3.5 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 0,
+            "haste": 3,
+            "mastery": 3,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=122963|Rezan@Atal'Dazar",
+          "rarity": 2
+        },
+        {
+          "name": "Rugged Crystal Cudgel",
+          "wowheadURL": "https://www.wowhead.com/item=119400&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "8 - 10 (3.5 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 4,
+            "versatility": 3
+          },
+          "source": "https://www.wowhead.com/npc=85568|Avalanche@Shadowmoon Valley",
+          "rarity": 2,
+          "note": "Socket proc chance is ~5%. Drops loot once a day."
+        },
+        {
+          "name": "Vibroblade",
+          "wowheadURL": "https://www.wowhead.com/item=9485&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "5 - 12 (3.3 DPS)",
+            "stamina": 0,
+            "mainStat": 0,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Gnomeregan BoE]",
+          "rarity": 3,
+          "note": "Very strong armor penetration. Bis offhand for most dual-wield classes. Very rare."
+        }
+      ]
+    },
+    {
+      "name": "Dagger (agility)",
+      "items": [
+        {
+          "name": "Barman Skewer",
+          "wowheadURL": "https://www.wowhead.com/item=160451&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "4 - 8 (3.3 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 4,
+            "haste": 3,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=129181|Barman Bill@Tiragarde Sound",
+          "rarity": 1,
+          "note": "You can only loot this once."
+        },
+        {
+          "name": "Long Fang",
+          "wowheadURL": "https://www.wowhead.com/item=159518&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "4 - 8 (3.3 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 0,
+            "haste": 3,
+            "mastery": 3,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=127877|Longfang@Drustvar",
+          "rarity": 1,
+          "note": "One time drop."
+        },
+        {
+          "name": "Coldrage Dagger",
+          "wowheadURL": "https://www.wowhead.com/item=10761&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "4 - 8 (3.3 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=74434|Amnennar the Coldbringer@Razorfen Downs",
+          "rarity": 1,
+          "note": "The slow doesn't proc on 20. The dmg does."
+        },
+        {
+          "name": "Soulrender's Fang",
+          "wowheadURL": "https://www.wowhead.com/item=158323&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "4 - 8 (3.3 DPS)",
+            "stamina": 5,
+            "mainStat": 3,
+            "critical": 0,
+            "haste": 3,
+            "mastery": 0,
+            "versatility": 4
+          },
+          "source": "https://www.wowhead.com/npc=122968|Yazma@Atal'Dazar",
+          "rarity": 2
+        },
+        {
+          "name": "The Shadowfoot Stabber",
+          "wowheadURL": "https://www.wowhead.com/item=24222&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "5 - 9 (3.9 DPS)",
+            "stamina": 4,
+            "mainStat": 3,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Outland BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "Elanor's Edge",
+          "wowheadURL": "https://www.wowhead.com/item=37802&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "5 - 9 (3.9 DPS)",
+            "stamina": 4,
+            "mainStat": 3,
+            "critical": 4,
+            "haste": 4,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Northrend BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "Widowmaker",
+          "wowheadURL": "https://www.wowhead.com/item=4091&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "5 - 9 (3.9 DPS)",
+            "stamina": 0,
+            "mainStat": 5,
+            "critical": 0,
+            "haste": 6,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[BoE Outland]",
+          "rarity": 3
+        },
+        {
+          "name": "Ced's Carver",
+          "wowheadURL": "https://www.wowhead.com/item=31305&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "5 - 9 (3.9 DPS)",
+            "stamina": 3,
+            "mainStat": 3,
+            "critical": 6,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Outland BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "The Night Blade",
+          "wowheadURL": "https://www.wowhead.com/item=31331&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "5 - 9 (3.9 DPS)",
+            "stamina": 0,
+            "mainStat": 0,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Outland pickpocket lockbox]",
+          "rarity": 3
+        },
+        {
+          "name": "The Dusk Blade",
+          "wowheadURL": "https://www.wowhead.com/item=43613&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "5 - 9 (3.9 DPS)",
+            "stamina": 0,
+            "mainStat": 0,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Northrend pickpocket lockbox]",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "name": "Ranged",
+      "items": [
+        {
+          "name": "Vlaros Corps Rifle",
+          "wowheadURL": "https://www.wowhead.com/item=154411&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "14 - 14 (4.7 DPS)",
+            "stamina": 10,
+            "mainStat": 6,
+            "critical": 6,
+            "haste": 0,
+            "mastery": 7,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=139145|Blackthorne@Tiragarde Sound",
+          "rarity": 1,
+          "note": "You have 1 chance at this drop."
+        },
+        {
+          "name": "Iron Lookout's Arbalest",
+          "wowheadURL": "https://www.wowhead.com/item=118713&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "11 - 17 (4.7 DPS)",
+            "stamina": 10,
+            "mainStat": 6,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 6,
+            "versatility": 6
+          },
+          "source": "https://www.wowhead.com/object=236158|Sniper's Crossbow@Gorgrond",
+          "rarity": 1,
+          "note": "Can proc purple."
+        },
+        {
+          "name": "Dragon Slayer's Shortbow",
+          "wowheadURL": "https://www.wowhead.com/item=39487&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "11 - 16 (4.5 DPS)",
+            "stamina": 10,
+            "mainStat": 6,
+            "critical": 12,
+            "haste": 17,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/quest=12614@Sholazar Basin",
+          "rarity": 1,
+          "note": "Can proc purple making it a very good option."
+        },
+        {
+          "name": "High-Strung Bow",
+          "wowheadURL": "https://www.wowhead.com/item=39829&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "damage": "11 - 15 (4.3 DPS)",
+            "stamina": 0,
+            "mainStat": 11,
+            "critical": 13,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/quest=12609@Zul'Drak",
+          "rarity": 1,
+          "note": "Bad at green but very strong if procs purple."
+        },
+        {
+          "name": "Hand of Argus Crossfire",
+          "wowheadURL": "https://www.wowhead.com/item=27640&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "damage": "10 - 16 (4.3 DPS)",
+            "stamina": 11,
+            "mainStat": 11,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/quest=9694@Bloodmist Isle",
+          "rarity": 1,
+          "note": "Can proc blue/purple making it a very good option."
+        },
+        {
+          "name": "Hallowed Ossein Longbow",
+          "wowheadURL": "https://www.wowhead.com/item=158711&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "11 - 16 (4.5 DPS)",
+            "stamina": 10,
+            "mainStat": 6,
+            "critical": 5,
+            "haste": 0,
+            "mastery": 8,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=122963|Rezan@Atal'Dazar",
+          "rarity": 2
+        },
+        {
+          "name": "Needle Threader",
+          "wowheadURL": "https://www.wowhead.com/item=13021&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "12 - 17 (4.8 DPS)",
+            "stamina": 10,
+            "mainStat": 7,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 10
+          },
+          "source": "[Classic BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "Skull Splitting Crossbow",
+          "wowheadURL": "https://www.wowhead.com/item=13039&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "12 - 18 (5 DPS)",
+            "stamina": 0,
+            "mainStat": 7,
+            "critical": 15,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Classic BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "Guttbuster",
+          "wowheadURL": "https://www.wowhead.com/item=13139&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "10 - 20 (5 DPS)",
+            "stamina": 0,
+            "mainStat": 12,
+            "critical": 7,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Classic BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "Precisely Calibrated Boomstick",
+          "wowheadURL": "https://www.wowhead.com/item=2100&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "10 - 20 (5 DPS)",
+            "stamina": 0,
+            "mainStat": 17,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "[Classic BoE]",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "name": "Caster 1H",
+      "items": [
+        {
+          "name": "Sharktooth Hatchet",
+          "wowheadURL": "https://www.wowhead.com/item=155273&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "2 - 6",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 3,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 4
+          },
+          "source": "https://www.wowhead.com/npc=139287|Sawtooth@Boralus",
+          "rarity": 1,
+          "note": "You get only 1 chance at this drop."
+        },
+        {
+          "name": "Shiverscale Spellknife",
+          "wowheadURL": "https://www.wowhead.com/item=155278&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "2 - 4",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 0,
+            "haste": 4,
+            "mastery": 0,
+            "versatility": 2
+          },
+          "source": "https://www.wowhead.com/npc=139285|Shiverscale the Toxic@Tiragarde Sound",
+          "rarity": 1,
+          "note": "You get only 1 chance at this drop. If it procs socket its better than Balde of Eternal Drakness. Otherwise - not."
+        },
+        {
+          "name": "Squirgle's Deepstone Wand",
+          "wowheadURL": "https://www.wowhead.com/item=155551&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "2 - 4",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 4,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 2
+          },
+          "source": "https://www.wowhead.com/npc=139135|Squirgle of the Depths@Tiragarde Sound",
+          "rarity": 1,
+          "note": "1 time drop."
+        },
+        {
+          "name": "Pearly-White Jackknife",
+          "wowheadURL": "https://www.wowhead.com/item=154217&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "2 - 4",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 4,
+            "versatility": 3
+          },
+          "source": "https://www.wowhead.com/npc=138866|Mack@Drustvar",
+          "rarity": 1,
+          "note": "1 time drop"
+        },
+        {
+          "name": "Sister Martha's Soulstealer",
+          "wowheadURL": "https://www.wowhead.com/item=155299&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "2 - 4",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 0,
+            "haste": 4,
+            "mastery": 2,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=138863|Sister Martha@Drustvar",
+          "rarity": 1,
+          "note": "One time drop."
+        },
+        {
+          "name": "Barbthorn Queen's Stinger",
+          "wowheadURL": "https://www.wowhead.com/item=155425&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "3 - 5",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 0,
+            "haste": 3,
+            "mastery": 0,
+            "versatility": 4
+          },
+          "source": "https://www.wowhead.com/npc=127333|Barbthorn Queen@Drustvar",
+          "rarity": 1,
+          "note": "One time drop."
+        },
+        {
+          "name": "Darkspeaker Scepter",
+          "wowheadURL": "https://www.wowhead.com/item=160958&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "4 - 5",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 3,
+            "haste": 0,
+            "mastery": 3,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=134760|Darkspeaker Jola@Zuldazar",
+          "rarity": 1,
+          "note": "You can only loot this once."
+        },
+        {
+          "name": "Accursed Tuskwand",
+          "wowheadURL": "https://www.wowhead.com/item=160973&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "2 - 4",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 0,
+            "haste": 3,
+            "mastery": 3,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=128610|Maw of Shul-Nagruth@Nazmir",
+          "rarity": 1,
+          "note": "One time drop."
+        },
+        {
+          "name": "Scepter of the Winterfin",
+          "wowheadURL": "https://www.wowhead.com/item=37041&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "stamina": 4,
+            "mainStat": 17,
+            "critical": 0,
+            "haste": 5,
+            "mastery": 0,
+            "versatility": 6
+          },
+          "source": "https://www.wowhead.com/quest=11570@Borean Tundra",
+          "rarity": 1,
+          "note": "Can proc blue/purple making it a very good option."
+        },
+        {
+          "name": "Mace of the Fallen Raven Priest",
+          "wowheadURL": "https://www.wowhead.com/item=38135&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "stamina": 4,
+            "mainStat": 17,
+            "critical": 0,
+            "haste": 7,
+            "mastery": 0,
+            "versatility": 4
+          },
+          "source": "https://www.wowhead.com/quest=12464@Dragonblight",
+          "rarity": 1,
+          "note": "Can proc blue/purple making it a very good option."
+        },
+        {
+          "name": "Tethis' Skull",
+          "wowheadURL": "https://www.wowhead.com/item=61110&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "damage": "4 - 5",
+            "stamina": 4,
+            "mainStat": 17,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 9
+          },
+          "source": "https://www.wowhead.com/quest=197@Northern Stranglethorn",
+          "rarity": 1,
+          "note": "Can proc blue/purple making it very close to Essence Focuser."
+        },
+        {
+          "name": "Screw-Sprung Fixer-Upper",
+          "wowheadURL": "https://www.wowhead.com/item=41822?ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 4,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 5
+          },
+          "source": "https://www.wowhead.com/quest=12948@Zul'Drak",
+          "rarity": 1,
+          "note": "Can proc purple but the stats remain the same."
+        },
+        {
+          "name": "Black Crystal Dagger",
+          "wowheadURL": "https://www.wowhead.com/item=20647&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "2 - 4",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 7
+          },
+          "source": "https://www.wowhead.com/quest=8283@Silithus",
+          "rarity": 1,
+          "note": "Can proc purple. No changes in stats though."
+        },
+        {
+          "name": "Rod of the Crimson Keeper",
+          "wowheadURL": "https://www.wowhead.com/item=37078&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "damage": "2 - 4",
+            "stamina": 4,
+            "mainStat": 17,
+            "critical": 3,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 7
+          },
+          "source": "https://www.wowhead.com/quest=11969@Borean Tundra",
+          "rarity": 1,
+          "note": "Can proc blue or purple. Not good at green."
+        },
+        {
+          "name": "Glimmering Orca Tooth",
+          "wowheadURL": "https://www.wowhead.com/item=37042&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "damage": "2 - 4",
+            "stamina": 4,
+            "mainStat": 17,
+            "critical": 7,
+            "haste": 4,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/quest=11570@Borean Tundra",
+          "rarity": 1,
+          "note": "Can proc blue and purple. Not good at green."
+        },
+        {
+          "name": "Dowsing Rod",
+          "wowheadURL": "https://www.wowhead.com/item=37015&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "damage": "2 - 4",
+            "stamina": 4,
+            "mainStat": 17,
+            "critical": 6,
+            "haste": 4,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/quest=11872@Borean Tundra",
+          "rarity": 1,
+          "note": "Can proc blue or purple. Not good at green."
+        },
+        {
+          "name": "Blade of Eternal Darkness",
+          "wowheadURL": "https://www.wowhead.com/item=17780&ilvl=26",
+          "stats": {
+            "sockets": 0,
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 0,
+            "haste": 3,
+            "mastery": 0,
+            "versatility": 4
+          },
+          "source": "https://www.wowhead.com/npc=12201|Princess Theradras@Maraudon",
+          "rarity": 1
+        },
+        {
+          "name": "Shockwave Truncheon",
+          "wowheadURL": "https://www.wowhead.com/item=29353&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 5,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 5
+          },
+          "source": "https://www.wowhead.com/npc=18708|Murmur@Shadow Labyrinth",
+          "rarity": 1
+        },
+        {
+          "name": "Wand of Zealous Purification",
+          "wowheadURL": "https://www.wowhead.com/item=158321&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 3,
+            "haste": 4,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=122967|Priestess Alun'za@Atal'Dazar",
+          "rarity": 2
+        },
+        {
+          "name": "Shadowspeaker's Shard",
+          "wowheadURL": "https://www.wowhead.com/item=119396&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "2 - 4",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 4,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 3
+          },
+          "source": "https://www.wowhead.com/npc=85029|Shadowspeaker Niir@Shadowmoon Valley",
+          "rarity": 2,
+          "note": "Socket proc chance is ~5%. Drops loot once a day."
+        },
+        {
+          "name": "Cudgel of the Son of Goramal",
+          "wowheadURL": "https://www.wowhead.com/item=119399&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "damage": "4 - 5",
+            "stamina": 5,
+            "mainStat": 19,
+            "critical": 3,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 3
+          },
+          "source": "https://www.wowhead.com/npc=82620|Son of Goramal@Frostfire Ridge",
+          "rarity": 2,
+          "note": "Socket proc chance is ~5%. Drops loot once a day."
+        },
+        {
+          "name": "Zealot Blade",
+          "wowheadURL": "https://www.wowhead.com/item=13033&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "3 - 6",
+            "stamina": 5,
+            "mainStat": 20,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 7
+          },
+          "source": "https://www.wowhead.com/npc=75590|Enormous Bullfrog@Razorfen Kraul",
+          "rarity": 2
+        },
+        {
+          "name": "The Essence Focuser",
+          "wowheadURL": "https://www.wowhead.com/item=31304&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "stamina": 5,
+            "mainStat": 20,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 10
+          },
+          "source": "[Outland BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "Matti's Magnificent Mace",
+          "wowheadURL": "https://www.wowhead.com/item=118788&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "4 - 6",
+            "stamina": 5,
+            "mainStat": 20,
+            "critical": 0,
+            "haste": 3,
+            "mastery": 4,
+            "versatility": 0
+          },
+          "source": "[Draenor BoE]",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "name": "Caster 2H",
+      "items": [
+        {
+          "name": "Staff of the Great Reptile",
+          "wowheadURL": "https://www.wowhead.com/item=35633&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "damage": "7 - 10",
+            "stamina": 10,
+            "mainStat": 29,
+            "critical": 0,
+            "haste": 11,
+            "mastery": 0,
+            "versatility": 13
+          },
+          "source": "https://www.wowhead.com/npc=27483|King Dred@Drak'Tharon Keep",
+          "rarity": 1
+        },
+        {
+          "name": "Soulkeeper",
+          "wowheadURL": "https://www.wowhead.com/item=1607?ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "stamina": 10,
+            "mainStat": 31,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 16
+          },
+          "source": "[Classic BoE]",
+          "rarity": 3
+        },
+        {
+          "name": "Foamspittle Staff",
+          "wowheadURL": "https://www.wowhead.com/item=1405&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "damage": "6 - 9",
+            "stamina": 9,
+            "mainStat": 27,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 17
+          },
+          "source": "https://www.wowhead.com/npc=517|Murloc Oracle@Westfall",
+          "rarity": 3,
+          "note": "Can proc blue/purple making it a good option."
+        },
+        {
+          "name": "Staff of Divine Infusion",
+          "wowheadURL": "https://www.wowhead.com/item=31289&ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "damage": "7 - 10",
+            "stamina": 10,
+            "mainStat": 31,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 16
+          },
+          "source": "[Outland BoE]",
+          "rarity": 3,
+          "note": "Works well if you find it cheap or loot it while doing other stuff. Not worth farming."
+        }
+      ]
+    },
+    {
+      "name": "Offhand",
+      "items": [
+        {
+          "name": "Soul-Pillar Lantern",
+          "wowheadURL": "https://www.wowhead.com/item=160447?ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "armor": 0,
+            "stamina": 5,
+            "mainStat": 10,
+            "critical": 0,
+            "haste": 2,
+            "mastery": 0,
+            "versatility": 4
+          },
+          "source": "https://www.wowhead.com/npc=129995|Emily Mayville@Drustvar",
+          "rarity": 1,
+          "note": "One time drop."
+        },
+        {
+          "name": "Manual of the Tides",
+          "wowheadURL": "https://www.wowhead.com/item=37033&ilvl=24",
+          "stats": {
+            "sockets": 0,
+            "armor": 0,
+            "stamina": 4,
+            "mainStat": 9,
+            "critical": 6,
+            "haste": 6,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/quest=11968@Borean Tundra",
+          "rarity": 1,
+          "note": "Can proc blue/purple making it a very good option."
+        },
+        {
+          "name": "Cloud Stone",
+          "wowheadURL": "https://www.wowhead.com/item=17737?ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "armor": 0,
+            "stamina": 5,
+            "mainStat": 10,
+            "critical": 0,
+            "haste": 2,
+            "mastery": 0,
+            "versatility": 5
+          },
+          "source": "https://www.wowhead.com/npc=12203|Landslide@Maraudon",
+          "rarity": 1,
+          "note": "Very good budget option if you're going for Blade of Eternal Darkness too."
+        },
+        {
+          "name": "Book of the Dead",
+          "wowheadURL": "https://www.wowhead.com/item=13353&ilvl=26",
+          "stats": {
+            "sockets": 0,
+            "armor": 0,
+            "stamina": 5,
+            "mainStat": 10,
+            "critical": 0,
+            "haste": 4,
+            "mastery": 0,
+            "versatility": 3
+          },
+          "source": "https://www.wowhead.com/npc=10813|Balnazzar@Stratholme",
+          "rarity": 2
+        },
+        {
+          "name": "Desertwalker Cane",
+          "wowheadURL": "https://www.wowhead.com/item=12471&ilvl=25",
+          "stats": {
+            "sockets": 0,
+            "armor": 0,
+            "stamina": 5,
+            "mainStat": 10,
+            "critical": 0,
+            "haste": 2,
+            "mastery": 0,
+            "versatility": 5
+          },
+          "source": "https://www.wowhead.com/npc=10081|Dustwraith@Zul'Farrak",
+          "rarity": 2
+        },
+        {
+          "name": "Aureus Vessel",
+          "wowheadURL": "https://www.wowhead.com/item=158322&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "armor": 0,
+            "stamina": 5,
+            "mainStat": 10,
+            "critical": 3,
+            "haste": 3,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=122967|Priestess Alun'za@Atal'Dazar",
+          "rarity": 2
+        },
+        {
+          "name": "Tor'goroth's Soul Prism",
+          "wowheadURL": "https://www.wowhead.com/item=119379?ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "armor": 0,
+            "stamina": 5,
+            "mainStat": 10,
+            "critical": 3,
+            "haste": 0,
+            "mastery": 3,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=82618|Tor'goroth@Frostfire Ridge",
+          "rarity": 2,
+          "note": "Socket proc chance is ~5%. Drops loot once a day."
+        },
+        {
+          "name": "Orb of Mistmantle",
+          "wowheadURL": "https://www.wowhead.com/item=13031?ilvl=27",
+          "stats": {
+            "sockets": 0,
+            "armor": 0,
+            "stamina": 5,
+            "mainStat": 11,
+            "critical": 0,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 7
+          },
+          "source": "[Classic BoE]",
+          "rarity": 3
+        }
+      ]
+    },
+    {
+      "name": "Shield",
+      "items": [
+        {
+          "name": "Silvershell Defender",
+          "wowheadURL": "https://www.wowhead.com/item=158597?ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "armor": 64,
+            "stamina": 5,
+            "mainStat": "3 str<br>10 int",
+            "critical": 0,
+            "haste": 2,
+            "mastery": 4,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=131520|Kulett the Ornery@Tiragarde Sound",
+          "rarity": 1,
+          "note": "You get only 1 chance at this drop."
+        },
+        {
+          "name": "Giant Yeti's Bowl",
+          "wowheadURL": "https://www.wowhead.com/item=158683?ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "armor": 64,
+            "stamina": 5,
+            "mainStat": "3 str<br>10 int",
+            "critical": 4,
+            "haste": 3,
+            "mastery": 0,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=127844|Gluttonous Yeti@Drustvar",
+          "rarity": 1,
+          "note": "One time drop."
+        },
+        {
+          "name": "Disc of Indomitable Will",
+          "wowheadURL": "https://www.wowhead.com/item=158713&ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "armor": 0,
+            "stamina": 5,
+            "mainStat": "3 str<br>10 int",
+            "critical": 0,
+            "haste": 3,
+            "mastery": 4,
+            "versatility": 0
+          },
+          "source": "https://www.wowhead.com/npc=122963|Rezan@Atal'Dazar",
+          "rarity": 2
+        },
+        {
+          "name": "Etched Osteoderm Shield",
+          "wowheadURL": "https://www.wowhead.com/item=119391?ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "armor": 64,
+            "stamina": 5,
+            "mainStat": "3 str<br>10 int",
+            "critical": 4,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 3
+          },
+          "source": "https://www.wowhead.com/npc=88586|Mogamago@Gorgrond",
+          "rarity": 2,
+          "note": "Socket proc chance is ~5%. Drops loot once a day."
+        },
+        {
+          "name": "Rockworm Carapace Shield",
+          "wowheadURL": "https://www.wowhead.com/item=119390?ilvl=25",
+          "stats": {
+            "sockets": "1 (proc)",
+            "armor": 64,
+            "stamina": 5,
+            "mainStat": "3 str<br>10 int",
+            "critical": 3,
+            "haste": 0,
+            "mastery": 0,
+            "versatility": 4
+          },
+          "source": "https://www.wowhead.com/npc=82616|Jabberjaw@Frostfire Ridge",
+          "rarity": 2,
+          "note": "Socket proc chance is ~5%. Drops loot once a day."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2978 @@
+{
+  "types": [
+    {
+      "name": "Cloth",
+      "categories": [
+        {
+          "name": "Head",
+          "items": [
+            {
+              "name": "Cenarion Thicket Circlet",
+              "item_url": "https://www.wowhead.com/item=25931?ilvl=24",
+
+              "sockets": 3,
+              "armor": 4,
+              "main_stat": 6,
+              "stamina": 11,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=10005@Terokkar Forest",
+              "rarity": 1,
+              "note": "Can proc blue/purple."
+            },
+            {
+              "name": "Circle of Flame",
+              "item_url": "https://www.wowhead.com/item=11808?ilvl=26",
+
+              "sockets": 0,
+              "armor": 4,
+              "main_stat": 7,
+              "stamina": 10,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 13,
+
+              "source_url": "https://www.wowhead.com/npc=9156|Ambassador Flamelash@Blackrock Depths",
+              "rarity": 1,
+              "note": "Also good on hybrid specs as it only takes 2 ticks to refill."
+            },
+            {
+              "name": "Incanter's Cowl",
+              "item_url": "https://www.wowhead.com/item=28278?ilvl=25",
+
+              "sockets": "Meta + 1",
+              "armor": 4,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=19220|Pathaleon the Calculator@The Mechanar",
+              "rarity": 1
+            },
+            {
+              "name": "Energized Retinal Armor",
+              "item_url": "https://www.wowhead.com/item=77537?ilvl=19",
+
+              "sockets": "Meta + 2 cogs",
+              "armor": 8,
+              "main_stat": 5,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/spell=127121",
+              "rarity": 2,
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\">Billibub Cogspinner</a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\">Sovik</a>"
+            },
+            {
+              "name": "Hood of Alchemical Vapors",
+              "item_url": "https://www.wowhead.com/item=87450?ilvl=28",
+
+              "sockets": "Meta + 1",
+              "armor": 5,
+              "main_stat": 5,
+              "stamina": 11,
+              "critical": 0,
+              "haste": 5,
+              "mastery": 6,
+              "versatility": 0,
+
+              "source_url": "[Pandaria BoE]",
+              "rarity": 3,
+              "note": "Farmable on lvl 21-22 for ilvl 28. Level 20 drops ilvl 26."
+            }
+          ]
+        },
+        {
+          "name": "Shoulders",
+          "items": [
+            {
+              "name": "Terrorcloth Mantle",
+              "item_url": "https://www.wowhead.com/item=25925?ilvl=24",
+
+              "sockets": 2,
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 7,
+              "critical": 1,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/quest=9902@Zangarmarsh",
+              "rarity": 1,
+              "note": "Can proc blue/purple. Slightly inferior to Hallowed but way easier to get."
+            },
+            {
+              "name": "Hallowed Pauldrons",
+              "item_url": "https://www.wowhead.com/item=27775?ilvl=25",
+
+              "sockets": 2,
+              "armor": 4,
+              "main_stat": 6,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/npc=18732|Grandmaster Vorpil@Shadow Labyrinth",
+              "rarity": 1,
+              "note": "BiS shoulders for general use."
+            },
+            {
+              "name": "Mana-Etched Spaulders",
+              "item_url": "https://www.wowhead.com/item=27796?ilvl=25",
+
+              "sockets": 2,
+              "armor": 5,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17942|Quagmirran@The Slave Pens",
+              "rarity": 1,
+              "note": "Only useful for the 2-piece set bonus. Otherwise Hallowed Pauldrons are better."
+            }
+          ]
+        },
+        {
+          "name": "Chest",
+          "items": [
+            {
+              "name": "Chemise of Rebirth",
+              "item_url": "https://www.wowhead.com/item=31657?ilvl=24",
+
+              "sockets": 3,
+              "armor": 5,
+              "main_stat": 7,
+              "stamina": 9,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/quest=10096@Zangarmarsh",
+              "rarity": 1,
+              "note": "Very good if proc purple."
+            },
+            {
+              "name": "Raiments of Divine Authority",
+              "item_url": "https://www.wowhead.com/item=24397?ilvl=25",
+
+              "sockets": 3,
+              "armor": 6,
+              "main_stat": 6,
+              "stamina": 12,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/npc=17377|Keli'dan the Breaker@The Blood Furnace",
+              "rarity": 1,
+              "note": "Hallowed and Incanter are better but you can queue Blood Furnace from the dungeon finder."
+            },
+            {
+              "name": "Hallowed Pauldrons",
+              "item_url": "https://www.wowhead.com/item=28230?ilvl=25",
+
+              "sockets": 3,
+              "armor": 6,
+              "main_stat": 6,
+              "stamina": 12,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 8,
+
+              "source_url": "https://www.wowhead.com/npc=18708|Murmur@Shadow Labyrinth",
+              "rarity": 1
+            },
+            {
+              "name": "Incanter's Robe",
+              "item_url": "https://www.wowhead.com/item=28229?ilvl=25",
+
+              "sockets": 3,
+              "armor": 6,
+              "main_stat": 7,
+              "stamina": 10,
+              "critical": 2,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/npc=17977|Warp Splinter@The Botanica",
+              "rarity": 1
+            },
+            {
+              "name": "Mana-Etched Vestments",
+              "item_url": "https://www.wowhead.com/item=28191?ilvl=25",
+
+              "sockets": 3,
+              "armor": 6,
+              "main_stat": 7,
+              "stamina": 10,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=18096|Epoch Hunter@Old Hilsbrad Foothills",
+              "rarity": 2,
+              "note": "Useful for the 2-piece bonus."
+            }
+          ]
+        },
+        {
+          "name": "Wrist",
+          "items": [
+            {
+              "name": "Verdisa's Cuffs of Dreaming",
+              "item_url": "https://www.wowhead.com/item=36945?ilvl=25",
+
+              "sockets": 1,
+              "armor": 3,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=27654|Drakos the Interrogator@The Oculus",
+              "rarity": 1
+            },
+            {
+              "name": "Silk Cuffs of the Skycap'n",
+              "item_url": "https://www.wowhead.com/item=159227?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 3,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 2,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=126832|Skycap'n Kragg@Freehold",
+              "rarity": 2
+            },
+            {
+              "name": "Wraps of Everliving Fealty",
+              "item_url": "https://www.wowhead.com/item=158348?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 3,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 3,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=122965|Vol'kaal@Atal'Dazar",
+              "rarity": 2
+            }
+          ]
+        },
+        {
+          "name": "Hands",
+          "items": [
+            {
+              "name": "Tempest's Touch",
+              "item_url": "https://www.wowhead.com/item=29317?ilvl=25",
+
+              "sockets": 2,
+              "armor": 3,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 4,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 2,
+
+              "source_url": "https://www.wowhead.com/quest=29599@Old Hilsbrad Foothills",
+              "rarity": 1,
+              "note": "Can proc purple."
+            },
+            {
+              "name": "Bloody Surgeon's Mitts",
+              "item_url": "https://www.wowhead.com/item=24393?ilvl=25",
+
+              "sockets": 2,
+              "armor": 3,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=17380|Broggok@The Blood Furnace",
+              "rarity": 1
+            },
+            {
+              "name": "Manaspark Gloves",
+              "item_url": "https://www.wowhead.com/item=24450?ilvl=25",
+
+              "sockets": 2,
+              "armor": 3,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 6,
+              "haste": 3,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17770|Hungarfen@The Underbog",
+              "rarity": 1
+            },
+            {
+              "name": "Mana-Etched Gloves",
+              "item_url": "https://www.wowhead.com/item=27465?ilvl=25",
+
+              "sockets": 2,
+              "armor": 4,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17308|Omor the Unscarred@Hellfire Ramparts",
+              "rarity": 1,
+              "note": "Only good with the 2-piece set bonus."
+            }
+          ]
+        },
+        {
+          "name": "Waist",
+          "items": [
+            {
+              "name": "Gholamcloth Wrap",
+              "item_url": "https://www.wowhead.com/item=35929?ilvl=24",
+
+              "sockets": 2,
+              "armor": 3,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/quest=11284@Howling Fjord",
+              "rarity": 1,
+              "note": "Can proc blue/purple making it a very good item."
+            },
+            {
+              "name": "Mindfire Waistband",
+              "item_url": "https://www.wowhead.com/item=24395?ilvl=25",
+
+              "sockets": 2,
+              "armor": 3,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 4,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=17377|Keli'dan the Breaker@The Blood Furnace",
+              "rarity": 1
+            }
+          ]
+        },
+        {
+          "name": "Legs",
+          "items": [
+            {
+              "name": "Aran's Sorcerous Slacks",
+              "item_url": "https://www.wowhead.com/item=28212?ilvl=25",
+
+              "sockets": 3,
+              "armor": 5,
+              "main_stat": 7,
+              "stamina": 10,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17848|Lieutenant Drake@Old Hilsbrad Foothills",
+              "rarity": 1,
+              "note": "Only good for crit/haste and full crit builds. Don't put versatility gems it's not worth it - use Pontifex instead."
+            },
+            {
+              "name": "Pontiff's Pantaloons of Prophecy",
+              "item_url": "https://www.wowhead.com/item=28218?ilvl=25",
+
+              "sockets": 3,
+              "armor": 5,
+              "main_stat": 6,
+              "stamina": 12,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=17862|Captain Skarloc@Old Hilsbrad Foothills",
+              "rarity": 1
+            },
+            {
+              "name": "Pontifex Kilt",
+              "item_url": "https://www.wowhead.com/item=30543?ilvl=25",
+
+              "sockets": 3,
+              "armor": 5,
+              "main_stat": 7,
+              "stamina": 10,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=17798|Warlord Kalithresh@The Steam Vault",
+              "rarity": 1
+            }
+          ]
+        },
+        {
+          "name": "Feet",
+          "items": [
+            {
+              "name": "Ro'gor's Slippers of Silence",
+              "item_url": "https://www.wowhead.com/item=119228?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 5,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=86579|Blademaster Ro'gor@Gorgrond",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
+            },
+            {
+              "name": "Slippers of Serenity",
+              "item_url": "https://www.wowhead.com/item=27411?ilvl=25",
+
+              "sockets": 2,
+              "armor": 5,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=18373|Exarch Maladaar@Auchenai Crypts",
+              "rarity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leather",
+      "categories": [
+        {
+          "name": "Head",
+          "items": [
+            {
+              "name": "Scout's Hood",
+              "item_url": "https://www.wowhead.com/item=31658?ilvl=24",
+
+              "sockets": 3,
+              "armor": 7,
+              "main_stat": 7,
+              "stamina": 9,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=10096@Zangarmarsh",
+              "rarity": 1,
+              "note": "Good if proc purple."
+            },
+            {
+              "name": "Raven-Heart Headdress",
+              "item_url": "https://www.wowhead.com/item=27409?ilvl=25",
+
+              "sockets": 3,
+              "armor": 7,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/npc=18371|Shirrak the Dead Watcher@Auchenai Crypts",
+              "rarity": 1
+            },
+            {
+              "name": "Wastewalker Helm",
+              "item_url": "https://www.wowhead.com/item=28224/wastewalker-helm?bonus=6710&ilvl=25",
+
+              "sockets": "Meta + 1",
+              "armor": 7,
+              "main_stat": 7,
+              "stamina": 10,
+              "critical": 6,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=18096|Epoch Hunter@Old Hilsbrad Foothills",
+              "rarity": 2
+            },
+            {
+              "name": "Moonglade Cowl",
+              "item_url": "https://www.wowhead.com/item=28348/moonglade-cowl?ilvl=25",
+
+              "sockets": "Meta + 1",
+              "armor": 7,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 8,
+
+              "source_url": "https://www.wowhead.com/npc=17975|High Botanist Freywinn@The Botanica",
+              "rarity": 2
+            },
+            {
+              "name": "Agile Retinal Armor",
+              "item_url": "https://www.wowhead.com/item=77534?ilvl=19",
+
+              "sockets": "Meta + 2 cogs",
+              "armor": 5,
+              "main_stat": 5,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/spell=127118",
+              "rarity": 2,
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\">Billibub Cogspinner</a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\">Sovik</a>"
+            },
+            {
+              "name": "Zom's Misty Hood",
+              "item_url": "https://www.wowhead.com/item=87452?ilvl=28",
+
+              "sockets": "Meta + 1",
+              "armor": 8,
+              "main_stat": 7,
+              "stamina": 11,
+              "critical": 0,
+              "haste": 5,
+              "mastery": 6,
+              "versatility": 0,
+
+              "source_url": "[Pandaria BoE]",
+              "rarity": 3,
+              "note": "ilvl 28 farmable on lvl 22, ilvl 26 - on 20"
+            }
+          ]
+        },
+        {
+          "name": "Shoulders",
+          "items": [
+            {
+              "name": "Ravenwing Pauldron",
+              "item_url": "https://www.wowhead.com/item=27417?ilvl=25",
+
+              "sockets": 2,
+              "armor": 7,
+              "main_stat": "5 agi<br>6 int",
+              "stamina": 7,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=17848|Lieutenant Drake@Old Hilsbrad Foothills",
+              "rarity": 1
+            },
+            {
+              "name": "Moonglade Shoulders",
+              "item_url": "https://www.wowhead.com/item=27737?ilvl=25",
+
+              "sockets": 2,
+              "armor": 7,
+              "main_stat": "5 agi<br>6 int",
+              "stamina": 7,
+              "critical": 4,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=17798|Warlord Kalithresh@The Steam Vault",
+              "rarity": 1
+            },
+            {
+              "name": "Mantle of Perenolde",
+              "item_url": "https://www.wowhead.com/item=27434?ilvl=25",
+
+              "sockets": 2,
+              "armor": 7,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 7,
+              "haste": 7,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=18096|Epoch Hunter@Old Hilsbrad Foothills",
+              "rarity": 2
+            }
+          ]
+        },
+        {
+          "name": "Chest",
+          "items": [
+            {
+              "name": "Auchenai Monk's Tunic",
+              "item_url": "https://www.wowhead.com/item=29340?ilvl=25",
+
+              "sockets": 3,
+              "armor": 10,
+              "main_stat": "7 agi<br>6 int",
+              "stamina": 10,
+              "critical": 5,
+              "haste": "Dodge +8",
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=29596@Auchenai Crypts",
+              "rarity": 1,
+              "note": "Moonglade Robe is better but this is a quest reward."
+            },
+            {
+              "name": "Moonglade Robe",
+              "item_url": "https://www.wowhead.com/item=28202?ilvl=25",
+
+              "sockets": 3,
+              "armor": 10,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=19221|Nethermancer Sepethrea@The Mechanar",
+              "rarity": 1
+            }
+          ]
+        },
+        {
+          "name": "Wrist",
+          "items": [
+            {
+              "name": "Ranja-Hide Bracers",
+              "item_url": "https://www.wowhead.com/item=154478?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 5,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 4,
+              "haste": 0,
+              "mastery": 3,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=139278|Ranja@Tiragarde Sound",
+              "rarity": 1,
+              "note": "You can only loot this once."
+            },
+            {
+              "name": "Spymistress' Wristguards",
+              "item_url": "https://www.wowhead.com/item=28171?ilvl=25",
+
+              "sockets": 1,
+              "armor": 5,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 4,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=29641@Shadow Labyrinth",
+              "rarity": 1
+            },
+            {
+              "name": "Venerated Raptorhide Bindings",
+              "item_url": "https://www.wowhead.com/item=160214?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 5,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 3,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=122963|Rezan@Atal'Dazar",
+              "rarity": 2
+            },
+            {
+              "name": "Sea Dog's Cuffs",
+              "item_url": "https://www.wowhead.com/item=158305?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 5,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 3,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=126969|Trothak@Freehold",
+              "rarity": 2
+            }
+          ]
+        },
+        {
+          "name": "Hands",
+          "items": [
+            {
+              "name": "Starlight Gauntlets",
+              "item_url": "https://www.wowhead.com/item=24452?ilvl=25",
+
+              "sockets": 2,
+              "armor": 6,
+              "main_stat": "5 agi<br>6 int",
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 3,
+
+              "source_url": "https://www.wowhead.com/npc=17770|Hungarfen@The Underbog",
+              "rarity": 1
+            },
+            {
+              "name": "Deft Handguards",
+              "item_url": "https://www.wowhead.com/item=24365?ilvl=25",
+
+              "sockets": 2,
+              "armor": 6,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17942|Quagmirran@The Slave Pens",
+              "rarity": 1
+            },
+            {
+              "name": "Wastewalker Gloves",
+              "item_url": "https://www.wowhead.com/item=27531/wastewalker-gloves?ilvl=25",
+
+              "sockets": 2,
+              "armor": 6,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=16808|Warchief Kargath Bladefist@The Shattered Halls",
+              "rarity": 2,
+              "note": "Only good for the 2-piece set bonus."
+            }
+          ]
+        },
+        {
+          "name": "Waist",
+          "items": [
+            {
+              "name": "Direhorn Studded Belt",
+              "item_url": "https://www.wowhead.com/item=161218?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 6,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 5,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=124399|Infected Direhorn@Nazmir",
+              "rarity": 1,
+              "note": "Drops only once."
+            },
+            {
+              "name": "Liar's Cord",
+              "item_url": "https://www.wowhead.com/item=28124?ilvl=25",
+
+              "sockets": 2,
+              "armor": 6,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17991|Rokmar the Crackler@The Slave Pens",
+              "rarity": 1
+            },
+            {
+              "name": "Highlander's Lizardhide Girdle",
+              "item_url": "https://www.wowhead.com/item=20104?ilvl=23",
+
+              "sockets": 0,
+              "armor": 5,
+              "main_stat": 7,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 11,
+
+              "source_url": "https://www.wowhead.com/npc=15127|Vendor@Arathi Highlands",
+              "rarity": 1
+            },
+            {
+              "name": "Rivermarsh Quickclaw Buckle",
+              "item_url": "https://www.wowhead.com/item=161092?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 6,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=133812|Zanxib@Nazmir",
+              "rarity": 1,
+              "note": "One time drop."
+            }
+          ]
+        },
+        {
+          "name": "Legs",
+          "items": [
+            {
+              "name": "Moonchild Leggings",
+              "item_url": "https://www.wowhead.com/item=27492?ilvl=25",
+
+              "sockets": 3,
+              "armor": 9,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=17380|Broggok@The Blood Furnace",
+              "rarity": 1
+            },
+            {
+              "name": "Midnight Legguards",
+              "item_url": "https://www.wowhead.com/item=30538?ilvl=25",
+
+              "sockets": 3,
+              "armor": 9,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 8,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17942|Quagmirran@The Slave Pens",
+              "rarity": 1
+            }
+          ]
+        },
+        {
+          "name": "Feet",
+          "items": [
+            {
+              "name": "Temptessa's Knee-High Boots",
+              "item_url": "https://www.wowhead.com/item=119360?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 6,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 5,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=85121|Lady Temptessa@Shadowmoon Valley",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
+            },
+            {
+              "name": "Boots of Transformation",
+              "item_url": "https://www.wowhead.com/item=37640?ilvl=25",
+
+              "sockets": 1,
+              "armor": 6,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=29306|Gal'darah@Gundrak",
+              "rarity": 1
+            },
+            {
+              "name": "Boots of the Shifting Sands",
+              "item_url": "https://www.wowhead.com/item=28339?ilvl=25",
+
+              "sockets": 2,
+              "armor": 6,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17980|Laj@The Botanica",
+              "rarity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mail",
+      "categories": [
+        {
+          "name": "Head",
+          "items": [
+            {
+              "name": "Cenarion Thicket Helm",
+              "item_url": "https://www.wowhead.com/item=25930?ilvl=24",
+
+              "sockets": 3,
+              "armor": 10,
+              "main_stat": 6,
+              "stamina": 11,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=10005@Terokkar Forrest",
+              "rarity": 1,
+              "note": "Can proc blue/purple."
+            },
+            {
+              "name": "Mok'Nathal Beast-Mask",
+              "item_url": "https://www.wowhead.com/item=27414?ilvl=25",
+
+              "sockets": 3,
+              "armor": 11,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 7,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 1,
+
+              "source_url": "https://www.wowhead.com/npc=18373|Exarch Maladaar@Auchenai Crypts",
+              "rarity": 1
+            },
+            {
+              "name": "Plunderer's Helmet",
+              "item_url": "https://www.wowhead.com/item=37188/plunderers-helmet?ilvl=25",
+
+              "sockets": "Meta + 1",
+              "armor": 11,
+              "main_stat": 6,
+              "stamina": 12,
+              "critical": 4,
+              "haste": 7,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=23954|Ingvar the Plunderer@Utgarde Keep",
+              "rarity": 1
+            },
+            {
+              "name": "Corrupted Keeper's Band",
+              "item_url": "https://www.wowhead.com/item=132561?ilvl=25",
+
+              "sockets": 0,
+              "armor": 11,
+              "main_stat": 0,
+              "stamina": 10,
+              "critical": 9,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 23,
+
+              "source_url": "https://www.wowhead.com/npc=12225|Celebras The Cursed@Maraudon",
+              "rarity": 2,
+              "note": "Can't queue this boss"
+            },
+            {
+              "name": "Energized Retinal Armor",
+              "item_url": "https://www.wowhead.com/item=77537?ilvl=19",
+
+              "sockets": "Meta + 2 cogs",
+              "armor": 8,
+              "main_stat": "5 int<br>2 agi",
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/spell=127121",
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\">Billibub Cogspinner</a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\">Sovik</a>",
+              "rarity": 2
+            },
+            {
+              "name": "Deadly Retinal Armor",
+              "item_url": "https://www.wowhead.com/item=77536?ilvl=19",
+
+              "sockets": "Meta + 2 cogs",
+              "armor": 8,
+              "main_stat": "5 agi<br>2 int",
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/spell=127120",
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\"></a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\"></a>",
+              "rarity": 2
+            },
+            {
+              "name": "Helm of Elemental Binding",
+              "item_url": "https://www.wowhead.com/item=87451?ilvl=28",
+
+              "sockets": "Meta + 1",
+              "armor": 12,
+              "main_stat": 8,
+              "stamina": 11,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 6,
+              "versatility": 0,
+
+              "source_url": "[Pandaria BoE]",
+              "rarity": 3,
+              "note": "Requires lvl 22 farmer for iLvl 28."
+            },
+            {
+              "name": "Hexu's Amplifying Helm",
+              "item_url": "https://www.wowhead.com/item=87456?ilvl=28",
+
+              "sockets": "Meta + 1",
+              "armor": 12,
+              "main_stat": 7,
+              "stamina": 11,
+              "critical": 7,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "[Pandaria BoE]",
+              "rarity": 3,
+              "note": "Farmable on lvl 22."
+            },
+            {
+              "name": "Gorrog's Serene Gaze",
+              "item_url": "https://www.wowhead.com/item=141575/gorrogs-serene-gaze?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 12,
+              "main_stat": 7,
+              "stamina": 11,
+              "critical": 4,
+              "haste": 0,
+              "mastery": 10,
+              "versatility": 0,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Good with socket."
+            }
+          ]
+        },
+        {
+          "name": "Shoulders",
+          "items": [
+            {
+              "name": "Pauldrons of Desolation",
+              "item_url": "https://www.wowhead.com/item=27713?ilvl=25",
+
+              "sockets": 2,
+              "armor": 10,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 6,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17942|Quagmirran@The Slave Pens",
+              "rarity": 1
+            },
+            {
+              "name": "Tidefury Shoulderguards",
+              "item_url": "https://www.wowhead.com/item=27802/tidefury-shoulderguards?ilvl=25",
+
+              "sockets": 2,
+              "armor": 10,
+              "main_stat": "6 int<br>5 agi",
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=16809|Warbringer Omrogg@The Shattered Halls",
+              "rarity": 2
+            }
+          ]
+        },
+        {
+          "name": "Chest",
+          "items": [
+            {
+              "name": "Vest of Living Lightning",
+              "item_url": "https://www.wowhead.com/item=24357/vest-of-living-lightning?ilvl=25",
+
+              "sockets": 3,
+              "armor": 14,
+              "main_stat": "7 int<br>6 agi",
+              "stamina": 10,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/npc=17941|Mennu the Betrayer@The Slave Pens",
+              "rarity": 1
+            },
+            {
+              "name": "Shamblehide Chestguard",
+              "item_url": "https://www.wowhead.com/item=24465?ilvl=25",
+
+              "sockets": 3,
+              "armor": 14,
+              "main_stat": "7 agi<br>6 int",
+              "stamina": 10,
+              "critical": 6,
+              "haste": 7,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17882|The Black Stalker@The Underbog",
+              "rarity": 1
+            },
+            {
+              "name": "Hauberk of Desolation",
+              "item_url": "https://www.wowhead.com/item=28401?ilvl=25",
+
+              "sockets": 3,
+              "armor": 14,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 6,
+              "haste": 7,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=18096|Epoch Hunter@Old Hilsbrad Foothills",
+              "rarity": 2
+            }
+          ]
+        },
+        {
+          "name": "Wrist",
+          "items": [
+            {
+              "name": "Bone Horror's Armsplints",
+              "item_url": "https://www.wowhead.com/item=161101?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 7,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 3,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=128578|Zujothgul@Nazmir",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Wristlinks of Alchemical Transfusion",
+              "item_url": "https://www.wowhead.com/item=158309?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 7,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 3,
+              "haste": 0,
+              "mastery": 5,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=122967|Priestess Alun'za@Atal'Dazar",
+              "rarity": 2
+            },
+            {
+              "name": "Raoul's Barrelhook Bracers",
+              "item_url": "https://www.wowhead.com/item=159356?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 7,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 3,
+
+              "source_url": "https://www.wowhead.com/npc=129431|Captain Eudora@Freehold",
+              "rarity": 2
+            }
+          ]
+        },
+        {
+          "name": "Hands",
+          "items": [
+            {
+              "name": "Abyssal Scale Gauntlets",
+              "item_url": "https://www.wowhead.com/item=161098?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 8,
+              "main_stat": 5,
+              "stamina": 8,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 5,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=128584|Vugthuth@Nazmir",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Stormfront Gauntlets",
+              "item_url": "https://www.wowhead.com/item=27428?ilvl=25",
+
+              "sockets": 2,
+              "armor": 8,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=17862|Captain Skarloc@Old Hilsbrad Foothills",
+              "rarity": 1
+            },
+            {
+              "name": "Gauntlets of Desolation",
+              "item_url": "https://www.wowhead.com/item=27528?ilvl=25",
+
+              "sockets": 2,
+              "armor": 9,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 5,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=16808|Warchief Kargath Bladefist@The Shattered Halls",
+              "rarity": 1
+            }
+          ]
+        },
+        {
+          "name": "Waist",
+          "items": [
+            {
+              "name": "Tarren Mill Defender's Cinch",
+              "item_url": "https://www.wowhead.com/item=29319?ilvl=25",
+
+              "sockets": 2,
+              "armor": 8,
+              "main_stat": "6 int<br>5 agi",
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 9,
+
+              "source_url": "https://www.wowhead.com/quest=29599@Old Hilsbrad Foothills",
+              "rarity": 1
+            },
+            {
+              "name": "Girdle of Living Flame",
+              "item_url": "https://www.wowhead.com/item=27743/girdle-of-living-flame?ilvl=25",
+
+              "sockets": 2,
+              "armor": 8,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17770|Hungarfen@The Underbog",
+              "rarity": 1
+            },
+            {
+              "name": "Girdle of the Gale Storm",
+              "item_url": "https://www.wowhead.com/item=24388/girdle-of-the-gale-storm?ilvl=25",
+
+              "sockets": 2,
+              "armor": 8,
+              "main_stat": "6 int<br>5 agi",
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/npc=17381|The Maker@The Blood Furnace",
+              "rarity": 1,
+              "note": "This is <em>good enough</em> when you accidentally lose your Tarren Mill Defender's Cinch"
+            },
+            {
+              "name": "Shokell's Grim Cinch",
+              "item_url": "https://www.wowhead.com/item=141573?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 9,
+              "main_stat": 5,
+              "stamina": 8,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 7,
+              "versatility": 0,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Farmable at 20"
+            }
+          ]
+        },
+        {
+          "name": "Legs",
+          "items": [
+            {
+              "name": "Wyrmscale Greaves",
+              "item_url": "https://www.wowhead.com/item=30534?ilvl=25",
+
+              "sockets": 3,
+              "armor": 13,
+              "main_stat": "6 agi<br>5 int",
+              "stamina": 10,
+              "critical": 7,
+              "haste": 8,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=18096|Epoch Hunter@Old Hilsbrad Foothills",
+              "rarity": 2,
+              "note": "Worth the grind."
+            }
+          ]
+        },
+        {
+          "name": "Feet",
+          "items": [
+            {
+              "name": "Auchenai Boots",
+              "item_url": "https://www.wowhead.com/item=28177?ilvl=25",
+
+              "sockets": 2,
+              "armor": 9,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 1,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/quest=29644@Shadow Labyrinth",
+              "rarity": 1
+            },
+            {
+              "name": "Dragon Slayer's Sabatons",
+              "item_url": "https://www.wowhead.com/item=37167?ilvl=25",
+
+              "sockets": 2,
+              "armor": 9,
+              "main_stat": 5,
+              "stamina": 8,
+              "critical": 4,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=26723|Keristrasza@The Nexus",
+              "rarity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plate",
+      "categories": [
+        {
+          "name": "Head",
+          "items": [
+            {
+              "name": "Circle's Stalwart Helmet",
+              "item_url": "https://www.wowhead.com/item=27715?ilvl=24",
+
+              "sockets": 3,
+              "armor": 15,
+              "main_stat": 7,
+              "stamina": 9,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=10096@Zangarmarsh",
+              "rarity": 1,
+              "note": "Good if proc purple."
+            },
+            {
+              "name": "Hope Bearer Helm",
+              "item_url": "https://www.wowhead.com/item=27408?ilvl=25",
+
+              "sockets": 3,
+              "armor": 16,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 13,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 1,
+
+              "source_url": "https://www.wowhead.com/npc=18371|Shirrak the Dead Watcher@Auchenai Crypts",
+              "rarity": 1
+            },
+            {
+              "name": "Helmet of the Constructor",
+              "item_url": "https://www.wowhead.com/item=37182?ilvl=25",
+
+              "sockets": "Meta + 1",
+              "armor": 16,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 8,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=24200|Skarvald the Constructor@Utgarde Keep",
+              "rarity": 1,
+              "note": "A budget alternative to Davidian if you need a meta socket."
+            },
+            {
+              "name": "Horned Viking Helmet",
+              "item_url": "https://www.wowhead.com/item=9394?ilvl=25",
+
+              "sockets": 0,
+              "armor": 16,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 0,
+              "haste": 13,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=6907|Eric \"The Swift\"@Uldaman",
+              "rarity": 1
+            },
+            {
+              "name": "Reinforced Retinal Armor",
+              "item_url": "https://www.wowhead.com/item=77539?ilvl=19",
+
+              "sockets": "Meta + 2 cogs",
+              "armor": 12,
+              "main_stat": 5,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/spell=127123",
+              "rarity": 2,
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\">Billibub Cogspinner</a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\">Sovik</a>"
+            },
+            {
+              "name": "Davidian's All-Seeing Eyes",
+              "item_url": "https://www.wowhead.com/item=87455?ilvl=28",
+
+              "sockets": "Meta + 1",
+              "armor": 18,
+              "main_stat": 8,
+              "stamina": 11,
+              "critical": 5,
+              "haste": 6,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "[Pandaria BoE]",
+              "rarity": 3,
+              "note": "Tooltip is wrong. Requires a lvl 22 character to farm. Best spot to farm is goats in Vallet of Four Winds."
+            },
+            {
+              "name": "Light-Sealed Casque",
+              "item_url": "https://www.wowhead.com/item=87454?ilvl=28",
+
+              "sockets": "Meta + 1",
+              "armor": 18,
+              "main_stat": 8,
+              "stamina": 11,
+              "critical": 0,
+              "haste": 5,
+              "mastery": 6,
+              "versatility": 0,
+
+              "source_url": "[Pandaria BoE]",
+              "rarity": 3,
+              "note": "ilvl 28 requires a lvl 22 farmer, ilvl 26 - a lvl 22 one"
+            },
+            {
+              "name": "Endwyn's Toothy Visage",
+              "item_url": "https://www.wowhead.com/item=87453?ilvl=28",
+
+              "sockets": "Meta + 1",
+              "armor": 18,
+              "main_stat": 5,
+              "stamina": 13,
+              "critical": 6,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "[Pandaria BoE]",
+              "rarity": 3,
+              "note": "ilvl 28 requires a lvl 22 farmer, ilvl 26 - a lvl 22 one"
+            }
+          ]
+        },
+        {
+          "name": "Shoulders",
+          "items": [
+            {
+              "name": "Shoulderplates of the Vigilant",
+              "item_url": "https://www.wowhead.com/item=119383?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 15,
+              "main_stat": 7,
+              "stamina": 5,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=88436|Vigilant Paarthos@Talador",
+              "rarity": 2,
+              "note": "Farmable daily."
+            },
+            {
+              "name": "Truth Bearer Shoulderguards",
+              "item_url": "https://www.wowhead.com/item=24457?ilvl=25",
+
+              "sockets": 2,
+              "armor": 15,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 7,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17826|Swamplord Musel'ek@The Underbog",
+              "rarity": 1
+            },
+            {
+              "name": "Doomplate Shoulderguards",
+              "item_url": "https://www.wowhead.com/item=27771?ilvl=25",
+
+              "sockets": 2,
+              "armor": 15,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17882|The Black Stalker@The Underbog",
+              "rarity": 1,
+              "note": "Only good with the set bonus. Use the gloves."
+            }
+          ]
+        },
+        {
+          "name": "Chest",
+          "items": [
+            {
+              "name": "The Exarch's Protector",
+              "item_url": "https://www.wowhead.com/item=29337?ilvl=25",
+
+              "sockets": 3,
+              "armor": 22,
+              "main_stat": 6,
+              "stamina": 12,
+              "critical": 6,
+              "haste": "Dodge +7",
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=29596@Auchenai Crypts",
+              "rarity": 1
+            },
+            {
+              "name": "Breastplate of Righteous Fury",
+              "item_url": "https://www.wowhead.com/item=28337?ilvl=25",
+
+              "sockets": 3,
+              "armor": 22,
+              "main_stat": 6,
+              "stamina": 10,
+              "critical": 8,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 1,
+
+              "source_url": "https://www.wowhead.com/npc=17942|Quagmirran@The Slave Pens",
+              "rarity": 1
+            }
+          ]
+        },
+        {
+          "name": "Wrist",
+          "items": [
+            {
+              "name": "Vicemaul Wristpinchers",
+              "item_url": "https://www.wowhead.com/item=160474?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 11,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 3,
+
+              "source_url": "https://www.wowhead.com/npc=127651|Vicemaul@Drustvar",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Concealed Fencing Plates",
+              "item_url": "https://www.wowhead.com/item=158311?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 11,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 3,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=129431|Captain Eudora@Freehold",
+              "rarity": 2
+            },
+            {
+              "name": "Bands of Fading Light",
+              "item_url": "https://www.wowhead.com/item=37590?ilvl=25",
+
+              "sockets": 1,
+              "armor": 11,
+              "main_stat": 3,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "[Utgarde Pinnacle BoE]",
+              "rarity": 2
+            }
+          ]
+        },
+        {
+          "name": "Hands",
+          "items": [
+            {
+              "name": "Marshqueen's Crushers",
+              "item_url": "https://www.wowhead.com/item=161111?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 12,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/npc=133539|Lo'Kuno@Nazmir",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Doomplate Gauntlets",
+              "item_url": "https://www.wowhead.com/item=27497?ilvl=25",
+
+              "sockets": 2,
+              "armor": 12,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 1,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17377|Keli'dan the Breaker@The Blood Furnace",
+              "rarity": 1,
+              "note": "Only good with the socket bonus. Use with shoulders."
+            },
+            {
+              "name": "Ironblade Gauntlets",
+              "item_url": "https://www.wowhead.com/item=24387?ilvl=25",
+
+              "sockets": 2,
+              "armor": 12,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 10,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=17381|The Maker@The Blood Furnace",
+              "rarity": 1
+            },
+            {
+              "name": "Faith Bearer's Gauntlets",
+              "item_url": "https://www.wowhead.com/item=25942?ilvl=25",
+
+              "sockets": 2,
+              "armor": 12,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 7,
+              "haste": 3,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=18341|Pandemonius@Mana-Tombs",
+              "rarity": 1
+            },
+            {
+              "name": "Death Grips",
+              "item_url": "https://www.wowhead.com/item=18722?ilvl=25",
+
+              "sockets": 0,
+              "armor": 12,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 10,
+
+              "source_url": "https://www.wowhead.com/npc=10435|Magistrate Barthilas@Stratholme",
+              "rarity": 1
+            },
+            {
+              "name": "Gauntlets of Vindication",
+              "item_url": "https://www.wowhead.com/item=27798?ilvl=25",
+
+              "sockets": 2,
+              "armor": 13,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=18344|Nexus-Prince Shaffar@Mana-Tombs",
+              "rarity": 1
+            }
+          ]
+        },
+        {
+          "name": "Waist",
+          "items": [
+            {
+              "name": "Barksnapper Girdle",
+              "item_url": "https://www.wowhead.com/item=160475?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 12,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 3,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=130143|Balethorn@Drustvar",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Studded Girdle of Virtue",
+              "item_url": "https://www.wowhead.com/item=24458?ilvl=25",
+
+              "sockets": 2,
+              "armor": 12,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 3,
+
+              "source_url": "https://www.wowhead.com/npc=18105|Ghaz'an@The Underbog",
+              "rarity": 1
+            },
+            {
+              "name": "Deathforge Girdle",
+              "item_url": "https://www.wowhead.com/item=27985?ilvl=25",
+
+              "sockets": 2,
+              "armor": 12,
+              "main_stat": "6 str<br>5 int",
+              "stamina": 7,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=18473|Talon King Ikiss@Sethekk Halls",
+              "rarity": 1
+            }
+          ]
+        },
+        {
+          "name": "Legs",
+          "items": [
+            {
+              "name": "Greaves of the Martyr",
+              "item_url": "https://www.wowhead.com/item=30536?ilvl=25",
+
+              "sockets": 3,
+              "armor": 19,
+              "main_stat": "7 str<br>6 int",
+              "stamina": 10,
+              "critical": 7,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=18096|Epoch Hunter@Old Hilsbrad Foothills",
+              "rarity": 2
+            }
+          ]
+        },
+        {
+          "name": "Feet",
+          "items": [
+            {
+              "name": "Sha'tari Wrought Greaves",
+              "item_url": "https://www.wowhead.com/item=28176?ilvl=25",
+
+              "sockets": 2,
+              "armor": 15,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=29644@Shadow Labyrinth",
+              "rarity": 1
+            },
+            {
+              "name": "Sabatons of Erekem",
+              "item_url": "https://www.wowhead.com/item=43405?ilvl=25",
+
+              "sockets": 1,
+              "armor": 14,
+              "main_stat": "6 int<br>5 str",
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 10,
+
+              "source_url": "https://www.wowhead.com/npc=29315|Erekem@The Violet Hold",
+              "rarity": 1
+            },
+            {
+              "name": "The Obliterator Greaves",
+              "item_url": "https://www.wowhead.com/item=43402?ilvl=25",
+
+              "sockets": 1,
+              "armor": 14,
+              "main_stat": "6 int<br>5 str",
+              "stamina": 7,
+              "critical": 5,
+              "haste": 7,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=29314|Zuramat the Obliterator@The Violet Hold",
+              "rarity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Off-set",
+      "categories": [
+        {
+          "name": "Neck",
+          "items": [
+            {
+              "name": "Necklace of the Deep",
+              "item_url": "https://www.wowhead.com/item=32508?ilvl=19",
+
+              "sockets": 2,
+              "armor": 0,
+              "main_stat": 3,
+              "stamina": 3,
+              "critical": 1,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/spell=40514",
+              "rarity": 1
+            },
+            {
+              "name": "Choker of Betrayal",
+              "item_url": "https://www.wowhead.com/item=39653?ilvl=25",
+
+              "sockets": 1,
+              "armor": 0,
+              "main_stat": 5,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=12713@Zul'Drak",
+              "rarity": 1,
+              "note": "Can proc purple."
+            },
+            {
+              "name": "Choker of the Betrayer",
+              "item_url": "https://www.wowhead.com/item=39652?ilvl=25",
+
+              "sockets": 1,
+              "armor": 0,
+              "main_stat": 5,
+              "stamina": 5,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=12713@Zul'Drak",
+              "rarity": 1,
+              "note": "Can proc purple."
+            },
+            {
+              "name": "Betrayer's Choker",
+              "item_url": "https://www.wowhead.com/item=39655?ilvl=25",
+
+              "sockets": 1,
+              "armor": 0,
+              "main_stat": 4,
+              "stamina": 6,
+              "critical": 4,
+              "haste": "Dodge + 3",
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=12713@Zul'Drak",
+              "rarity": 1,
+              "note": "Can proc purple."
+            },
+            {
+              "name": "Unpopped Pustule Pendant",
+              "item_url": "https://www.wowhead.com/item=119230?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=86562|Maniacal Madgard@Gorgrond",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day. The rare is very hard to solo at 20."
+            },
+            {
+              "name": "Three-Egg Pendant Necklace",
+              "item_url": "https://www.wowhead.com/item=119376?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=87351|Mother of Goren@Frostfire Ridge",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
+            },
+            {
+              "name": "Void-Touched Diamond Necklace",
+              "item_url": "https://www.wowhead.com/item=119377?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "https://www.wowhead.com/npc=84911|Demidos@Shadowmoon Valley",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
+            },
+            {
+              "name": "Armsmaster's Sealed Locket",
+              "item_url": "https://www.wowhead.com/item=88273?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 23,
+
+              "source_url": "https://www.wowhead.com/npc=58632|Armsmaster Harlan@Scarlet Halls",
+              "rarity": 1
+            },
+            {
+              "name": "Gemshard Heart",
+              "item_url": "https://www.wowhead.com/item=17707?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 16,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=12201|Princess Theradras@Maraudon",
+              "rarity": 1
+            },
+            {
+              "name": "Hook Charm Necklace",
+              "item_url": "https://www.wowhead.com/item=151437?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 15,
+              "mastery": 0,
+              "versatility": 8,
+
+              "source_url": "https://www.wowhead.com/npc=74505|Thruk@Blackfathom Deeps",
+              "rarity": 1
+            },
+            {
+              "name": "Tempest Talisman",
+              "item_url": "https://www.wowhead.com/item=18317?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 8,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 14,
+
+              "source_url": "https://www.wowhead.com/npc=13280|Hydrospawn@Dire Maul",
+              "rarity": 1
+            },
+            {
+              "name": "Brysngamen, Torc of Helheim",
+              "item_url": "https://www.wowhead.com/item=133636?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 16,
+              "versatility": 6,
+
+              "source_url": "https://www.wowhead.com/npc=96759|Helya@Maw of Souls",
+              "rarity": 2
+            },
+            {
+              "name": "Raven Filigree Pendant",
+              "item_url": "https://www.wowhead.com/item=134499?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 8,
+              "versatility": 14,
+
+              "source_url": "https://www.wowhead.com/npc=98970|Latosius@Black Rook Hold",
+              "rarity": 2
+            },
+            {
+              "name": "Chaos-Forged Necklace",
+              "item_url": "https://www.wowhead.com/item=137458?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 12,
+              "versatility": 10,
+
+              "source_url": "https://www.wowhead.com/npc=102446|Fel Lord Betrug@Violet Hold",
+              "rarity": 2
+            },
+            {
+              "name": "Necklace of Disorientation",
+              "item_url": "https://www.wowhead.com/item=144130/necklace-of-disorientation?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 13,
+              "versatility": 10,
+
+              "source_url": "https://www.wowhead.com/npc=56719|Sha of Violence@Shado-Pan Monastery",
+              "rarity": 2
+            },
+            {
+              "name": "The Blood-Thane's Amulet",
+              "item_url": "https://www.wowhead.com/item=129329?ilvl=24",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 7,
+              "mastery": 14,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=42641@Stormheim",
+              "rarity": 1,
+              "note": "Can proc blue/purple."
+            },
+            {
+              "name": "Medallion of Morashu",
+              "item_url": "https://www.wowhead.com/item=141647?ilvl=24",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 8,
+              "haste": 0,
+              "mastery": 15,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=39178@Highmountain",
+              "rarity": 1,
+              "note": "Can proc blue/purple."
+            },
+            {
+              "name": "Talisman of Jaimil Lightheart",
+              "item_url": "https://www.wowhead.com/item=141588?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 6,
+              "critical": 17,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 8,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Can be farmed at 20."
+            },
+            {
+              "name": "Queen Yh'saerie's Pendant",
+              "item_url": "https://www.wowhead.com/item=141587?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 14,
+              "mastery": 11,
+              "versatility": 0,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Can be farmed at 20."
+            },
+            {
+              "name": "Charlotte's Ivy",
+              "item_url": "https://www.wowhead.com/item=31338?ilvl=26",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "[Outland dungeon BoE]",
+              "rarity": 3,
+              "note": "Only good with set bonus."
+            }
+          ]
+        },
+        {
+          "name": "Back",
+          "items": [
+            {
+              "name": "Quillstitch Greatcloak",
+              "item_url": "https://www.wowhead.com/item=158583/quillstitch-greatcloak?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 5,
+              "haste": 0,
+              "mastery": 3,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=125453|Quillrat Matriarch@Drustvar",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Parrotfeather Cloak",
+              "item_url": "https://www.wowhead.com/item=155884?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 4,
+              "haste": 0,
+              "mastery": 3,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=126832|Skycap'n Kragg@Freehold",
+              "rarity": 2,
+              "note": ""
+            },
+            {
+              "name": "Drape of the Loyal Vassal",
+              "item_url": "https://www.wowhead.com/item=158375?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 3,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=122965|Vol'kaal@Atal'Dazar",
+              "rarity": 2
+            },
+            {
+              "name": "Sauroscale Cloak of Adaptation",
+              "item_url": "https://www.wowhead.com/item=160984?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 4,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 3,
+
+              "source_url": "https://www.wowhead.com/npc=126637|Kandak@Zuldazar",
+              "rarity": 1,
+              "note": "You only get one chance to obtain this."
+            },
+            {
+              "name": "Yal's Leafwrap Cloak",
+              "item_url": "https://www.wowhead.com/item=119414?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 4,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=88583|Grove Warden Yal@Gorgrond",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
+            },
+            {
+              "name": "Craven Coward's Cloak",
+              "item_url": "https://www.wowhead.com/item=119349?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 4,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=87352|Gibblette the Cowardly@Frostfire Ridge",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
+            },
+            {
+              "name": "Garyl's Riding Blanket",
+              "item_url": "https://www.wowhead.com/item=155571?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 2,
+              "mastery": 5,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/object=279750|Hay Covered Chest@Tiragarde Sound",
+              "rarity": 1,
+              "note": "You can only loot this once."
+            },
+            {
+              "name": "Treia's Handcrafted Shroud",
+              "item_url": "https://www.wowhead.com/item=141589?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 6,
+              "critical": 5,
+              "haste": 3,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Farmable at 20."
+            },
+            {
+              "name": "Cloak of Martayl Oceanstrider",
+              "item_url": "https://www.wowhead.com/item=141590?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 0,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 6,
+              "versatility": 2,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Farmable at 20."
+            }
+          ]
+        },
+        {
+          "name": "Finger",
+          "items": [
+            {
+              "name": "Ring of Incomplete Digestion",
+              "item_url": "https://www.wowhead.com/item=160987?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 13,
+              "mastery": 10,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=124375|Overstuffed Saurolisk@Nazmir",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Glompmaw's Ring",
+              "item_url": "https://www.wowhead.com/item=160985?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 12,
+              "mastery": 0,
+              "versatility": 11,
+
+              "source_url": "https://www.wowhead.com/npc=121242|Glompmaw@Nazmir",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Lazy-Baker's Ring",
+              "item_url": "https://www.wowhead.com/item=155560?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 13,
+              "versatility": 10,
+
+              "source_url": "https://www.wowhead.com/npc=139358|The Caterer@Drustvar",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Band of Seething Manifest",
+              "item_url": "https://www.wowhead.com/item=158598?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 12,
+              "haste": 0,
+              "mastery": 11,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/object=277897|Seething Cache@Drustvar",
+              "rarity": 1,
+              "note": "One time drop."
+            },
+            {
+              "name": "Precious Bloodthorn Loop",
+              "item_url": "https://www.wowhead.com/item=113082?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 4,
+              "stamina": 4,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 8,
+
+              "source_url": "https://www.wowhead.com/npc=76380|Gorum@Shadowmoon Valley",
+              "rarity": 1,
+              "note": "Can proc purple."
+            },
+            {
+              "name": "Electrocutioner Lagnut",
+              "item_url": "https://www.wowhead.com/item=9447?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 23,
+
+              "source_url": "https://www.wowhead.com/npc=6235|Electrocutioner 6000@Gnomeregan",
+              "rarity": 1
+            },
+            {
+              "name": "Seal of the Regal Loa",
+              "item_url": "https://www.wowhead.com/item=159458?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 9,
+              "mastery": 0,
+              "versatility": 14,
+
+              "source_url": "https://www.wowhead.com/npc=122963|Rezan@Atal'Dazar",
+              "rarity": 2
+            },
+            {
+              "name": "Seal of Questionable Loyalties",
+              "item_url": "https://www.wowhead.com/item=158314?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 7,
+              "haste": 16,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=129431|Captain Eudora@Freehold",
+              "rarity": 2
+            },
+            {
+              "name": "Frosted Icequartz Ring",
+              "item_url": "https://www.wowhead.com/item=119415?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 5,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=87348|Hoarfrost@Frostfire Ridge",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
+            },
+            {
+              "name": "Loop of Drowned Souls",
+              "item_url": "https://www.wowhead.com/item=119387?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 4,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=86213|Aqualir@Shadowmoon Valley",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
+            },
+            {
+              "name": "Swamprock Salvage Band",
+              "item_url": "https://www.wowhead.com/item=131797?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 14,
+              "versatility": 9,
+
+              "source_url": "https://www.wowhead.com/npc=98311|Mrrklr@Highmountain",
+              "rarity": 1,
+              "note": "You only get one chance to loot this."
+            },
+            {
+              "name": "Ring of Minute Mirrors",
+              "item_url": "https://www.wowhead.com/item=137533?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 14,
+              "versatility": 9,
+
+              "source_url": "https://www.wowhead.com/npc=95887|Glazer@Vault of the Wardens",
+              "rarity": 1
+            },
+            {
+              "name": "Cutwater-Captain's Sapphire Ring",
+              "item_url": "https://www.wowhead.com/item=155381?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 14,
+              "mastery": 0,
+              "versatility": 9,
+
+              "source_url": "https://www.wowhead.com/object=281397|Cutwater Treasure Chest@Tiragarde Sound",
+              "rarity": 1,
+              "note": "You only have a 1 chance for this drop."
+            },
+            {
+              "name": "Lime-Rimmed Signet",
+              "item_url": "https://www.wowhead.com/item=144123?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 11,
+              "versatility": 12,
+
+              "source_url": "https://www.wowhead.com/npc=59479|Yan-Zhu the Uncasked@Stormstout Brewery",
+              "rarity": 2
+            },
+            {
+              "name": "Ring of the Dread Pirate Bob",
+              "item_url": "https://www.wowhead.com/item=129070?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 15,
+              "mastery": 0,
+              "versatility": 8,
+
+              "source_url": "https://www.wowhead.com/object=240354|Genuinely Unguarded Treasure@Azsuna",
+              "rarity": 1
+            },
+            {
+              "name": "Blistering Seawater Seal",
+              "item_url": "https://www.wowhead.com/item=161446?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 13,
+              "haste": 10,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=132179|Raging Swell@Tiragarde Sound",
+              "rarity": 1,
+              "note": "You get only 1 chance on this drop."
+            },
+            {
+              "name": "Shadowmight Ring",
+              "item_url": "https://www.wowhead.com/item=43249?ilvl=19",
+
+              "sockets": 2,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 1,
+              "critical": 2,
+              "haste": 6,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/spell=58146",
+              "rarity": 1
+            },
+            {
+              "name": "Penny's Friendship Ring",
+              "item_url": "https://www.wowhead.com/item=160087?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 12,
+              "versatility": 10,
+
+              "source_url": "https://www.wowhead.com/quest=50005@Tiragarde Sound",
+              "rarity": 1,
+              "note": "Can proc blue/purple."
+            },
+            {
+              "name": "Swiftfeather Band",
+              "item_url": "https://www.wowhead.com/item=130021?ilvl=24",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 14,
+              "mastery": 7,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=38225@Val'Sharah",
+              "rarity": 1,
+              "note": "Can proc blue/purple."
+            },
+            {
+              "name": "Band of Demonic Guile",
+              "item_url": "https://www.wowhead.com/item=129172?ilvl=24",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 7,
+              "haste": 0,
+              "mastery": 14,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/quest=37660@Azsuna",
+              "rarity": 1,
+              "note": "Can proc blue/purple."
+            },
+            {
+              "name": "Soul of the Sea",
+              "item_url": "https://www.wowhead.com/item=160261?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 10,
+              "versatility": 12,
+
+              "source_url": "https://www.wowhead.com/quest=49409@Tiragarde Sound",
+              "rarity": 1,
+              "note": "Can proc blue/purple."
+            },
+            {
+              "name": "Beastbinder Ring",
+              "item_url": "https://www.wowhead.com/item=88265?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 16,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=59303|Houndmaster Braun@Scarlet Halls",
+              "rarity": 1
+            },
+            {
+              "name": "Seal of Rivendare",
+              "item_url": "https://www.wowhead.com/item=13345?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 6,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 16,
+
+              "source_url": "https://www.wowhead.com/npc=45412|Lord Aurius Rivendare@Stratholme",
+              "rarity": 1
+            },
+            {
+              "name": "Blackstone Ring",
+              "item_url": "https://www.wowhead.com/item=17713?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 12,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 11,
+
+              "source_url": "https://www.wowhead.com/npc=12201|Princess Theradras@Maraudon",
+              "rarity": 1
+            },
+            {
+              "name": "Vastly Oversized Ring",
+              "item_url": "https://www.wowhead.com/item=141580?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 6,
+              "critical": 25,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Farmable at 20"
+            },
+            {
+              "name": "Fran's Intractable Loop",
+              "item_url": "https://www.wowhead.com/item=141582?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 25,
+              "mastery": 0,
+              "versatility": 0,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Farmable at 20"
+            },
+            {
+              "name": "Demar's Band of Amore",
+              "item_url": "https://www.wowhead.com/item=141581?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 25,
+              "versatility": 0,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Farmable at 20"
+            },
+            {
+              "name": "Sameed's Vision Ring",
+              "item_url": "https://www.wowhead.com/item=141583?ilvl=28",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 6,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 25,
+
+              "source_url": "[Legion BoE]",
+              "rarity": 3,
+              "note": "Farmable at 20"
+            },
+            {
+              "name": "Lola's Eve",
+              "item_url": "https://www.wowhead.com/item=31339?ilvl=26",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 5,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 5,
+
+              "source_url": "[Outland dungeon BoE]",
+              "rarity": 3,
+              "note": "Only good with set bonus."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

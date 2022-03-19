@@ -1,0 +1,43 @@
+/* ------------------------------------------------------------ *\
+  legend
+\* ------------------------------------------------------------ */
+
+.legend {
+  border: solid 1px var(--c-dark-3);
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.legend h4 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.legend span[class^="rarity-"] {
+  display: block;
+}
+
+.legend span[class^="rarity-"]::before {
+  content: "";
+  width: 10px;
+  height: 40px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.legend span.rarity-1::before {
+  background-color: limegreen;
+}
+
+.legend span.rarity-2::before {
+  background-color: yellow;
+}
+
+.legend span.rarity-3::before {
+  background-color: orange;
+}
+
+.legend span.rarity-4::before {
+  background-color: red;
+}

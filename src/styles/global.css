@@ -3,13 +3,13 @@
 \* ------------------------------------------------------------ */
 
 .wrapper {
-	position: relative;
-	min-height: 100vh;
-	background-image: url(../assets/images/background.jpg);
-	background-size: cover;
-	background-position: center center;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
+  position: relative;
+  min-height: 100vh;
+  background-image: url(../assets/images/background.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 /* ------------------------------------------------------------ *\
@@ -185,35 +185,35 @@ ul.widgets {
   tabs
 \* ------------------------------------------------------------ */
 
-  .tabs .tabs__nav ul {
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-  }
+.tabs .tabs__nav ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
 
-  .tabs .tabs__nav li {
-    margin-right: 2px;
-    margin-bottom: 2px;
-  }
+.tabs .tabs__nav li {
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
 
-  .tabs .tabs__nav button {
-    background-color: var(--c-dark-3);
-    display: block;
-    padding: 7px 25px;
-    text-decoration: none;
-    outline: none;
-    border: none;
-  }
+.tabs .tabs__nav a {
+  background-color: var(--c-dark-3);
+  display: block;
+  padding: 7px 25px;
+  text-decoration: none;
+  outline: none;
+  border: none;
+}
 
-  .tabs .tabs__nav button:hover {
-    background-color: var(--c-dark-2);
-  }
+.tabs .tabs__nav a:hover {
+  background-color: var(--c-dark-2);
+}
 
-  .tabs .tabs__nav button.active {
-    background-color: var(--c-black);
-  }
+.tabs .tabs__nav a.active {
+  background-color: var(--c-black);
+}
 
-  .tab {
-    padding: 20px 0 0;
-  }
+.tab {
+  padding: 20px 0 0;
+}

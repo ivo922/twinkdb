@@ -1,0 +1,1143 @@
+{
+  "classes": [
+    {
+      "name": "Death Knight",
+      "name_handle": "deathknight",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Unholy",
+          "spec_handle": "unholy",
+          "class": "Death Knight",
+          "class_handle": "deathknight",
+          "title": "Thanã's Unholy DK for Veterans",
+          "stat_priority": "Strength > Mastery > Haste",
+          "type": "VET",
+          "author": "Thanã",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=27408/hope-bearer-helm?bonus=6710&ilvl=25]]\n",
+            "Neck: ilvl 28 Legion BoE Feverflare + Socket\n",
+            "Shoulders: ilvl 28 Legion BoE Feverflare + Socket\n",
+            "Back: ilvl 28 Legion BoE Feverflare + Socket / [[https://www.wowhead.com/item=155571/garyls-riding-blanket?bonus=4777:1474&ilvl=25]] / [[https://www.wowhead.com/item=158375/drape-of-the-loyal-vassal?bonus=4777:1473&ilvl=25]]\n",
+            "Chest: [[https://www.wowhead.com/item=28337/breastplate-of-righteous-fury?bonus=6710&ilvl=25]] / ilvl 28 Legion BoE Feverflare + Socket\n",
+            "Wrists: ilvl 28 Legion BoE Feverflare + Socket\n",
+            "Hands: [[https://www.wowhead.com/item=24387/ironblade-gauntlets?bonus=6710&ilvl=25]] / [[https://www.wowhead.com/item=25942/faith-bearers-gauntlets?bonus=6710&ilvl=25]] / ilvl 28 Legion BoE Feverflare + Socket\n",
+            "Waist: ilvl 28 Legion BoE Feverflare + Socket\n",
+            "Legs: [[https://www.wowhead.com/item=30536/greaves-of-the-martyr?bonus=6710&ilvl=25]]\n",
+            "Boots: ilvl 28 Legion BoE Feverflare + Socket\n",
+            "Rings: ilvl 28 Legion BoE Feverflare + Socket (you are looking for a balance of haste & mastery; i.e.: 10/15 ringslot 1 = 15/10 ringslot 2)\n",
+            "Trinket 1: [[https://www.wowhead.com/item=74034/pit-fighter]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=137538/orb-of-torment?bonus=1826:1472&ilvl=25]] / ilvl 28 Legion BoE Strength + Mastery + Socket / [[https://www.wowhead.com/item=108902/armored-elekk-tusk?ilvl=25]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=27986/crow-wing-reaper?bonus=6710&ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=141909/enchant-neck-mark-of-the-trained-soldier]]\n",
+            "Back: [[https://www.wowhead.com/item=38973/enchant-cloak-minor-power]] + [[https://www.wowhead.com/spell=126392/goblin-glider]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/spell=20010/superior-strength]]\n",
+            "Hands: [[https://www.wowhead.com/item=74721/enchant-gloves-super-strength]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200/spinal-healing-injector]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124569/draconic-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=74718/enchant-boots-pandarens-step]]\n",
+            "Rings: [[https://www.wowhead.com/item=128543/enchant-ring-binding-of-mastery]]\n",
+            "Main Hand: [[https://www.wowhead.com/spell=20034/crusader]]\n"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=40111/bold-cardinal-ruby]] / [[https://www.wowhead.com/item=32193/bold-crimson-spinel]] / [[https://www.wowhead.com/item=40129/sovereign-dreadstone]] / [[https://www.wowhead.com/item=32211/sovereign-shadowsong-amethyst]] / [[https://www.wowhead.com/item=40146/fierce-ametrine]] (read notes)\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/alchemists-flask]]\n",
+            "Food: [[https://www.wowhead.com/item=138478/feast-of-ribs]] / [[https://www.wowhead.com/item=20452/smoked-desert-dumplings]]\n",
+            "Misc: [[https://www.wowhead.com/item=40771/cobalt-frag-bomb]]"
+          ],
+          "notes": [
+            "Far from the best DK, but definitely one of the most /played ones in EU 20 (:\n",
+            "We are looking for around 170-175 Strength (unbuffed & no pots) with 30% haste and 50% mastery while staying at 2,1-2,3k HP openworld.\n\n",
+            "The gems to be used are going to be based on how much haste and HP you have in an ungemmed build. Once on the preferred stats mentioned above we will switch to +3 gems and dump the rest in Strength.\n",
+            "I myself have 2/2 Str+Stam gems in my TBC chest & Gloves & +3 in my TBC legs with 2/2 Str+Haste in my BoE items.\n\n",
+            "Versatility is an ignored stat because the damage multiplier is outperformed by Mastery and the negation is barely noticeable.\n",
+            "If you like the big burst setup every couple of minutes you could go for full Harmonious (Versa heavy) gear (with previously mentioned TBC pieces) in full str stam gems with following trinkets and weapon: [[https://www.wowhead.com/item=110017?ilvl=25]] & [[https://www.wowhead.com/item=108902/armored-elekk-tusk?ilvl=25]] & [[https://www.wowhead.com/item=28222/reaver-of-the-infinites?ilvl=25]] (The burst difference between the 2 builds is nothing otherworldly/gamebreaking and the Versa build makes general gameplay tedious, slow and boring IMO)\n\n",
+            "You will ALWAYS be running [[https://www.wowhead.com/spell=207311/clawing-shadows]] as your talent of choice.\n",
+            "PvP talents are flexible:\n",
+            "-  [[https://www.wowhead.com/spell=77606/dark-simulacrum]] vs high caster teams\n",
+            "-  [[https://www.wowhead.com/spell=210128/reanimation]] vs a lot of melee / hunters\n",
+            "-  [[https://www.wowhead.com/spell=288855/life-and-death]] high dot dmg for board giggles\n"
+          ],
+          "stats": [
+            "Strength > Mastery > Haste > Crit + 2,2k HP in open world"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    },
+    {
+      "name": "Demon Hunter",
+      "name_handle": "demonhunter",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Havoc",
+          "spec_handle": "havoc",
+          "class": "Demon Hunter",
+          "class_handle": "demonhunter",
+          "title": "Ultimate Havoc Build",
+          "stat_priority": "Agility > Versatility > Haste > Mastery = Critical",
+          "type": "VET",
+          "author": "Batchee",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=28348/moonglade-cowl?bonus=6710&ilvl=25]]\n",
+            "Neck: ilvl 28 Legion BoE of the Aurora\n",
+            "Shoulders: [[https://www.wowhead.com/item=27434/mantle-of-perenolde?bonus=6710&ilvl=25]]\n",
+            "Back: ilvl 28 BoE of the Aurora with socket / [[https://www.wowhead.com/item=141590?ilvl=28]] with socket / [[https://www.wowhead.com/item=119349?ilvl=25]] with socket / [[https://www.wowhead.com/item=158375?ilvl=25]] with socket\n",
+            "Chest: [[https://www.wowhead.com/item=28202/moonglade-robe?bonus=6710&ilvl=25]]\n",
+            "Wrists: ilvl 28 BoE of the Aurora / [[https://www.wowhead.com/item=158305?ilvl=25]] with socket / [[https://www.wowhead.com/item=28171/spymistress-wristguards?bonus=6710&ilvl=25]]\n",
+            "Hands: ilvl 28 BoE of the Aurora / [[https://www.wowhead.com/item=24365/deft-handguards?bonus=6710&ilvl=25]]\n",
+            "Waist: ilvl 28 BoE of the Aurora / [[https://www.wowhead.com/item=161092?ilvl=25]] with socket / [[https://www.wowhead.com/item=28124/liars-cord?bonus=6710&ilvl=25]]\n",
+            "Legs: [[https://www.wowhead.com/item=27492/moonchild-leggings?bonus=6710&ilvl=25]]\n",
+            "Boots: ilvl 28 BoE of the Aurora / [[https://www.wowhead.com/item=28339/boots-of-the-shifting-sands?bonus=6710&ilvl=25]]\n",
+            "Rings: ilvl 28 BoE of the Aurora / [[https://www.wowhead.com/item=141582?ilvl=28]] with socket / [[https://www.wowhead.com/item=141583?ilvl=28]] with socket / [[https://www.wowhead.com/item=160985/glompmaws-ring?bonus=4777:1474&ilvl=25]] with socket / [[https://www.wowhead.com/item=155560/lazy-bakers-ring?bonus=4777:1474&ilvl=25]] / [[https://www.wowhead.com/item=159458?ilvl=25]] with socket / [[https://www.wowhead.com/item=155381?ilvl=25]] with socket\n",
+            "Trinkets: [[https://www.wowhead.com/item=128958/lekos-leash?ilvl=25]] / [[https://www.wowhead.com/item=77530/ghost-iron-dragonling?ilvl=19&gems=59496:59479:59479]] / [[https://www.wowhead.com/item=122370/inherited-insignia-of-the-horde?bonus=0&ilvl=24]] / [[https://www.wowhead.com/item=87495/gerps-perfect-arrow?ilvl=28]] / ilvl 28 Legion BoE with socket + tertiary / [[https://www.wowhead.com/item=113024/reliable-threat-assessor?ilvl=24]] / [[https://www.wowhead.com/item=108902/armored-elekk-tusk?bonus=6691&ilvl=25]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=37749/shocking-claws?bonus=6659&ilvl=27]] / ilvl 25 BFA BoE socket / [[https://www.wowhead.com/item=29348/the-bladefist?bonus=6710&ilvl=25]] / [[https://www.wowhead.com/item=10847/dragons-call?ilvl=26]]\n",
+            "Off Hand: ilvl 25 BFA BoE with socket / [[https://www.wowhead.com/item=27846/claw-of-the-watcher?bonus=6710&ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128553/enchant-neck-mark-of-the-hidden-satyr]]\n",
+            "Back: [[https://www.wowhead.com/item=38973/enchant-cloak-minor-power]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=68784/enchant-bracer-agility]]\n",
+            "Hands: [[https://www.wowhead.com/item=44458/enchant-gloves-crusher]]\n",
+            "Waist: [[https://www.wowhead.com/spell=54793/frag-belt]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124559/primal-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=74717/enchant-boots-blurred-speed]] / [[https://www.wowhead.com/item=52781/enchant-boots-assassins-step]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38871/enchant-weapon-lifestealing]] / [[https://www.wowhead.com/spell=104430/elemental-force]] / [[https://www.wowhead.com/item=44466/enchant-weapon-superior-potency]] (burst build)\n",
+            "Off Hand: [[https://www.wowhead.com/spell=104430/elemental-force]] / [[https://www.wowhead.com/item=44466/enchant-weapon-superior-potency]] (burst build)"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=40130/shifting-dreadstone]] or [[https://www.wowhead.com/item=32212/shifting-shadowsong-amethyst]]\nIf you prefer damage over survability, mix and match [[https://www.wowhead.com/item=28362/delicate-ornate-ruby]]/[[https://www.wowhead.com/item=32194/delicate-crimson-spinel]]/[[https://www.wowhead.com/item=40112/delicate-cardinal-ruby]] and [[https://www.wowhead.com/item=40150/deft-ametrine]], try to hit 24% haste(20% in bg)\n",
+            "Meta gem: [[https://www.wowhead.com/item=32640/tense-unstable-diamond]]"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/]]\n",
+            "Food: [[https://www.wowhead.com/item=13928/grilled-squid]]"
+          ],
+          "notes": [
+            "Avoid giving up your total amount of possible offstats to maintain the stat priority. Your versatility should be your dominating offstat, but try to hit 24% haste (20% in BG) as well, and then start to prefer mastery over haste. You should already have enough crit from TBC gear and the meta gem.\n",
+            "The choice of trinkets depends on your playstyle, what classes you're against, how often you get in combat, there's too many factors to prefer one trinket over another.\n",
+            "For gear that isn't from TBC dungeons, prefer the gear that dropped with a socket, or secondly, a speed/leech tertiary stat.\n",
+            "In the average fight with base mastery %... The damage meter reported chaos damage were only doing 40% or less of the total damage in most fights- considering 1 mastery stat only increases the chaos damage by 0.45%, that makes haste a prefered second stat.\n",
+            "However, if you prefer running mastery anyway, you can try your luck with the Blind Fury burst build, this build is seemingly stronger if players don't interrupt your eye beam and die quickly within your burst opening or when you're in Metamorphosis form.\n",
+            "The stat priority for the burst build is agility > vers = mastery > crit = haste. Simply interpret aurora gear as harmonious gear.\n",
+            "There's no best build, only best at."
+          ],
+          "stats": [
+            "Agility > Versatility > Haste > Mastery = Critical"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "2",
+          "spec": "Vengeance",
+          "spec_handle": "vengeance",
+          "class": "Demon Hunter",
+          "class_handle": "demonhunter",
+          "title": "Flag-carrier DH",
+          "stat_priority": "Stamina > Versatility > Mastery",
+          "type": "VET",
+          "author": "Dukon",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=27409?ilvl=25]]\n",
+            "Neck: [[https://www.wowhead.com/item=32508?ilvl=19]]\n",
+            "Shoulders: [[https://www.wowhead.com/item=27737?ilvl=25]]\n",
+            "Back: iLvl 28 BoE Adaptaple + socket / Harmonious can also work, but try to get Adaptable, if not - go with high vers Harmonious\n",
+            "Chest: [[https://www.wowhead.com/item=28202?ilvl=25]]\n",
+            "Wrists: iLvl 28 BoE Adaptaple + socket / Harmonious can also work, but try to get Adaptable, if not - go with high vers Harmonious / [[https://www.wowhead.com/item=28171?ilvl=25]]\n",
+            "Hands: [[https://www.wowhead.com/item=24452?ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=28124?ilvl=25]]\n",
+            "Legs: [[https://www.wowhead.com/item=27492?ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=28339?ilvl=25]]\n",
+            "Ring 1: iLvl 28 BoE Adaptaple + socket / Harmonious can also work, but try to get Adaptable, if not - go with high vers Harmonious / [[https://www.wowhead.com/item=155560/lazy-bakers-ring?bonus=4802&ilvl=25]] (with socket)\n",
+            "Ring 2: [[https://www.wowhead.com/item=43249?ilvl=19]]\n",
+            "Trinket 1: [[https://www.wowhead.com/item=122371?ilvl=24]] / [[https://www.wowhead.com/item=122370?ilvl=24]]\n",
+            "Trinket 2: See notes.\n",
+            "Main Hand: [[https://www.wowhead.com/item=27846&ilvl=25]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=27846&ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=141908/enchant-neck-mark-of-the-heavy-hide]]\n",
+            "Shoulders: [[https://www.wowhead.com/spell=86402/inscription-of-the-earth-prince]]\n",
+            "Back: [[https://www.wowhead.com/item=39001/enchant-cloak-mighty-stamina]] + [[https://www.wowhead.com/spell=126392/goblin-glider]]\n",
+            "Chest: [[https://www.wowhead.com/item=38989/enchant-chest-super-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=44947/enchant-bracer-major-stamina]]\n",
+            "Hands: [[https://www.wowhead.com/item=38967/enchant-gloves-major-agility]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200/spinal-healing-injector]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124568/heavy-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=39006/enchant-boots-tuskarrs-vitality]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=112115/enchant-weapon-mark-of-shadowmoon]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=112160/enchant-weapon-mark-of-blackrock]]"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=32200/solid-empyrean-sapphire]] / [[https://www.wowhead.com/item=40119/solid-majestic-zircon]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=13447/elixir-of-the-sages]] + [[https://www.wowhead.com/item=3825/elixir-of-fortitude]]\n",
+            "Weapon enchant: [[https://www.wowhead.com/item=20747/lesser-mana-oil]]\n",
+            "Food: [[https://www.wowhead.com/item=138478/feast-of-ribs]]\n",
+            "If you plan on playing solely flag carrier then skip [[https://www.wowhead.com/item=75525/]], if not - go for [[https://www.wowhead.com/item=75525/]], and drop [[https://www.wowhead.com/item=13447/elixir-of-the-sages]]."
+          ],
+          "notes": [
+            "As an Veng DH, you want to stack as much STAMINA as possible. (Keep in mind tank specs take 50 percent increased damage in instanced PVP) This build's goal is to get as many sockets as possible.\n\n",
+
+            "When it comes to flag carrying, there are multiple trinkets, that can be used alongside your PvP trinket. The trinkets are the following:\n",
+              "[[https://www.wowhead.com/item=77530?ilvl=19&gems=59496:59479:59480]], [[https://www.wowhead.com/item=87500/brooch-of-munificent-deeds?ilvl=28]], [[https://www.wowhead.com/item=126948/defending-champion?ilvl=24]], [[https://www.wowhead.com/item=74034]], [[https://www.wowhead.com/item=137440/shivermaws-jawbone?ilvl=25]], [[https://www.wowhead.com/item=27770/argussian-compass?ilvl=25]], [[https://www.wowhead.com/item=37220/essence-of-gossamer?ilvl=25]], for max HP: [[https://www.wowhead.com/item=42341/figurine-ruby-hare?ilvl=19]]\n\n",
+              "These trinkets are situational. Pick the one you like and the one that best suits your playstyle."
+          ],
+          "stats": [
+            "Stamina > Versatilty > Mastery > Haste > Critical"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    },
+    {
+      "name": "Druid",
+      "name_handle": "druid",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Restoration",
+          "spec_handle": "restoration",
+          "class": "Druid",
+          "class_handle": "druid",
+          "title": "Flag-carrier Resto Druid",
+          "stat_priority": "Stamina > Versatility > Haste",
+          "type": "VET",
+          "author": "Dukon",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=27409?ilvl=25]]\n",
+            "Neck: iLvl 28 BoE Adaptaple + socket / Aurora can also work, but try to get Adaptable, if not - go with high vers Aurora\n",
+            "Shoulders: [[https://www.wowhead.com/item=27737?ilvl=25]]\n",
+            "Back: iLvl 28 BoE Adaptaple + socket / Aurora can also work, but try to get Adaptable, if not - go with high vers Aurora\n",
+            "Chest: [[https://www.wowhead.com/item=28202?ilvl=25]]\n",
+            "Wrists: iLvl 28 BoE Adaptaple + socket / Aurora can also work, but try to get Adaptable, if not - go with high vers Aurora\n",
+            "Hands: [[https://www.wowhead.com/item=24452?ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=24395?ilvl=25]] [LEGACY]\n",
+            "Legs: [[https://www.wowhead.com/item=27492?ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=27411?ilvl=25]] [LEGACY]\n",
+            "Rings: iLvl 28 BoE Adaptaple + socket / Aurora can also work, but try to get Adaptable, if not - go with high vers Aurora\n",
+            "Trinket 1: [[https://www.wowhead.com/item=122371?ilvl=24]] / [[https://www.wowhead.com/item=122370?ilvl=24]]\n",
+            "Trinket 2: See notes.\n",
+            "Main Hand: ilvl 25 BFA BoE of the Aurora with high vers + socket / [[https://www.wowhead.com/item=31304&ilvl=27]]\n",
+            "Off Hand: ilvl 25 BFA BoE of the Aurora with high vers + socket / [[https://www.wowhead.com/item=13031?ilvl=27]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=141910/enchant-neck-mark-of-the-ancient-priestess]] / [[https://www.wowhead.com/item=141908/enchant-neck-mark-of-the-heavy-hide]]\n",
+            "Shoulders: [[https://www.wowhead.com/spell=86402/inscription-of-the-earth-prince]]\n",
+            "Back: [[https://www.wowhead.com/item=39001/enchant-cloak-mighty-stamina]] + [[https://www.wowhead.com/spell=126392/goblin-glider]]\n",
+            "Chest: [[https://www.wowhead.com/item=38989/enchant-chest-super-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=44947/enchant-bracer-major-stamina]]\n",
+            "Hands: [[https://www.wowhead.com/item=38935/enchant-gloves-major-spellpower]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200/spinal-healing-injector]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124568/heavy-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=38837/enchant-boots-minor-speed]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38921/enchant-weapon-major-spellpower]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74729/enchant-off-hand-major-intellect]]"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=32200/solid-empyrean-sapphire]] / [[https://www.wowhead.com/item=40119/solid-majestic-zircon]] OR [[https://www.wowhead.com/item=32215/timeless-shadowsong-amethyst]] / [[https://www.wowhead.com/item=40164/timeless-dreadstone]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=13447/elixir-of-the-sages]] + [[https://www.wowhead.com/item=3825/elixir-of-fortitude]]\n",
+            "Weapon enchant: [[https://www.wowhead.com/item=20747/lesser-mana-oil]]\n",
+            "Food: [[https://www.wowhead.com/item=138478/feast-of-ribs]]\n",
+            "If you plan on playing solely flag carrier then skip [[https://www.wowhead.com/item=75525/]], if not - go for [[https://www.wowhead.com/item=75525/]], and drop [[https://www.wowhead.com/item=13447/elixir-of-the-sages]]."
+          ],
+          "notes": [
+            "As a flag carrier, your main goal is to get from point A to B. Without dying. To best be able to do that, it is highly recommended that you have 2 sets. 1 Set with the gear stated above with [[https://www.wowhead.com/item=32215/timeless-shadowsong-amethys]] and another full set with [[https://www.wowhead.com/item=32200/solid-empyrean-sapphire]]. (Keep in mind, that for the most part, in random bgs, you want to run with +3 stamina gems at all times, but for wargaming, 2 sets is highly recommneded)\n",
+            "+2 stamina +2 int sems will help your team in MID, with casting out [[https://www.wowhead.com/spell=774/rejuvenation]], and [[https://www.wowhead.com/spell=8936/regrowth]]. And avoid being sapped and have enemy team collapsed on you (This you should only do when you are under 6 stacks).\n",
+            "+3 stamina gems is the most optimal route to take if you play in random bgs. Since random BGs aren't not like wargames. The composition can be different and the playstyle as well. So if you plan on wargaming having 2 sets is recommended.\n",
+            "+3 stamina gems gives you more survivability overall if you don't play wargames. Since you will have more HP. But again, it depends on what players you have on your team. If you have no healers, it is recommended that you play a mixture of +2 int +2 stamina gems alongside +3 stamina gems until you find your sweet spot.\n\n",
+            "Talent: [[https://www.wowhead.com/spell=102351/cenarion-ward]]\n",
+            "PvP Talent: [[https://www.wowhead.com/spell=203399/reactive-resin]]\n\n",
+            "When it comes to flag carrying, there are multiple trinkets, that can be used alongside your PvP trinket. The trinkets are the following:\n",
+              "[[https://www.wowhead.com/item=77530?ilvl=19&gems=59496:59479:59489]], [[https://www.wowhead.com/item=87500/brooch-of-munificent-deeds?ilvl=28]], [[https://www.wowhead.com/item=126948/defending-champion?ilvl=24]], [[https://www.wowhead.com/item=74034]], [[https://www.wowhead.com/item=137440/shivermaws-jawbone?ilvl=25]], [[https://www.wowhead.com/item=27770/argussian-compass?ilvl=25]], [[https://www.wowhead.com/item=37220/essence-of-gossamer?ilvl=25]]\n\n",
+              "These trinkets are situational. Pick the one you like and the one that best suits your playstyle."
+          ],
+          "stats": [
+            "Stamina > Versatilty > Haste > Critical > Mastery"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "2",
+          "spec": "Balance",
+          "spec_handle": "balance",
+          "class": "Druid",
+          "class_handle": "druid",
+          "title": "Baked's Big Burst Boomkin",
+          "stat_priority": "Intellect > Versatility > Crit",
+          "type": "VET",
+          "author": "Baked",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=27409/raven-heart-headdress?ilvl=25]]\n",
+            "Neck: ilvl 28 BoE Adaptable + socket / [[https://www.wowhead.com/item=88273/armsmasters-sealed-locket?ilvl=25]]\n",
+            "Shoulders: [[https://www.wowhead.com/item=27737/moonglade-shoulders?ilvl=25]]\n",
+            "Back: ilvl 28 Quickblade + socket / [[https://www.wowhead.com/item=160984/sauroscale-cloak-of-adaptation?bonus=1474&ilvl=25]] (with socket)\n",
+            "Chest: [[https://www.wowhead.com/item=28202/moonglade-robe?ilvl=25]]\n",
+            "Wrists: ilvl 28 BoE Quickblade + socket / [[https://www.wowhead.com/item=160214/venerated-raptorhide-bindings?bonus=4777:1473&ilvl=25]] (with socket)\n",
+            "Hands: [[https://www.wowhead.com/item=24452/starlight-gauntlets?ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=24395/mindfire-waistband?ilvl=25]] / ilvl 28 BoE Quickblade + socket\n",
+            "Legs: [[https://www.wowhead.com/item=27492/moonchild-leggings?ilvl=25]]\n",
+            "Boots: ilvl 28 BoE Quickblade (8 vers/3 crit) + socket\n",
+            "Rings: ilvl 28 BoE Adaptable + socket / [[https://www.wowhead.com/item=9447/electrocutioner-lagnut?ilvl=25]]\n",
+            "Trinket 1: [[https://www.wowhead.com/item=77530/ghost-iron-dragonling?ilvl=19&gems=59493:59478:59496]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=87499/grakls-gleaming-talisman?ilvl=28]] / [[https://www.wowhead.com/item=122371/inherited-insignia-of-the-alliance?lvl=20]] / [[https://www.wowhead.com/item=155564/mercys-psalter?ilvl=24]] / ilvl 28 BoE Int + Crit + Socket\n",
+            "Main Hand: [[https://www.wowhead.com/item=31304/the-essence-focuser?ilvl=27]] / [[https://www.wowhead.com/item=105688/hellscreams-warmace?lvl=20]] (if possible) / [[https://www.wowhead.com/item=119396/shadowspeakers-shard?ilvl=25]] / [[https://www.wowhead.com/item=17780/blade-of-eternal-darkness?ilvl=26]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=158322/aureus-vessel?ilvl=25]] (with socket)\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128553/enchant-neck-mark-of-the-hidden-satyr]]\n",
+            "Back: [[https://www.wowhead.com/item=38973/enchant-cloak-minor-power]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=44470/enchant-bracer-superior-spellpower]] / [[https://www.wowhead.com/item=38937]]\n",
+            "Hands: [[https://www.wowhead.com/item=38935/enchant-gloves-major-spellpower]] / [[https://www.wowhead.com/item=38936/enchant-gloves-major-healing]]\n",
+            "Waist: [[https://www.wowhead.com/spell=54793/frag-belt]]\n",
+            "Legs: [[https://www.wowhead.com/item=85570/toughened-leg-armor]]\n",
+            "Boots: [[https://www.wowhead.com/item=52743/enchant-boots-earthen-vitality]] / [[https://www.wowhead.com/item=38837/enchant-boots-minor-speed]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38921/enchant-weapon-major-spellpower]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74729/enchant-off-hand-major-intellect]]"
+          ],
+          "gems": [
+            "Prismatic gems:\n",
+            "- [[https://www.wowhead.com/item=40133/purified-dreadstone]] / [[https://www.wowhead.com/item=32225/purified-shadowsong-amethyst]]\n",
+            "- [[https://www.wowhead.com/item=32196/brilliant-crimson-spinel]] / [[https://www.wowhead.com/item=40113/brilliant-cardinal-ruby]] / [[https://www.wowhead.com/item=28118/brilliant-ornate-ruby]]\n",
+            "- [[https://www.wowhead.com/item=27809/jagged-deep-peridot]]\n",
+            "Meta gem: [[https://www.wowhead.com/item=25893/mystical-skyfire-diamond]] / [[https://www.wowhead.com/item=32640/tense-unstable-diamond]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/alchemists-flask]]\n",
+            "Elixirs: [[https://www.wowhead.com/spell=17573/greater-arcane-elixir]] / [[https://www.wowhead.com/item=3825/elixir-of-fortitude]]\n",
+            "Food: [[https://www.wowhead.com/item=35565/juicy-bear-burger]]\n",
+            "Weapon enchant: [[https://www.wowhead.com/item=20750]] / [[https://www.wowhead.com/item=20749/brilliant-wizard-oil]](recipe unobtainable)\n",
+            "Misc: [[https://www.wowhead.com/item=138488/saltwater-potion]], [[https://www.wowhead.com/item=9144/wildvine-potion]], [[https://www.wowhead.com/item=40771/cobalt-frag-bomb]]"
+          ],
+          "notes": [
+            "Recommended Races:\n",
+            "- Tauren - [[https://www.wowhead.com/spell=20549/war-stomp]] - [[https://www.wowhead.com/spell=154743/brawn]]\n",
+            "- Kul Tiran - [[https://www.wowhead.com/spell=287712/haymaker]] - [[https://www.wowhead.com/spell=291628/brush-it-off]]\n\n",
+            "Talents:\n",
+            "Talent: [[https://www.wowhead.com/spell=202430/natures-balance]]\n",
+            "PvP Talent: [[https://www.wowhead.com/spell=234081/celestial-guardian]]\n\n",
+            "Optional items:\n",
+            "- [[https://www.wowhead.com/item=28224/wastewalker-helm?ilvl=25]] + [[https://www.wowhead.com/item=27531/wastewalker-gloves?ilvl=25]] - For Meta-gem build.\n",
+            "- [[https://www.wowhead.com/item=113082/precious-bloodthorn-loop]]\n\n",
+            "The purpose of this build is to One-shot with Starsurges. Talents are chosen to let you kite untill you can burst at a 100 Astral Power.\n",
+            "The full Adaptable on Rings & Necklace makes it so it's easy to softcap 30% versatility, and go 20-25% crit without dropping below 200 intellect.\n",
+            "Add buffs & consumables on top of that for the extra destruction.\n",
+            "How you chose to distribute your gems to reach this stat-distribution may vary on what secondary trinket(s) you enjoy using the most.\n",
+            "Having tested all kinds of Balance Druid builds since Shadowlands beta: This build is what I've enjoyed the most, and what I play most frequently.\n\n",
+            "Useful macros: <a target=\"_blank\" href=\"https://pastebin.com/MCmap7k4\">Click here!</a>"
+          ],
+          "stats": [
+            "Intellect > Versatility (till 30%) > Critical Strike"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "3",
+          "spec": "Feral",
+          "spec_handle": "feral",
+          "class": "Druid",
+          "class_handle": "druid",
+          "title": "Chey's Feral Druid for Wargames",
+          "stat_priority": "Agility > Crit > Mastery",
+          "type": "VET",
+          "author": "Chey",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=77534?ilvl=19&gems=32640:59480:59478]] / [[https://www.wowhead.com/item=27409?ilvl=25]]\n",
+            "Neck: iLvl 28 High Mastery Peerless + socket\n",
+            "Shoulders: [[https://www.wowhead.com/item=27737?ilvl=25]] / iLvl 28 High Mastery Peerless (socket only)\n",
+            "Back: iLvl 28 High Mastery Peerless (socket only)\n",
+            "Chest: [[https://www.wowhead.com/item=28202?ilvl=25]]\n",
+            "Wrists: iLvl 28 High Mastery Peerless (socket only)\n",
+            "Hands: iLvl 28 High Mastery Peerless (socket only)\n",
+            "Waist: iLvl 28 High Mastery Peerless (socket only)\n",
+            "Legs: [[https://www.wowhead.com/item=27492?ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=28339?ilvl=25]]\n",
+            "Rings: iLvl 28 High Mastery Peerless (socket only)\n",
+            "Trinket 1: [[https://www.wowhead.com/item=109997?ilvl=25]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=108902?ilvl=25]]\n",
+            "Trinket Swap: iLvl 28 Mastery/Versatility (socket only)\n",
+            "PVP Trinket: [[https://www.wowhead.com/item=122371?ilvl=24]] / [[https://www.wowhead.com/item=122370?ilvl=24]] \n",
+            "Weapon: [[https://www.wowhead.com/item=791?ilvl=27]]\n",
+            "Swap Weapon: [[https://www.wowhead.com/item=9477?ilvl=25]]"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=141909/enchant-neck-mark-of-the-trained-soldier]]\n",
+            "Back: [[https://www.wowhead.com/item=38973]] / [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=44815/enchant-bracer-greater-assault]]\n",
+            "Hands: [[https://www.wowhead.com/item=38967/enchant-gloves-major-agility]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124567/primal-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=38837/enchant-boots-minor-speed]]\n",
+            "Rings: [[https://www.wowhead.com/item=128543/enchant-ring-binding-of-mastery]] / [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/spell=20030/superior-impact]]\n"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=28362/delicate-ornate-ruby]] / [[https://www.wowhead.com/item=28363/deadly-ornate-topaz]]\n",
+            "Meta gem: [[https://www.wowhead.com/item=32640/tense-unstable-diamond]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/alchemists-flask]]\n"
+          ],
+          "notes": [
+            "In-depth guide at <a href=\"https://xpoff.com/threads/cheys-feral-vet-guide.97504/\">CHEY’S FERAL VET GUIDE</a>"
+          ],
+          "stats": [
+            "Agility > Crit > Mastery"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    },
+    {
+      "name": "Hunter",
+      "name_handle": "hunter",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Marksmanship",
+          "spec_handle": "marksmanship",
+          "class": "Hunter",
+          "class_handle": "hunter",
+          "title": "Noco's Deeps Build",
+          "stat_priority": "Agility > Mastery > Crit > Haste",
+          "type": "VET",
+          "author": "Nocontest",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=27414/moknathal-beast-mask?ilvl=25]] / [[https://www.wowhead.com/item=27409/raven-heart-headdress?ilvl=25]] (Legacy loot)\n",
+            "Neck: Ilvl 28 BoE of the Feverflare with socket, high mastery\n",
+            "Shoulders: [[https://www.wowhead.com/item=27713/pauldrons-of-desolation?ilvl=25]]\n",
+            "Back: [[https://www.wowhead.com/item=10518/parachute-cloak]] (with GF enchant +12 agility, very rare) / Ilvl 28 BoE of the Feverflare with socket, high mastery\n",
+            "Chest: [[https://www.wowhead.com/item=24465/shamblehide-chestguard?ilvl=25]]\n",
+            "Wrists: Ilvl 28 BoE of the Feverflare with socket, high mastery\n",
+            "Hands: [[https://www.wowhead.com/item=27528/gauntlets-of-desolation?ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=27743/girdle-of-living-flame?ilvl=25]] / [[https://www.wowhead.com/item=29319/tarren-mill-defenders-cinch?bonus=6710]]\n",
+            "Legs: [[https://www.wowhead.com/item=30534/wyrmscale-greaves?ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=28177/auchenai-boots?ilvl=25]] / [[https://www.wowhead.com/item=37167/dragon-slayers-sabatons?ilvl=25]]\n",
+            "Rings: Ilvl 28 BoE of the Feverflare with socket, high mastery\n",
+            "Trinket 1: Ilvl 28 BoE with socket and mastery\n",
+            "Trinket 2: Ilvl 28 BoE with socket and mastery\n",
+            "Main Hand: [[https://www.wowhead.com/item=2100/precisely-calibrated-boomstick?ilvl=27]] / [[https://www.wowhead.com/item=13139/guttbuster?ilvl=27]] / [[https://www.wowhead.com/item=39487/dragon-slayers-shortbow?ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128553/enchant-neck-mark-of-the-hidden-satyr]]\n",
+            "Back: [[https://tbc.wowhead.com/spell=34004/enchant-cloak-greater-agility]] (Grandfathered) / [[https://www.wowhead.com/item=38973/enchant-cloak-minor-power]]  + [[https://www.wowhead.com/spell=126392/goblin-glider]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=68784/enchant-bracer-agility]]\n",
+            "Hands: [[https://www.wowhead.com/item=38967/enchant-gloves-major-agility]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200/spinal-healing-injector]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124567/primal-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=38837/enchant-boots-minor-speed]]\n",
+            "Rings: [[https://www.wowhead.com/item=128543/enchant-ring-binding-of-mastery]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=10548/sniper-scope]]\n"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=28362/delicate-ornate-ruby]] / [[https://www.wowhead.com/item=32194/delicate-crimson-spinel]] / [[https://www.wowhead.com/item=40112/delicate-cardinal-ruby]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/alchemists-flask]]\n",
+            "Food: [[https://www.wowhead.com/item=138478/feast-of-ribs]]"
+          ],
+          "notes": [
+            "This build gives around 270 agility in BG fully buffed. In other words - big dam\n\n",
+
+            "Race: Nightelf, the extra stats from [[https://www.wowhead.com/spell=154748/touch-of-elune]] and [[https://www.wowhead.com/spell=58984/shadowmeld]] is so nice to have. You can hide guarding nodes or dodge casting with it.\n\n",
+
+            "Talent: [[https://www.wowhead.com/spell=260309/master-marksman ]], I run this talent for the passive dot and damage. And in my opinion you're better off casting another [[https://www.wowhead.com/spell=185358/arcane-shot]] than using the other 2 choices. Targets generally don't last long enough to reap the full benifits of the others either.\n\n",
+
+            "PvP Talent: [[https://www.wowhead.com/spell=213691/scatter-shot]], very useful for the crowd control benifit.\n\n",
+
+            "This build uses very little Versatility and no Insignia trinket. So be aware of your surroundings and kite like a pro. With this build I like to run around 20% Crit inside BG's, which isn't hard to do with all the blue socket gear you can get, nab it all up for the extra sockets as well for those agility gems. I prefer to add haste to this build as well for the GCD reduction, focus regen and faster [[https://www.wowhead.com/spell=19434/aimed-shot]] cast. Without it just feel like it takes forever to cast [[https://www.wowhead.com/spell=19434/aimed-shot]], and gives less time for your opponents to get out of range.\n\n",
+
+            "I'm also not a huge fan of on use trinkets, I prefer sustained damage. With on use trinkets it always seems like they're on CD when you need them. And when they're not on CD you're waiting for the right time to use them. In the meantime you're loosing out on the extra damage you could've been doing from the straight stat trinkets."
+          ],
+          "stats": [
+            "Agility > Mastery > Crit > Haste > Versatility"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "2",
+          "spec": "Survival",
+          "spec_handle": "survival",
+          "class": "Hunter",
+          "class_handle": "hunter",
+          "title": "F2P Survival Hunter",
+          "stat_priority": "Agility > Versatility > Mastery",
+          "type": "F2P",
+          "author": "Аис (A1s)",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=27409/raven-heart-headdress?bonus=6710&ilvl=25]]\n",
+            "Neck: [[https://www.wowhead.com/item=122662/eternal-talisman-of-evasion?bonus=0&ilvl=24]]\n",
+            "Shoulders: [[https://www.wowhead.com/item=127203/pauldrons-of-desolation?bonus=0&ilvl=25]]\n",
+            "Back: [[https://www.wowhead.com/item=119349/craven-cowards-cloak&ilvl=25]] + socket\n",
+            "Chest: [[https://www.wowhead.com/item=24465/shamblehide-chestguard?bonus=6710&ilvl=25]]\n",
+            "Wrists: [[https://www.wowhead.com/item=158309/wristlinks-of-alchemical-transfusion?bonus=4777:1473&ilvl=25]] + socket\n",
+            "Hands: [[https://www.wowhead.com/item=27528/gauntlets-of-desolation?bonus=6710&ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=29319/tarren-mill-defenders-cinch?bonus=6710&ilvl=25]]\n",
+            "Legs: [[https://www.wowhead.com/item=30534/wyrmscale-greaves?bonus=6710&ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=28177/auchenai-boots?bonus=6710&ilvl=25]]\n",
+            "Rings: [[https://www.wowhead.com/item=155560/lazy-bakers-ring?bonus=4777:1474&ilvl=25]] and [[https://www.wowhead.com/item=9447/electrocutioner-lagnut?ilvl=25]]\n",
+            "Trinket 1: [[https://www.wowhead.com/item=122370/inherited-insignia-of-the-horde&ilvl=24]] / [[https://www.wowhead.com/item=122371/inherited-insignia-of-the-alliance?ilvl=24]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=77530/ghost-iron-dragonling?ilvl=19&gems=59496:59493:59478]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=791/gnarled-ash-staff&ilvl=27]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128553/enchant-neck-mark-of-the-hidden-satyr]]\n",
+            "Back: [[https://www.wowhead.com/item=38973/enchant-cloak-minor-power]] + [[https://www.wowhead.com/spell=126392/goblin-glider]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=44815/enchant-bracer-greater-assault]]\n",
+            "Hands: [[https://www.wowhead.com/item=44458/enchant-gloves-crusher]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200/spinal-healing-injector]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124567/primal-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=74717/enchant-boots-blurred-speed]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=22556/formula-enchant-2h-weapon-major-agility]]\n"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=28362/delicate-ornate-ruby]]\n",
+            "Meta gem: [[https://www.wowhead.com/item=32640/tense-unstable-diamond]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/alchemists-flask]]\n",
+            "Food: [[https://www.wowhead.com/item=13928/grilled-squid]]\n",
+            "Weapon enchant: [[https://www.wowhead.com/spell=16640/dense-weightstone]]\n"
+          ],
+          "notes": [
+            "Pet: <a href=\"https://www.wowhead.com/pet=44/wasp\">Wasp</a>"
+          ],
+          "stats": [
+            "Agility >Versatility > Mastery"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    },
+    {
+      "name": "Mage",
+      "name_handle": "mage",
+      "builds": []
+    },
+    {
+      "name": "Monk",
+      "name_handle": "monk",
+      "builds": []
+    },
+    {
+      "name": "Paladin",
+      "name_handle": "paladin",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Holy",
+          "spec_handle": "holy",
+          "class": "Paladin",
+          "class_handle": "paladin",
+          "title": "High Int/Vers Holy Paladin [LEGACY LOOT]",
+          "stat_priority": "Intellect > Versatility",
+          "type": "VET",
+          "author": "Wagyû",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=27409?ilvl=25]] / [[https://www.wowhead.com/item=11808?ilvl=26]] / [[https://www.wowhead.com/item=27408?ilvl=25]]\n",
+            "Neck: [[https://www.wowhead.com/item=31338?ilvl=26]] / Legion ilvl28 BoE Adaptable/High versatility Aurora + socket\n",
+            "Shoulders: [[https://www.wowhead.com/item=27737?ilvl=25]]\n",
+            "Back: Legion ilvl28 BoE Adaptable(8 versatility) + socket\n",
+            "Chest: [[https://www.wowhead.com/item=28202?ilvl=25]]\n",
+            "Wrists: Legion ilvl28 BoE Adaptable(8 versatility) + socket\n",
+            "Hands: Legion ilvl28 BoE Adaptable(11 versatility) + socket\n",
+            "Waist: Legion ilvl28 BoE Adaptable(11 versatility) + socket\n",
+            "Legs: [[https://www.wowhead.com/item=30534?ilvl=25]]\n",
+            "Boots: Legion ilvl28 BoE Adaptable(11 versatility) + socket / [[https://www.wowhead.com/item=43405?ilvl=25]]\n",
+            "Finger 1: Legion ilvl28 BoE High Versatility Aurora/Quickblade / [[https://www.wowhead.com/item=159458?bonus=4802&ilvl=25]]\n",
+            "Finger 2: [[https://www.wowhead.com/item=31339?ilvl=26]] / Legion ilvl28 BoE Adaptable/High versatility Aurora + socket\n",
+            "Trinket 1: [[https://www.wowhead.com/item=77530?ilvl=19&gems=59496:59479:59489]]\n",
+            "Trinket 2: Legion ilvl28 BoE Int/Versatility + socket\n",
+            "Main Hand: [[https://www.wowhead.com/item=31304?ilvl=27]]\n",
+            "Off Hand: BFA ilvl 25 BoE with Versatility + socket / [[https://www.wowhead.com/item=119391?ilvl=25]] + socket / [[https://www.wowhead.com/item=119390?ilvl=25]] + socket\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=141910/enchant-neck-mark-of-the-ancient-priestess]]\n",
+            "Shoulders: [[https://www.wowhead.com/spell=61118]] (optional)\n",
+            "Back: [[https://www.wowhead.com/item=38973]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=38989]]\n",
+            "Wrists: [[https://www.wowhead.com/item=38937]]\n",
+            "Hands: [[https://www.wowhead.com/item=38935]] / [[https://www.wowhead.com/item=38936/enchant-gloves-major-healing]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124568]]\n",
+            "Boots: [[https://www.wowhead.com/item=39006]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38921]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74729]]"
+          ],
+          "gems": [
+            "[[https://www.wowhead.com/item=40133]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/]] / [[https://www.wowhead.com/spell=26277/elixir-of-greater-firepower]](recipe unobtainable)\n",
+            "Weapon enchant: [[https://www.wowhead.com/item=20750]] / [[https://www.wowhead.com/item=20749/brilliant-wizard-oil]](recipe unobtainable)\n",
+            "Food: [[https://www.wowhead.com/spell=46688]] / [[https://www.wowhead.com/item=101662/pandaren-treasure-noodle-cart-kit]]"
+          ],
+          "notes": [],
+          "stats": [
+            "Intellect > Versatility"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "2",
+          "spec": "Holy",
+          "spec_handle": "holy",
+          "class": "Paladin",
+          "class_handle": "paladin",
+          "title": "F2P Holy Paladin [LEGACY]",
+          "stat_priority": "Intellect > Versatility > Haste",
+          "type": "F2P",
+          "author": "Raadon",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=11808?ilvl=26]] / [[https://www.wowhead.com/item=27409?ilvl=25]]\n",
+            "Neck: [[https://www.wowhead.com/item=119230?ilvl=25]] / [[https://www.wowhead.com/item=39653?ilvl=25]]\n",
+            "Shoulders: [[https://www.wowhead.com/item=27417?ilvl=25]]\n",
+            "Back: [[https://www.wowhead.com/item=119414?ilvl=25]] / [[https://www.wowhead.com/item=158375?ilvl=25]]\n",
+            "Chest: [[https://www.wowhead.com/item=28401?ilvl=25]]\n",
+            "Wrists: [[https://www.wowhead.com/item=158311?ilvl=25]] + socket\n",
+            "Hands: [[https://www.wowhead.com/item=27528?ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=24458?ilvl=25]]\n",
+            "Legs: [[https://www.wowhead.com/item=30534?ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=43405?ilvl=25]]\n",
+            "Rings: [[https://www.wowhead.com/item=159458?ilvl=25]] with socket + [[https://www.wowhead.com/item=160985?ilvl=25]] with socket / [[https://www.wowhead.com/item=9447?ilvl=25]]\n",
+            "Trinket 1: [[https://www.wowhead.com/item=77530?ilvl=19&gems=59496:59479:59489]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=122371?ilvl=24]] / [[https://www.wowhead.com/item=122370?ilvl=24]] or [[https://www.wowhead.com/item=110017?ilvl=25]] (if human)\n",
+            "Main Hand: [[https://www.wowhead.com/item=31304&ilvl=27]] / [[https://www.wowhead.com/item=13033&ilvl=27]] / [[https://www.wowhead.com/item=37041/scepter-of-the-winterfin?bonus=6697&ilvl=25]] (rare/epic proc only)\n",
+            "Off Hand: [[https://www.wowhead.com/item=119390?ilvl=25]] with socket / [[https://www.wowhead.com/item=119391?ilvl=25]] with socket / [[https://www.wowhead.com/item=158713&ilvl=25]] with socket and speed\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/spell=190892/mark-of-the-claw]]\n",
+            "Shoulders: [[https://www.wowhead.com/spell=61118]] (optional)\n",
+            "Back: [[https://www.wowhead.com/item=38973]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=38989]]\n",
+            "Wrists: [[https://www.wowhead.com/item=38937]]\n",
+            "Hands: [[https://www.wowhead.com/item=38935]] / [[https://www.wowhead.com/item=38936/enchant-gloves-major-healing]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124568]]\n",
+            "Boots: [[https://www.wowhead.com/item=39006]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]] / [[https://www.wowhead.com/item=128540/enchant-ring-word-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38921]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74729]]"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=40133]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/]]\n",
+            "Potions: [[https://www.wowhead.com/item=43570/endless-mana-potion]]\n",
+            "Weapon enchant: [[https://www.wowhead.com/item=20750]]\n",
+            "Food: [[https://www.wowhead.com/spell=46688]]"
+          ],
+          "notes": [
+            "Always go engi for healing on belt. Its a life saver when you get holy locked, as it is your only source of healing spells. Refering to stats, 15% haste is a pretty nice spot since it allows the use of \"beacon-shift\" almost independient on player lag. Once you get to that cap, anything should go to vers, as it is the <em>king</em> stat."
+          ],
+          "stats": [
+            "Intellect > Versatility > Haste (up to 15%) > Crit"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    },
+    {
+      "name": "Priest",
+      "name_handle": "priest",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Discipline",
+          "spec_handle": "discipline",
+          "class": "Priest",
+          "class_handle": "priest",
+          "title": "F2P Disc Priest",
+          "stat_priority": "Intellect > Versatility > Haste",
+          "type": "F2P",
+          "author": "Vøíd",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=11808?ilvl=26]]\n",
+            "Neck: [[https://www.wowhead.com/item=88273?ilvl=25]] / [[https://www.wowhead.com/item=17707?ilvl=25]] / [[https://www.wowhead.com/item=39653?ilvl=25]] / [[https://www.wowhead.com/item=119230/unpopped-pustule-pendant?bonus=572&ilvl=25]]\n",
+            "Shoulders: [[https://www.wowhead.com/item=27775?ilvl=25]]\n",
+            "Back: [[https://www.wowhead.com/item=119414?bonus=572&ilvl=25]]\n",
+            "Chest: [[https://www.wowhead.com/item=31657?bonus=6700&ilvl=26]] (epic proc) / [[https://www.wowhead.com/item=28230?ilvl=25]]\n",
+            "Wrists: [[https://www.wowhead.com/item=159227?bonus=4802&ilvl=25]] (with socket) / [[https://www.wowhead.com/item=158348?bonus=4802&ilvl=25]] (with socket) / [[https://www.wowhead.com/item=36945?ilvl=25]]\n",
+            "Hands: [[https://www.wowhead.com/item=24393?ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=35929?bonus=6697&ilvl=25]] / [[https://www.wowhead.com/item=24395?ilvl=25]]\n",
+            "Legs: [[https://www.wowhead.com/item=28218?ilvl=25]] / [[https://www.wowhead.com/item=30543?ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=27411?ilvl=25]]\n",
+            "Finger 1: [[https://www.wowhead.com/item=159458?bonus=4802&ilvl=25]]\n",
+            "Finger 2: [[https://www.wowhead.com/item=160985?bonus=4802&ilvl=25]] / [[https://www.wowhead.com/item=155381?bonus=4802&ilvl=25]]\n",
+            "Trinket 1: [[https://www.wowhead.com/item=77530?ilvl=19&gems=59496:59479:59489]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=122371?ilvl=24]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=155278?bonus=4802&ilvl=25]] (with socket)\n[[https://www.wowhead.com/item=31304?ilvl=27]]\n[[https://www.wowhead.com/item=37041?bonus=6697&ilvl=25]] (rare/epic proc)\n[[https://www.wowhead.com/item=38135?bonus=6697&ilvl=25]] (rare/epic proc)\n[[https://www.wowhead.com/item=158321?bonus=4802&ilvl=25]] (with socket)\n[[https://www.wowhead.com/item=17780?ilvl=26]]\nAny BFA rare drop (with socket)\n[[https://www.wowhead.com/item=37078?bonus=6697&ilvl=25]] (rare/epic proc)\n[[https://www.wowhead.com/item=61110?bonus=6697&ilvl=25]] (rare/epic proc)\n[[https://www.wowhead.com/item=20647?ilvl=25]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=160447?bonus=4802&ilvl=25]] / [[https://www.wowhead.com/item=17737?ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128553]] / [[https://www.wowhead.com/spell=190892/mark-of-the-claw]]\n",
+            "Shoulders: [[https://www.wowhead.com/spell=61118]] (optional)\n",
+            "Back: [[https://www.wowhead.com/item=38973]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=38989]]\n",
+            "Wrists: [[https://www.wowhead.com/item=38937]]\n",
+            "Hands: [[https://www.wowhead.com/item=38935]] / [[https://www.wowhead.com/item=28273]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124568]]\n",
+            "Boots: [[https://www.wowhead.com/item=39006]]\n",
+            "Rings: [[https://www.wowhead.com/item=128542/enchant-ring-binding-of-haste]] / [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]] / [[https://www.wowhead.com/item=128540/enchant-ring-word-of-versatility]] / [[https://www.wowhead.com/item=128538/enchant-ring-word-of-haste]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38921]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74729]]"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=40133]] until 26% versatility(20% in BG) / [[https://www.wowhead.com/item=40155]] until 24% haste(20% in BG)\n",
+            "You can put the rest into more haste, versatility or stamina with [[https://www.wowhead.com/item=40164]]"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/]]\n",
+            "Potions: [[https://www.wowhead.com/item=43570/endless-mana-potion]]\n",
+            "Weapon enchant: [[https://www.wowhead.com/item=20750]]\n",
+            "Food: [[https://www.wowhead.com/spell=46688]]"
+          ],
+          "notes": [
+            "<a href=\"https://twinkdb.github.io/20/weapons.html#caster-1h\">Most weapons</a> work fine. They're all very close in terms of performance.\n\n",
+            "Versatility is the best stat as it increases both healing and damage output as well as reducing damage taken. Haste is next because it reduces cast time and GCD which is very important for disc. Allow us to apply attonements faster either for healing or for using Dark Archangel. Helps with fake casting as well. Mastery and crit aren't bad, just inferior to the other two and should be avoided whenever possible. A bit of stamina is recommended due to the many ilvl25 items used.\n\n",
+            "Proffesions are Engineering for belt and cloak tinker and Alchemy for [[https://www.wowhead.com/item=75525]] and [[https://www.wowhead.com/item=43570/endless-mana-potion]]."
+          ],
+          "stats": [
+            "Intellect > Versatility > Haste > Mastery = Critical"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "2",
+          "spec": "Discipline",
+          "spec_handle": "discipline",
+          "class": "Priest",
+          "class_handle": "priest",
+          "title": "Balanced Discipline Priest",
+          "stat_priority": "Intellect > Versatility > Haste",
+          "type": "VET",
+          "author": "Vøíd",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=11808?ilvl=26]]\n",
+            "Neck: Legion ilvl28 BoE of the Aurora + socket\n",
+            "Shoulders: [[https://www.wowhead.com/item=27775?ilvl=25]]\n",
+            "Back: ilvl28 BoE of the Aurora + socket / [[https://www.wowhead.com/item=119414?bonus=572&ilvl=25]]\n",
+            "Chest: [[https://www.wowhead.com/item=31657?bonus=6700&ilvl=26]] (epic proc) / [[https://www.wowhead.com/item=28230?ilvl=25]]\n",
+            "Wrists: ilvl28 BoE of the Aurora + socket\n",
+            "Hands: [[https://www.wowhead.com/item=24393?ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=35929?bonus=6697&ilvl=25]] / [[https://www.wowhead.com/item=24395?ilvl=25]]\n",
+            "Legs: [[https://www.wowhead.com/item=28218?ilvl=25]] / [[https://www.wowhead.com/item=30543?ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=27411?ilvl=25]]\n",
+            "Rings: ilvl28 BoE of the Aurora + socket / [[https://www.wowhead.com/item=159458?bonus=4802&ilvl=25]] / [[https://www.wowhead.com/item=160985?bonus=4802&ilvl=25]] / [[https://www.wowhead.com/item=155381?bonus=4802&ilvl=25]]\n",
+            "Trinket 1: [[https://www.wowhead.com/item=77530?ilvl=19&gems=59496:59479:59489]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=122371?ilvl=24]] / [[https://www.wowhead.com/item=122370?ilvl=24]]\n",
+            "Main Hand: ilvl25 green BoE of the Aurora + socket / [[https://www.wowhead.com/item=155278?bonus=4802&ilvl=25]] (with socket)\n[[https://www.wowhead.com/item=31304?ilvl=27]]\n[[https://www.wowhead.com/item=37041?bonus=6697&ilvl=25]] (rare/epic proc)\n[[https://www.wowhead.com/item=38135?bonus=6697&ilvl=25]] (rare/epic proc)\n[[https://www.wowhead.com/item=158321?bonus=4802&ilvl=25]] (with socket)\n[[https://www.wowhead.com/item=17780?ilvl=26]]\nAny BFA rare drop (with socket)\n[[https://www.wowhead.com/item=37078?bonus=6697&ilvl=25]] (rare/epic proc)\n[[https://www.wowhead.com/item=61110?bonus=6697&ilvl=25]] (rare/epic proc)\n[[https://www.wowhead.com/item=20647?ilvl=25]]\n",
+            "Off Hand: ilvl25 green BoE of the Aurora + socket / [[https://www.wowhead.com/item=160447?bonus=4802&ilvl=25]] / [[https://www.wowhead.com/item=17737?ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128553]] / [[https://www.wowhead.com/spell=190892/mark-of-the-claw]]\n",
+            "Shoulders: [[https://www.wowhead.com/spell=61118]] (optional)\n",
+            "Back: [[https://www.wowhead.com/item=38973]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=38989]]\n",
+            "Wrists: [[https://www.wowhead.com/item=38937]]\n",
+            "Hands: [[https://www.wowhead.com/item=38935]] / [[https://www.wowhead.com/item=28273]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124568]]\n",
+            "Boots: [[https://www.wowhead.com/item=39006]]\n",
+            "Rings: [[https://www.wowhead.com/item=128542/enchant-ring-binding-of-haste]] / [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38921]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74729]]"
+          ],
+          "gems": [
+            "[[https://www.wowhead.com/item=40133]] until 26% versatility(20% in BG)\n",
+            "[[https://www.wowhead.com/item=40155]] until 24% haste(20% in BG)\n",
+            "You can put the rest into more haste, versatility or stamina with [[https://www.wowhead.com/item=40164]]"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/]]\n",
+            "Potion: [[https://www.wowhead.com/item=43570/endless-mana-potion]]\n",
+            "Weapon enchant: [[https://www.wowhead.com/item=20750]]\n",
+            "Food: [[https://www.wowhead.com/spell=46688]]"
+          ],
+          "notes": [
+            "<a href=\"https://twinkdb.github.io/20/weapons.html#caster-1h\">Most weapons</a> work fine. They're all very close in terms of performance.\n",
+            "Very similar to <a href=\"/20/builds.html?build=priest:1\">F2P Disc Priest</a> build with a few ilvl 28s added.\n\n",
+            "Versatility is the best stat as it increases both healing and damage output as well as reducing damage taken. Haste is next because it reduces cast time and GCD which is very important for disc. Allow us to apply attonements faster either for healing or for using Dark Archangel. Helps with fake casting as well. Mastery and crit aren't bad, just inferior to the other two and should be avoided whenever possible. A bit of stamina is recommended due to the many ilvl25 items used. I don't recommend going for high secondary stats as they aren't that useful compared to Intellect. That's why I don't like using ilvl28 gloves, belt and boots. I'd rather have more sockets = more int.\n\n",
+            "Proffesions are Engineering for belt and cloak tinker and Alchemy for [[https://www.wowhead.com/item=75525]] and [[https://www.wowhead.com/item=43570/endless-mana-potion]]."
+          ],
+          "stats": [
+            "Intellect > Versatility > Haste > Mastery = Critical"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    },
+    {
+      "name": "Rogue",
+      "name_handle": "rogue",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Subtlety",
+          "spec_handle": "subtlety",
+          "class": "Rogue",
+          "class_handle": "rogue",
+          "title": "BIG DAM SUB",
+          "stat_priority": "Agility > Crit > Vers > Haste > Mastery",
+          "type": "VET",
+          "author": "Sinfvl",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=77534?ilvl=19&gems=32640:59478:59493]] / [[https://www.wowhead.com/item=27409?ilvl=25]]\n",
+            "Neck: Legion ilvl28 BoE High versatility Quickblade/Aurora + socket\n",
+            "Shoulders: [[https://www.wowhead.com/item=27434?ilvl=25]]\n",
+            "Back: ilvl28 BoE High versatility Quickblade + socket\n",
+            "Chest: [[https://www.wowhead.com/item=28202?ilvl=25]]\n",
+            "Wrists: ilvl28 BoE High versatility Quickblade + socket\n",
+            "Hands: ilvl28 BoE High versatility Quickblade + socket\n",
+            "Waist: ilvl28 BoE High versatility Quickblade + socket\n",
+            "Legs: [[https://www.wowhead.com/item=27492?ilvl=25]]\n",
+            "Boots: ilvl28 BoE High versatility Quickblade + socket\n",
+            "Rings: ilvl28 BoE High versatility Aurora + socket\n",
+            "Trinket 1: [[https://www.wowhead.com/item=77530?ilvl=25&gems=59479:59489:59496]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=122371?ilvl=24]] / [[https://www.wowhead.com/item=122370?ilvl=24]]\n",
+            "Main Hand: BFA ilvl 25 BoE dagger with versatility + socket\n",
+            "Off Hand: BFA ilvl 25 BoE sword with versatility + socket / [[https://www.wowhead.com/item=9485&ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128551/enchant-neck-mark-of-the-claw]]\n",
+            "Back: [[https://www.wowhead.com/item=38973]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=44815/enchant-bracer-greater-assault]]\n",
+            "Hands: [[https://www.wowhead.com/item=44458/enchant-gloves-crusher]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200/spinal-healing-injector]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124567/primal-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=38837/enchant-boots-minor-speed]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38917/enchant-weapon-major-striking]] / [[https://www.wowhead.com/item=74725/enchant-weapon-elemental-force]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74726/enchant-weapon-dancing-steel]] / [[https://www.wowhead.com/item=74725/enchant-weapon-elemental-force]]"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=28363/deadly-ornate-topaz]] / [[https://www.wowhead.com/item=28362/delicate-ornate-ruby]]\n",
+            "Meta gem: [[https://www.wowhead.com/item=32640/tense-unstable-diamond]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/]] / [[https://www.wowhead.com/item=13452/elixir-of-the-mongoose]] + [[https://www.wowhead.com/item=3825/elixir-of-fortitude]]\n",
+            "Food: [[https://www.wowhead.com/item=13928/grilled-squid]]\n",
+            "[[https://www.wowhead.com/item=7676/thistle-tea]]"
+          ],
+          "notes": [
+            "This build relies on you being in the right place at the right time, sacrificing some survivablilty for the chance at big damage - Alchemist Stone can be swapped instead of dragonling if playing without decent healers. The suggested haste from jewelery is just to ensure that you have greater than standard energy regen, attack speed and rupture ticks.\n\n",
+
+            "Suggested talents would be Gloomblade for general gameplay, gives good dmg boost. Premeditation if you feel you can easily get restealths. Disarm is likely the best PvP talent as it provides the best value for peeling dmg."
+          ],
+          "stats": [
+            "Agility > Crit > Vers > Haste > Mastery"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    },
+    {
+      "name": "Shaman",
+      "name_handle": "shaman",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Restoration",
+          "spec_handle": "restoration",
+          "class": "Shaman",
+          "class_handle": "shaman",
+          "title": "Conzil's F2P Resto Shaman",
+          "stat_priority": "Intellect = Mastery > Versa > Haste",
+          "type": "F2P",
+          "author": "Conzil",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=87451/helm-of-elemental-binding?ilvl=26]] / [[https://www.wowhead.com/item=141575/gorrogs-serene-gaze?bonus=1808&ilvl=28]] / [[https://www.wowhead.com/item=27414/moknathal-beast-mask?bonus=6710&ilvl=25]]\n",
+            "Neck: [[https://www.wowhead.com/item=141587/queen-yhsaeries-pendant?bonus=1808&ilvl=28]] / [[https://www.wowhead.com/item=39653/choker-of-betrayal?ilvl=25]]\n",
+            "Shoulders: [[https://www.wowhead.com/item=27713/pauldrons-of-desolation?bonus=6710&ilvl=25]]\n",
+            "Back: [[https://www.wowhead.com/item=141590/cloak-of-martayl-oceanstrider?bonus=1808&ilvl=28]] / [[https://www.wowhead.com/item=158375/drape-of-the-loyal-vassal?bonus=4802&ilvl=25]]\n",
+            "Chest: [[https://www.wowhead.com/item=24357/vest-of-living-lightning?ilvl=25]]\n",
+            "Wrists: [[https://www.wowhead.com/item=158309/wristlinks-of-alchemical-transfusion?bonus=4802&ilvl=25]]\n",
+            "Hands: [[https://www.wowhead.com/item=27528?ilvl=25]]\n",
+            "Waist: [[https://www.wowhead.com/item=29319/tarren-mill-defenders-cinch?bonus=6710&ilvl=25]] / [[https://www.wowhead.com/item=141573?ilvl=28]]\n",
+            "Legs: [[https://www.wowhead.com/item=30534/wyrmscale-greaves?bonus=6710&ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=28177/auchenai-boots?bonus=6710&ilvl=25]]\n",
+            "Rings: [[https://www.wowhead.com/item=141581/demars-band-of-amore?bonus=1808&ilvl=28]] / [[https://www.wowhead.com/item=141583/sameeds-vision-ring?bonus=1808&ilvl=28]] / [[https://www.wowhead.com/item=159458/seal-of-the-regal-loa?bonus=4802&ilvl=25]] / [[https://www.wowhead.com/item=137533/ring-of-minute-mirrors?bonus=1826:1472&ilvl=25]] / [[https://www.wowhead.com/item=131797/swamprock-salvage-band?ilvl=25]]\n",
+            "Trinket 1: [[https://www.wowhead.com/item=122371/inherited-insignia-of-the-alliance?bonus=0&ilvl=24]] / [[https://www.wowhead.com/item=122370/inherited-insignia-of-the-horde?bonus=0&ilvl=24]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=77530/ghost-iron-dragonling?ilvl=19&gems=59479:59496:59480]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=31304/the-essence-focuser?ilvl=27]] / [[https://www.wowhead.com/item=154217/pearly-white-jackknife?bonus=4802&ilvl=25]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=158713/disc-of-indomitable-will?bonus=4802&ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=141909/enchant-neck-mark-of-the-trained-soldier]]\n",
+            "Back: [[https://www.wowhead.com/item=38973]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=38937/enchant-bracer-major-intellect]]\n",
+            "Hands: [[https://www.wowhead.com/item=74722/enchant-gloves-superior-mastery]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124568]]\n",
+            "Boots: [[https://www.wowhead.com/item=38837/enchant-boots-minor-speed]]\n",
+            "Rings: [[https://www.wowhead.com/item=128543/enchant-ring-binding-of-mastery]] / [[https://www.wowhead.com/item=128539/enchant-ring-word-of-mastery]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38921]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74729]]"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=40133]]\n",
+            "Meta gem: [[https://www.wowhead.com/item=44089/trenchant-earthshatter-diamond]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/]]\n",
+            "Food: [[https://www.wowhead.com/spell=46688]]"
+          ],
+          "notes": [
+            "The first item on the list is always the best, the items after are still good and can be used until you obtain the first item on the list.\n\n",
+              "Almost all the items on the list that can upgrade are repeatable, which means that you won’t have to rely on rerolling your character to obtain the gear. The only exception to this is Pearly-White Jackknife, since it’s still good without an upgrade.\n\n",
+              "All BFA Dungeon gear as well as the Legion Epic World Drop gear can upgrade with Socket + Speed, this will be the upgrade that you aim for on those items.\n\n",
+              "All Dungeon gear on this list is obtainable through personal loot, which means that you won’t have to rely on a high-level character boosting you."
+          ],
+          "stats": [
+            "Intellect = Mastery > Versa > Haste > Crit"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "2",
+          "spec": "Restoration",
+          "spec_handle": "restoration",
+          "class": "Shaman",
+          "class_handle": "shaman",
+          "title": "Vet Resto Shaman for Random BGs",
+          "stat_priority": "Intellect = Mastery > Versa = Haste",
+          "type": "VET",
+          "author": "Kirise",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=87451/helm-of-elemental-binding?ilvl=28]] / [[https://www.wowhead.com/item=37188/plunderers-helmet?ilvl=25]] / [[https://www.wowhead.com/item=77537?ilvl=19]]\n",
+            "Neck: BoE green ilvl 28 with socket / [[https://www.wowhead.com/item=29347/talisman-of-the-breaker?ilvl=25]] \n",
+            "Shoulders: BoE green ilvl 28 with socket\n",
+            "Back: BoE green ilvl 28 with socket\n",
+            "Chest:  BoE green ilvl 28 with socket / [[https://www.wowhead.com/item=7375/green-whelp-armor]]\n",
+            "Wrists: BoE green ilvl 28 with socket\n",
+            "Hands: BoE green ilvl 28 with socket\n",
+            "Waist: BoE green ilvl 28 with socket / [[https://www.wowhead.com/item=29319/tarren-mill-defenders-cinch?bonus=6710&ilvl=25]]\n",
+            "Legs: BoE green ilvl 28 with socket / [[https://www.wowhead.com/item=30534/wyrmscale-greaves?bonus=6710&ilvl=25]]\n",
+            "Boots: BoE green ilvl 28 with socket / [[https://www.wowhead.com/item=28177/auchenai-boots?bonus=6710&ilvl=25]]\n",
+            "Rings: BoE green ilvl 28 with socket\n",
+            "Trinket 1: [[https://www.wowhead.com/item=122371/inherited-insignia-of-the-alliance?bonus=0&ilvl=24]] / [[https://www.wowhead.com/item=122370/inherited-insignia-of-the-horde?bonus=0&ilvl=24]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=77530/ghost-iron-dragonling?ilvl=19&gems=59479:59496:59480]] / [[https://www.wowhead.com/item=136978/ember-of-nullification?ilvl=25]]\n",
+            "Main Hand: BoE green ilvl 25 with socket / [[https://www.wowhead.com/item=31304/the-essence-focuser?ilvl=27]] / [[https://www.wowhead.com/item=154217/pearly-white-jackknife?bonus=4802&ilvl=25]] / [[https://www.wowhead.com/item=37041/scepter-of-the-winterfin?bonus=6697&ilvl=25]] / [[https://www.wowhead.com/item=38135/mace-of-the-fallen-raven-priest?bonus=6697&ilvl=25]] / [[https://wowhead.com/item=61110/tethis-skull?bonus=6697&ilvl=25]] / [[https://www.wowhead.com/item=17780&ilvl=26]]\n",
+            "Off Hand: BoE green ilvl 25 with socket / [[https://www.wowhead.com/item=158713/disc-of-indomitable-will?bonus=4802&ilvl=25]] / [[https://www.wowhead.com/item=158597/silvershell-defender?bonus=4802&ilvl=25]]\n"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=141909/enchant-neck-mark-of-the-trained-soldier]]\n",
+            "Back: [[https://www.wowhead.com/item=38973]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=38937/enchant-bracer-major-intellect]] / [[https://www.wowhead.com/item=68786/enchant-bracer-mighty-intellect]]\n",
+            "Hands: [[https://www.wowhead.com/item=74722/enchant-gloves-superior-mastery]] / [[https://www.wowhead.com/item=52784/enchant-gloves-greater-mastery]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124568]]\n",
+            "Boots: [[https://www.wowhead.com/item=38837/enchant-boots-minor-speed]]\n",
+            "Rings: [[https://www.wowhead.com/item=128543/enchant-ring-binding-of-mastery]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=38921]]\n",
+            "Off Hand: [[https://www.wowhead.com/item=74729]]"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=40133]] / [[https://www.wowhead.com/item=32225/purified-shadowsong-amethyst]] / [[https://www.wowhead.com/item=35760/reckless-pyrestone]] / [[https://www.wowhead.com/item=40155/reckless-ametrine]]\n",
+            "Meta gem: [[https://www.wowhead.com/item=44089/trenchant-earthshatter-diamond]] / [[https://www.wowhead.com/item=41382/trenchant-earthsiege-diamond]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/]] / [[https://www.wowhead.com/item=13454/greater-arcane-elixir]] + [[https://www.wowhead.com/item=3825/elixir-of-fortitude]]\n",
+            "Food: [[https://www.wowhead.com/spell=46688]]"
+          ],
+          "notes": [
+            "Mastery for Resto Shamans is one of the strongest in the game and even more potent in random battlegrounds where focus fire rarely appears. Mastery boosts BoEs to BiS status for most slots, though some overstatted gear can match them. Stay away from proc stats i.e. crit and proc gear -- healers are more effective (and more fun) when consistent. One exception: Green Whelp Armor has no ICD, and is situationally a ton of fun when facing a bunch of melee classes.\n\n",
+
+            "If you choose the engineering helm, don't use the Ghost Iron Dragonling trinket, and instead opt for either a straight stats trinket or the Ember (only drops for tanks, so you'll need a tank to trade it to you). The Talisman of the Breaker is really nice in a caster-heavy battleground to get you back into the action; the 5% healing throughput loss using it (due to missing stats compared to a BoE) is significant.\n\n",
+
+            "Gem with int and whatever combination of vers and haste suit you. Use the Minor Speed boot enchant, the only speed enchant that stacks with Ghost Wolf. Caster proc enchants for weapons and necks aren't currently proc'ing for lower level characters in the 20-29 bracket, so go with static enchants.\n\n",
+            "In-depth guide at <a href=\"https://xpoff.com/threads/nirises-shadowlands-20-resto-shaman-guide.96880/\">Nirise's Shadowlands 20 Resto Shaman Guide</a>"
+          ],
+          "stats": [
+            "Intellect = Mastery > Versa > Haste > Crit"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    },
+    {
+      "name": "Warlock",
+      "name_handle": "warlock",
+      "builds": []
+    },
+    {
+      "name": "Warrior",
+      "name_handle": "warrior",
+      "builds": [
+        {
+          "id": "1",
+          "spec": "Arms",
+          "spec_handle": "arms",
+          "class": "Warrior",
+          "class_handle": "warrior",
+          "title": "F2P Arms Warrior",
+          "stat_priority": "Strength > Critical > Versatility",
+          "type": "F2P",
+          "author": "Chops",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=27408/hope-bearer-helm?bonus=6710&ilvl=25]] / [[https://www.wowhead.com/item=28225/doomplate-warhelm?bonus=6710&ilvl=25]] (for two piece only)\n",
+            "Neck: [[https://www.wowhead.com/item=88273/armsmasters-sealed-locket?ilvl=25]] / [[https://www.wowhead.com/item=119376/three-egg-pendant-necklace?ilvl=25]] (socket proc only)\n",
+            "Shoulders: [[https://www.wowhead.com/item=27771/doomplate-shoulderguards?bonus=6710&ilvl=25]] (for 2 piece only) / [[https://www.wowhead.com/item=119383/shoulderplates-of-the-vigilant?ilvl=25]] (socket proc only)\n",
+            "Back: [[https://www.wowhead.com/item=155884/parrotfeather-cloak?bonus=4777:1473&ilvl=25]] (socket proc only)\n",
+            "Chest: [[https://www.wowhead.com/item=28337/breastplate-of-righteous-fury?bonus=6710&ilvl=25]] / [[https://www.wowhead.com/item=29337/the-exarchs-protector?bonus=6710&ilvl=25]]\n",
+            "Wrists: [[https://www.wowhead.com/item=158311/concealed-fencing-plates?bonus=4777:1473&ilvl=25]] (socket proc only)\n",
+            "Hands: [[https://www.wowhead.com/item=24387/ironblade-gauntlets?bonus=6710&ilvl=25]] / [[https://www.wowhead.com/item=27497/doomplate-gauntlets?bonus=6710&ilvl=25]] (for 2 piece only)\n",
+            "Waist: [[https://www.wowhead.com/item=24458/studded-girdle-of-virtue?bonus=6710&ilvl=25]]\n",
+            "Legs: [[https://www.wowhead.com/item=30536/greaves-of-the-martyr?bonus=6710&ilvl=25]]\n",
+            "Boots: [[https://www.wowhead.com/item=28176/shatari-wrought-greaves?bonus=6710&ilvl=25]] / [[https://www.wowhead.com/item=43405/sabatons-of-erekem?bonus=6710&ilvl=25]]\n",
+            "Rings: [[https://www.wowhead.com/item=9447/electrocutioner-lagnut?ilvl=25]] / [[https://www.wowhead.com/item=113082/precious-bloodthorn-loop?ilvl=25]] / [[https://www.wowhead.com/item=155560/lazy-bakers-ring?bonus=4777:1474&ilvl=25]] / [[https://www.wowhead.com/item=131797/swamprock-salvage-band?ilvl=25]] / [[https://www.wowhead.com/item=13345?ilvl=25]]\n",
+            "Trinkets: [[https://www.wowhead.com/item=77530/ghost-iron-dragonling?ilvl=19&gems=59496:59493:59478]] / [[https://www.wowhead.com/item=87496/daelos-final-words?ilvl=26]] / [[https://www.wowhead.com/item=74034/pit-fighter]] / [[https://www.wowhead.com/item=122371?ilvl=24]]\n",
+            "Weapon: [[https://www.wowhead.com/item=27986/crow-wing-reaper?bonus=6710&ilvl=25]] / [[https://www.wowhead.com/item=13505/runeblade-of-baron-rivendare?bonus=6712&ilvl=26]]\n",
+            "Sword/Board for swapping: [[https://www.wowhead.com/item=128289/scale-of-the-earth-warder?bonus=0&ilvl24]]"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128553/enchant-neck-mark-of-the-hidden-satyr]]\n",
+            "Back: [[https://www.wowhead.com/item=38973/enchant-cloak-minor-power]] + [[https://www.wowhead.com/spell=126392]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/spell=62256/major-stamina]]\n",
+            "Hands: [[https://www.wowhead.com/spell=104419/super-strength]]\n",
+            "Waist: [[https://www.wowhead.com/spell=82200]]\n",
+            "Legs: [[https://www.wowhead.com/spell=124569/draconic-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/spell=47901/tuskarrs-vitality]]\n",
+            "Rings: [[https://www.wowhead.com/spell=190873/binding-of-versatility]] / [[https://www.wowhead.com/spell=190869/word-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/spell=20034/crusader]]\n"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=40129/sovereign-dreadstone]] / [[https://www.wowhead.com/item=40111/bold-cardinal-ruby]] / [[https://www.wowhead.com/item=27786/jagged-deep-peridot]] (unique equipped, but throw one on somewhere)\n",
+            "Meta gem: [[https://www.wowhead.com/item=32640/tense-unstable-diamond]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/spell=114786/alchemists-flask]]\n",
+            "Food: [[https://www.wowhead.com/spell=24801/smoked-desert-dumplings]]\n",
+            "Weapon: [[https://www.wowhead.com/spell=16641/dense-sharpening-stone]]"
+          ],
+          "notes": [
+            "The gear suggestions consciously avoid gear that only drops once, even if it might proc a socket. As well, no substantially rare gear (like Legion epics) were included\n\n",
+
+            "It's hard to stack much mastery as a F2P warrior so my suggestion is that you run predominately crit/vers gear and equip a Pit Fighter trinket, letting its proc provide most of your mastery. At least until you farm up a Daelo's. If you want to try to stack mastery anyway, rings and neck from Legion dungeons are going to be your best bet. But I didnt include those because there's like 50 bazillion and I dont think thats a good build for F2P warriors anyway.\n\n",
+
+            "I tried to provide some flexibility to build around the Doomplate two piece. Using the helm and shoulders provides a bit more crit than the Hope Bearers helm and Vigiliant Shoulderplates but at the cost of a couple strength and some vers. Up to you.\n\n",
+
+            "None of this gear is exclusive to any other so you should get it all and flex it around to try different builds as you see fit. But I'd recommend running Doomplate helm and shoulders and the highest vers Neck and Rings you can manage. Gem 3-6 slots with +3 Strength gems, then the rest with +2str/+2 stam gems. With that set up you should enjoy APPROXIMATE stat values as follows.\n\n",
+
+            "Str: 165-175ish\n",
+            "Health: 2150-2300ish\n",
+            "Crit: 27-30%\n",
+            "Haste: 1-2% (lol)\n",
+            "Mastery: 12-15%\n",
+            "Vers: 16-20%\n\n",
+            "In-depth guide at <a href=\"https://xpoff.com/threads/shadowlands-f2p-warrior-guide.95379/\">Shadowlands F2P Warrior Guide</a>"
+          ],
+          "stats": [
+            "Strength > Critical > Vers = Mastery > Haste"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "2",
+          "spec": "Arms",
+          "spec_handle": "arms",
+          "class": "Warrior",
+          "class_handle": "warrior",
+          "title": "Hydraulic's Veteran Arms Guide",
+          "stat_priority": "Strength > Crit > Vers > Mastery",
+          "type": "VET",
+          "author": "Hydraulic",
+          "gear": [
+            "Head: [[https://www.wowhead.com/item=87455/davidians-all-seeing-eyes?ilvl=28]] / [[https://www.wowhead.com/item=9394/horned-viking-helmet?ilvl=25]] (horde) / [[https://www.wowhead.com/item=27408?ilvl=25]]\n",
+            "Neck: Legion ilvl28 BoE High versatility Quickblade/Adaptable + socket\n",
+            "Shoulders: [[https://www.wowhead.com/item=24457/truth-bearer-shoulderguards?ilvl=25]] / Legion ilvl28 BoE High versatility Quickblade/Adaptable + socket\n",
+            "Back: ilvl28 BoE High versatility Quickblade/Adaptable + socket\n",
+            "Chest: [[https://www.wowhead.com/item=28337/breastplate-of-righteous-fury?ilvl=25]]\n",
+            "Wrists: ilvl28 BoE High versatility Quickblade/Adaptable + socket\n",
+            "Hands: ilvl28 BoE High versatility Quickblade/Adaptable + socket\n",
+            "Waist: ilvl28 BoE High versatility Quickblade/Adaptable + socket\n",
+            "Legs: [[https://www.wowhead.com/item=30536/greaves-of-the-martyr?ilvl=25]]\n",
+            "Boots: ilvl28 BoE High versatility Quickblade/Adaptable + socket\n",
+            "Rings: ilvl28 BoE High versatility Quickblade/Adaptable + socket\n",
+            "Trinket 1: [[https://www.wowhead.com/item=77530/ghost-iron-dragonling?ilvl=19&gems=59496:59478:59493]]\n",
+            "Trinket 2: [[https://www.wowhead.com/item=122371/inherited-insignia-of-the-alliance?ilvl=24&lvl=20]] / [[https://www.wowhead.com/item=122370/inherited-insignia-of-the-horde?ilvl=24&lvl=20]] / [[https://www.wowhead.com/item=87496/daelos-final-words?ilvl=28]] / [[https://www.wowhead.com/item=140161/hargals-favorite-trinket?ilvl=25]] / [[https://www.wowhead.com/item=13503/alchemist-stone?ilvl=30]]\n",
+            "Main Hand: [[https://www.wowhead.com/item=27986/crow-wing-reaper?ilvl=25]] / [[https://www.wowhead.com/item=13505/runeblade-of-baron-rivendare?ilvl=26]]\n",
+            "Sword/Board for swapping: [[https://www.wowhead.com/item=156998/cudgel-of-naralex]] / [[https://www.wowhead.com/item=9485/vibroblade]] / BFA ilvl 25 BoE Shield High vers + socket"
+          ],
+          "enchants": [
+            "Neck: [[https://www.wowhead.com/item=128551/enchant-neck-mark-of-the-claw]]\n",
+            "Back: [[https://www.wowhead.com/item=38973/enchant-cloak-minor-power]] + [[https://www.wowhead.com/spell=126392/goblin-glider]]\n",
+            "Chest: [[https://www.wowhead.com/item=74708/enchant-chest-glorious-stats]]\n",
+            "Wrists: [[https://www.wowhead.com/item=38855/enchant-bracer-superior-stamina]]\n",
+            "Hands: [[https://www.wowhead.com/item=74721/enchant-gloves-super-strength]]\n",
+            "Waist: [[https://www.wowhead.com/spell=54793/frag-belt]] / [[https://www.wowhead.com/spell=82200/spinal-healing-injector]] (this depends on if you have decent healers or not. If you are running Spinal Healing Injector, I suggest that you use [[https://www.wowhead.com/item=13503/alchemist-stone]])\n",
+            "Legs: [[https://www.wowhead.com/spell=124563/heavy-leg-reinforcements]]\n",
+            "Boots: [[https://www.wowhead.com/item=39006/enchant-boots-tuskarrs-vitality]]\n",
+            "Rings: [[https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility]]\n",
+            "Main Hand: [[https://www.wowhead.com/spell=20034/crusader]]\n"
+          ],
+          "gems": [
+            "Prismatic gems: [[https://www.wowhead.com/item=40129/sovereign-dreadstone]] / [[https://www.wowhead.com/item=32211/sovereign-shadowsong-amethyst]] / [[https://www.wowhead.com/item=40111/bold-cardinal-ruby]] / [[https://www.wowhead.com/item=32193/bold-crimson-spinel]] + [[https://www.wowhead.com/item=27786/jagged-deep-peridot]] (Always have one of these, unique equipped)\n",
+            "Meta gem: [[https://www.wowhead.com/item=32640/tense-unstable-diamond]]\n"
+          ],
+          "consumables": [
+            "Flask: [[https://www.wowhead.com/item=75525/alchemists-flask]] / [[https://www.wowhead.com/item=3825/elixir-of-fortitude]] / [[https://www.wowhead.com/item=13453/elixir-of-brute-force]]\n",
+            "Food: [[https://www.wowhead.com/item=20452/smoked-desert-dumplings]]\n",
+            "Potions: [[https://www.wowhead.com/item=138486/third-wind-potion]] (Use this if you are not using [[https://www.wowhead.com/spell=82200/spinal-healing-injector]], they share cd) / [[https://www.wowhead.com/item=138488/saltwater-potion]] / [[https://www.wowhead.com/item=5634/free-action-potion]] / [[https://www.wowhead.com/item=20008/living-action-potion]](free trinket)\n",
+            "[[https://www.wowhead.com/item=13442/mighty-rage-potion]] (Great way to get Ignore pain If you are rage starved, also pairs perfectly with Saltwater for d33ps) / [[https://www.wowhead.com/item=2459/swiftness-potion]] (This potion pairs great with [[https://www.wowhead.com/item=140161/hargals-favorite-trinket]] if you are having a hard time reaching EFC)\n",
+            "Bombs: [[https://www.wowhead.com/item=40771/cobalt-frag-bomb]] (they do not share cooldown with frag belt) / [[https://www.wowhead.com/item=16040/arcane-bomb]] (If you want to be a douchebag) / [[https://www.wowhead.com/item=10646/goblin-sapper-charge]] (these are great for peeling your FC if you see rogues entering stealth in the direction of your fc)\n",
+            "Misc: [[https://www.wowhead.com/item=8544/mageweave-bandage]] / [[https://www.wowhead.com/item=4376/flame-deflector]] (Absorbs nade dmg, does not share cooldown with any of your other consumables)"
+          ],
+          "notes": [
+            "This Build provides you with high crit and vers, the bread N butter for Arms\n",
+            "Keep your crit above 35% while keeping 23-26% vers\n",
+            "Also try to keep your strength over 160.\n",
+            "ALWAYS run [[https://www.wowhead.com/spell=29725/sudden-death]], pvp talents are abit more flexible. For wheelchair games run [[https://www.wowhead.com/spell=198500/death-sentence]]. For healer heavy enemy teams run [[https://www.wowhead.com/spell=198817/sharpen-blade]] and [[https://www.wowhead.com/spell=236077/disarm]] for warrior heavy enemy teams."
+          ],
+          "stats": [
+            "Strength > Crit > Vers > Mastery > Haste"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        }
+      ]
+    }
+  ]
+}
