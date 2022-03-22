@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import ReactMarkdown from 'react-markdown';
 import WowheadLink from './WowheadLink';
 
 function TableRow(props) {
@@ -88,7 +89,7 @@ function TableRow(props) {
                   key={index}
                   colSpan={visibleCellsCount}
                 >
-                  {entry[1]}
+                  <ReactMarkdown>{entry[1]}</ReactMarkdown>
                 </td>
               );
             }
