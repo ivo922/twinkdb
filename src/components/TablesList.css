@@ -61,26 +61,11 @@
   display: table-cell;
 }
 
-.table tr .table__note-trigger a span:last-child {
-  display: none;
-}
-
-.table tr .table__note-trigger a span:first-child {
-  display: block;
-}
-
-.table tr.note-active .table__note-trigger a span:last-child {
-  display: block;
-}
-
-.table tr.note-active .table__note-trigger a span:first-child {
-  display: none;
-}
-
 .table .table__note-trigger a {
   color: var(--c-dark-3);
   text-decoration: none;
   pointer-events: none;
+  line-height: 1.2;
 }
 
 .table__note-trigger.has-note a {
