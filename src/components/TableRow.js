@@ -35,7 +35,9 @@ function TableRow(props) {
       <td
         className={`table__note-trigger ${props.item.note ? 'has-note' : ''}`}
       >
-        <a href="#" onClick={toggleNote}>{noteToggleText}</a>
+        <a href="#" onClick={toggleNote}>
+          {noteToggleText}
+        </a>
       </td>
     );
   };
@@ -43,17 +45,17 @@ function TableRow(props) {
   const toggleNote = (event) => {
     event.preventDefault();
     setNoteActive(!noteActive);
-  }
+  };
 
   useEffect(() => {
     let counter = 0;
 
-    Object.keys(props.item).forEach((prev, current) => {
+    Object.keys(props.item).forEach((item) => {
       if (
-        prev === 'name' ||
-        prev === 'item_url' ||
-        prev === 'rarity' ||
-        prev === 'note'
+        item === 'name' ||
+        item === 'item_url' ||
+        item === 'rarity' ||
+        item === 'note'
       ) {
         return;
       }
@@ -64,7 +66,11 @@ function TableRow(props) {
   });
 
   return (
-    <tr className={`rarity-${props.item.rarity} ${noteActive ? 'note-active' : ''}`}>
+    <tr
+      className={`rarity-${props.item.rarity} ${
+        noteActive ? 'note-active' : ''
+      }`}
+    >
       {Object.entries(props.item).map((entry, index) => {
         {
           if (

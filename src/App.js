@@ -9,6 +9,7 @@ import dataWeapons from './DB/weapons.json'
 import dataTrinkets from './DB/trinkets.json'
 import dataBuilds from './DB/builds.json'
 import TablesList from './components/TablesList';
+import Weapons from './pages/Weapons';
 
 function App() {
   console.log(dataArmor);
@@ -23,7 +24,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
 
-        <Route path="/weapons" />
+        <Route path="/weapons" element={ <Weapons data={dataWeapons} /> } />
 
         <Route children path="/armor" element={ <Armor data={dataArmor} /> }>
           <Route path=""        element={ <TablesList data={ dataArmor.types[0].categories } /> } />
