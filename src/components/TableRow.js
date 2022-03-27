@@ -13,7 +13,7 @@ function TableRow(props) {
    * @returns {String}
    */
   const formatText = (text) => {
-    return text === 0 ? '\u2013' : text;
+    return text === 0 ? '\u2013' : `${text}`;
   };
 
   const noteToggleMarkup = () => {
@@ -85,7 +85,11 @@ function TableRow(props) {
                 </td>
               );
             } else {
-              return <td key={index}>{formatText(entry[1])}</td>;
+              return (
+                <td key={index}>
+                  <ReactMarkdown>{formatText(entry[1])}</ReactMarkdown>
+                </td>
+              );
             }
           } else if (entry[0] === 'note') {
             if (entry[1]) {

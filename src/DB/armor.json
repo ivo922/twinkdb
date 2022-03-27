@@ -71,7 +71,7 @@
 
               "source_url": "https://www.wowhead.com/spell=127121",
               "rarity": 2,
-              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\">Billibub Cogspinner</a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\">Sovik</a>"
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets. **Alliance:** [Billibub Cogspinner](https://www.wowhead.com/npc=5519) **Horde:** [Sovik](https://www.wowhead.com/npc=3413)"
             },
             {
               "name": "Hood of Alchemical Vapors",
@@ -253,7 +253,8 @@
               "versatility": 5,
 
               "source_url": "https://www.wowhead.com/npc=27654|Drakos the Interrogator@The Oculus",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Silk Cuffs of the Skycap'n",
@@ -578,7 +579,7 @@
 
               "source_url": "https://www.wowhead.com/spell=127118",
               "rarity": 2,
-              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\">Billibub Cogspinner</a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\">Sovik</a>"
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets. **Alliance:** [Billibub Cogspinner](https://www.wowhead.com/npc=5519) **Horde:** [Sovik](https://www.wowhead.com/npc=3413)"
             },
             {
               "name": "Zom's Misty Hood",
@@ -608,7 +609,7 @@
 
               "sockets": 2,
               "armor": 7,
-              "main_stat": "5 agi<br>6 int",
+              "main_stat": "5 agi  \n6 int",
               "stamina": 7,
               "critical": 0,
               "haste": 4,
@@ -616,7 +617,8 @@
               "versatility": 4,
 
               "source_url": "https://www.wowhead.com/npc=17848|Lieutenant Drake@Old Hilsbrad Foothills",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Moonglade Shoulders",
@@ -624,7 +626,7 @@
 
               "sockets": 2,
               "armor": 7,
-              "main_stat": "5 agi<br>6 int",
+              "main_stat": "5 agi  \n6 int",
               "stamina": 7,
               "critical": 4,
               "haste": 0,
@@ -661,7 +663,7 @@
 
               "sockets": 3,
               "armor": 10,
-              "main_stat": "7 agi<br>6 int",
+              "main_stat": "7 agi  \n6 int",
               "stamina": 10,
               "critical": 5,
               "haste": "Dodge +8",
@@ -769,7 +771,7 @@
 
               "sockets": 2,
               "armor": 6,
-              "main_stat": "5 agi<br>6 int",
+              "main_stat": "5 agi  \n6 int",
               "stamina": 7,
               "critical": 0,
               "haste": 0,
@@ -777,7 +779,8 @@
               "versatility": 3,
 
               "source_url": "https://www.wowhead.com/npc=17770|Hungarfen@The Underbog",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Deft Handguards",
@@ -902,7 +905,8 @@
               "versatility": 7,
 
               "source_url": "https://www.wowhead.com/npc=17380|Broggok@The Blood Furnace",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Midnight Legguards",
@@ -1056,7 +1060,7 @@
 
               "sockets": "Meta + 2 cogs",
               "armor": 8,
-              "main_stat": "5 int<br>2 agi",
+              "main_stat": "5 int  \n2 agi",
               "stamina": 6,
               "critical": 0,
               "haste": 0,
@@ -1064,7 +1068,7 @@
               "versatility": 0,
 
               "source_url": "https://www.wowhead.com/spell=127121",
-              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\">Billibub Cogspinner</a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\">Sovik</a>",
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.  \n**Alliance:** [Billibub Cogspinner](https://www.wowhead.com/npc=5519) **Horde:** [Sovik](https://www.wowhead.com/npc=3413)",
               "rarity": 2
             },
             {
@@ -1073,7 +1077,7 @@
 
               "sockets": "Meta + 2 cogs",
               "armor": 8,
-              "main_stat": "5 agi<br>2 int",
+              "main_stat": "5 agi  \n2 int",
               "stamina": 6,
               "critical": 0,
               "haste": 0,
@@ -1081,7 +1085,7 @@
               "versatility": 0,
 
               "source_url": "https://www.wowhead.com/spell=127120",
-              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\"></a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\"></a>",
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.  \n**Alliance:** [Billibub Cogspinner](https://www.wowhead.com/npc=5519) **Horde:** [Sovik](https://www.wowhead.com/npc=3413)",
               "rarity": 2
             },
             {
@@ -1154,7 +1158,8 @@
               "versatility": 0,
 
               "source_url": "https://www.wowhead.com/npc=17942|Quagmirran@The Slave Pens",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Tidefury Shoulderguards",
@@ -1162,7 +1167,7 @@
 
               "sockets": 2,
               "armor": 10,
-              "main_stat": "6 int<br>5 agi",
+              "main_stat": "6 int  \n5 agi",
               "stamina": 7,
               "critical": 0,
               "haste": 0,
@@ -1183,7 +1188,7 @@
 
               "sockets": 3,
               "armor": 14,
-              "main_stat": "7 int<br>6 agi",
+              "main_stat": "7 int  \n6 agi",
               "stamina": 10,
               "critical": 0,
               "haste": 0,
@@ -1191,7 +1196,8 @@
               "versatility": 6,
 
               "source_url": "https://www.wowhead.com/npc=17941|Mennu the Betrayer@The Slave Pens",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Shamblehide Chestguard",
@@ -1199,7 +1205,7 @@
 
               "sockets": 3,
               "armor": 14,
-              "main_stat": "7 agi<br>6 int",
+              "main_stat": "7 agi  \n6 int",
               "stamina": 10,
               "critical": 6,
               "haste": 7,
@@ -1344,7 +1350,7 @@
 
               "sockets": 2,
               "armor": 8,
-              "main_stat": "6 int<br>5 agi",
+              "main_stat": "6 int  \n5 agi",
               "stamina": 7,
               "critical": 0,
               "haste": 0,
@@ -1352,7 +1358,8 @@
               "versatility": 9,
 
               "source_url": "https://www.wowhead.com/quest=29599@Old Hilsbrad Foothills",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Girdle of Living Flame",
@@ -1376,7 +1383,7 @@
 
               "sockets": 2,
               "armor": 8,
-              "main_stat": "6 int<br>5 agi",
+              "main_stat": "6 int  \n5 agi",
               "stamina": 7,
               "critical": 0,
               "haste": 0,
@@ -1385,7 +1392,7 @@
 
               "source_url": "https://www.wowhead.com/npc=17381|The Maker@The Blood Furnace",
               "rarity": 1,
-              "note": "This is <em>good enough</em> when you accidentally lose your Tarren Mill Defender's Cinch"
+              "note": "This is *good enough* when you accidentally lose your Tarren Mill Defender's Cinch"
             },
             {
               "name": "Shokell's Grim Cinch",
@@ -1415,7 +1422,7 @@
 
               "sockets": 3,
               "armor": 13,
-              "main_stat": "6 agi<br>5 int",
+              "main_stat": "6 agi  \n5 int",
               "stamina": 10,
               "critical": 7,
               "haste": 8,
@@ -1445,7 +1452,8 @@
               "versatility": 7,
 
               "source_url": "https://www.wowhead.com/quest=29644@Shadow Labyrinth",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Dragon Slayer's Sabatons",
@@ -1554,7 +1562,7 @@
 
               "source_url": "https://www.wowhead.com/spell=127123",
               "rarity": 2,
-              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets.<br /> <strong>Alliance:</strong> <a href=\"https://www.wowhead.com/npc=5519\">Billibub Cogspinner</a> <strong>Horde:</strong> <a href=\"https://www.wowhead.com/npc=3413\">Sovik</a>"
+              "note": "Requires 75 MoP engi to make. Requires 75 cata engi to place the sockets. **Alliance:** [Billibub Cogspinner](https://www.wowhead.com/npc=5519) **Horde:** [Sovik](https://www.wowhead.com/npc=3413)"
             },
             {
               "name": "Davidian's All-Seeing Eyes",
@@ -1681,7 +1689,8 @@
               "versatility": 0,
 
               "source_url": "https://www.wowhead.com/quest=29596@Auchenai Crypts",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Breastplate of Righteous Fury",
@@ -1900,7 +1909,7 @@
 
               "sockets": 2,
               "armor": 12,
-              "main_stat": "6 str<br>5 int",
+              "main_stat": "6 str  \n5 int",
               "stamina": 7,
               "critical": 6,
               "haste": 0,
@@ -1921,7 +1930,7 @@
 
               "sockets": 3,
               "armor": 19,
-              "main_stat": "7 str<br>6 int",
+              "main_stat": "7 str  \n6 int",
               "stamina": 10,
               "critical": 7,
               "haste": 5,
@@ -1929,7 +1938,8 @@
               "versatility": 0,
 
               "source_url": "https://www.wowhead.com/npc=18096|Epoch Hunter@Old Hilsbrad Foothills",
-              "rarity": 2
+              "rarity": 2,
+              "note": ""
             }
           ]
         },
@@ -1950,7 +1960,8 @@
               "versatility": 0,
 
               "source_url": "https://www.wowhead.com/quest=29644@Shadow Labyrinth",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Sabatons of Erekem",
@@ -1958,7 +1969,7 @@
 
               "sockets": 1,
               "armor": 14,
-              "main_stat": "6 int<br>5 str",
+              "main_stat": "6 int  \n5 str",
               "stamina": 7,
               "critical": 0,
               "haste": 0,
@@ -1974,7 +1985,7 @@
 
               "sockets": 1,
               "armor": 14,
-              "main_stat": "6 int<br>5 str",
+              "main_stat": "6 int  \n5 str",
               "stamina": 7,
               "critical": 5,
               "haste": 7,
@@ -2008,7 +2019,8 @@
               "versatility": 0,
 
               "source_url": "https://www.wowhead.com/spell=40514",
-              "rarity": 1
+              "rarity": 1,
+              "note": ""
             },
             {
               "name": "Choker of Betrayal",

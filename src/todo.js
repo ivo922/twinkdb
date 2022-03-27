@@ -1,16 +1,17 @@
 /**
  * TODO:
- * ! Note header not showing on tables that don't have items with notes.
  * ! Note remains active when switching tabs.
+ * ! Armor routing - route to armor/cloth on /armor  OR  hide cloth table on /armor.
  *
- * * Weapons table
  * * Trinkets table
  * * Builds
  * * Calculator
  * * Favicon
  * * Github pages deploy
  *
- * * Rewrite builds and item notes using markdown.
+ * * Nav items dropdown
+ * * Rewrite builds using markdown.
+ * * Try to prevent wowhead links reloading on component change.
  *
  * ? Sort items
  * ? Add leech to the calculator
