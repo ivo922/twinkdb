@@ -1,5 +1,5 @@
 import React from 'react';
-import './LegendRarity.css';
+import './Legend.css';
 
 function LegendRarity() {
   return (
