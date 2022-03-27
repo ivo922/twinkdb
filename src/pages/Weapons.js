@@ -1,6 +1,8 @@
 import React from 'react';
 
 import TitleWithImage from '../components/TitleWithImage';
+import LegendRarity from '../components/LegendRarity';
+import LegendSorting from '../components/LegendSorting';
 import TablesList from '../components/TablesList';
 
 function Weapons(props) {
@@ -10,8 +12,6 @@ function Weapons(props) {
       alt: 'Weapons',
     },
   };
-
-  console.log(props.data.categories);
 
   return (
     <div className="main">
@@ -23,6 +23,10 @@ function Weapons(props) {
         />
 
         <hr />
+
+        <LegendRarity />
+
+        <LegendSorting />
 
         <TablesList data={props.data.categories} />
       </div>
