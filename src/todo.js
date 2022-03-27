@@ -1,13 +1,15 @@
 /**
  * TODO:
  * ! Note remains active when switching tabs.
- * ! Armor routing - route to armor/cloth on /armor  OR  hide cloth table on /armor.
  *
  * * Trinkets table
  * * Builds
  * * Calculator
  * * Favicon
  * * Github pages deploy
+ *
+ * * Sort off-sets by rarity
+ * * Sort trinkets by rarity
  *
  * * Nav items dropdown
  * * Rewrite builds using markdown.
