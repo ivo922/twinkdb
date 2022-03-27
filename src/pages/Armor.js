@@ -6,7 +6,10 @@ import { Outlet, NavLink } from 'react-router-dom';
 
 function Armor(props) {
   const images = {
-    heading: require('../assets/images/armor.png'),
+    heading: {
+      src: require('../assets/images/armor.png'),
+      alt: 'Armor',
+    },
   };
 
   const tabLinks = props.data.types.map((type, index) => {
@@ -21,8 +24,8 @@ function Armor(props) {
     <div className="main">
       <div className="container always-visible">
         <TitleWithImage
-          imageUrl={images.heading}
-          imageAlt="Armor"
+          imageUrl={images.heading.src}
+          imageAlt={images.heading.alt}
           title="Armor"
         />
 
