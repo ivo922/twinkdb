@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import Armor from './pages/Armor';
 import Weapons from './pages/Weapons';
 import Trinkets from './pages/Trinkets';
+import Builds from './pages/Builds';
 
 import TablesList from './components/TablesList';
 
@@ -55,7 +56,7 @@ function App() {
 
         <Route path="/trinkets" element={<Trinkets data={dataTrinkets} />} />
 
-        <Route path="/builds" />
+        <Route path="/builds" element={<Builds data={dataBuilds} />}/>
 
         <Route path="/calculator" />
       </Routes>

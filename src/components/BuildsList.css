@@ -1,0 +1,14 @@
+/* ------------------------------------------------------------ *\
+  build-items-container
+\* ------------------------------------------------------------ */
+
+.build-items-container {
+  columns: 2;
+}
+
+/* Tablet Portrait */
+@media (max-width: 1023px) {
+  .build-items-container {
+    columns: 1;
+  }
+}

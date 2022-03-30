@@ -1,0 +1,140 @@
+:root {
+  /* Class colors */
+  --c-class-dk-rgb							: 196, 30, 58;
+	--c-class-dh-rgb							: 163,	48,	201;
+	--c-class-druid-rgb						: 255,	124,	10;
+	--c-class-hunter-rgb					: 170,	211,	114;
+	--c-class-mage-rgb						: 63,	199,	235;
+	--c-class-monk-rgb						: 0,	255,	152;
+	--c-class-paladin-rgb					: 244,	140,	186;
+	--c-class-priest-rgb 					: 255,	255,	255;
+	--c-class-rogue-rgb	 					: 255,	244,	104;
+	--c-class-shaman-rgb	 				:	0,	112,	221;
+	--c-class-warlock-rgb 				: 135,	136,	238;
+	--c-class-warrior-rgb 				: 198,	155,	109;
+
+  --c-class-dk							: #C41E3A;
+  --c-class-dh							: #A330C9;
+  --c-class-druid						: #FF7C0A;
+  --c-class-hunter					: #AAD372;
+  --c-class-mage						: #3FC7EB;
+  --c-class-monk						: #00FF98;
+  --c-class-paladin					: #F48CBA;
+  --c-class-priest 					: #FFFFFF;
+  --c-class-rogue	 					: #FFF468;
+  --c-class-shaman	 				: #0070DD;
+  --c-class-warlock 				: #8788EE;
+  --c-class-warrior 				: #C69B6D;
+
+  /* Item rarity colors */
+  --c-item-poor                : #9d9d9d;
+  --c-item-common              : #fff;
+  --c-item-uncommon            : #1eff00;
+  --c-item-rare                : #0070dd;
+  --c-item-epic                : #a335ee;
+  --c-item-legendary           : #ff8000;
+  --c-item-artifact            : #e6cc80;
+  --c-item-heirloom            : #00ccff;
+
+  /* Base colors */
+  --c-black                 : #000;
+  --c-white                 : #fff;
+  --c-base                  : #055590;
+
+  /* Dark colors */
+  --c-dark									: #242424;
+  --c-dark-2								: #282828;
+  --c-dark-3                : #484848;
+
+  /* Other colors */
+  --c-menu-link							: #bbb;
+
+  /* Fonts */
+  --font-size-base          : 1.6rem;
+  --font-weight-base        : 400;
+  --line-height-base        : 1.2em;
+  --ff-sans-serif           : "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ff-serif                : Georgia, "Times New Roman", Times, serif;
+  --ff-montserrat           : 'Montserrat', sans-serif;
+  --ff-gruppo               : 'Gruppo', cursive;
+
+  /* Transition */
+  --t-duration              : 0.3s;
+}
+
+/* ------------------------------------------------------------ *\
+  scss
+\* ------------------------------------------------------------ */
+
+//Variables
+$font-size-base             : 1.6rem;
+$font-weight-base           : 400;
+$line-height-base           : 1.2;
+
+$ff-sans-serif              : "Helvetica Neue", Helvetica, Arial, sans-serif;
+$ff-serif                   : Georgia, "Times New Roman", Times, serif;
+$ff-montserrat              : 'Montserrat', sans-serif;
+$ff-gruppo                  : 'Gruppo', cursive;
+
+$t-duration                 : 0.3s;
+
+$shell-max-width            : 114rem;
+$shell-gutter               : 1.5rem;
+
+$c-black                    : #000;
+$c-white                    : #fff;
+$c-base                     : #055590;
+
+$c-dark											: #242424;
+$c-dark-2										: #282828;
+$c-dark-3                   : #484848;
+$c-menu-link								: #bbb;
+
+$c-item-poor                : #9d9d9d;
+$c-item-common              : #fff;
+$c-item-uncommon            : #1eff00;
+$c-item-rare                : #0070dd;
+$c-item-epic                : #a335ee;
+$c-item-legendary           : #ff8000;
+$c-item-artifact            : #e6cc80;
+$c-item-heirloom            : #00ccff;
+
+$c-class-dk									: #C41E3A;
+$c-class-dh									: #A330C9;
+$c-class-druid							: #FF7C0A;
+$c-class-hunter							: #AAD372;
+$c-class-mage								: #3FC7EB;
+$c-class-monk								: #00FF98;
+$c-class-paladin						: #F48CBA;
+$c-class-priest 						: #FFFFFF;
+$c-class-rogue	 						: #FFF468;
+$c-class-shaman	 						: #0070DD;
+$c-class-warlock 						: #8788EE;
+$c-class-warrior 						: #C69B6D;
+
+$classes: (
+	deathknight	: var(--c-class-dk-rgb),
+	demonhunter	: var(--c-class-dh-rgb),
+	druid				: var(--c-class-druid-rgb),
+	hunter			: var(--c-class-hunter-rgb),
+	mage				: var(--c-class-mage-rgb),
+	monk				: var(--c-class-monk-rgb),
+	paladin			: var(--c-class-paladin-rgb),
+	priest			: var(--c-class-priest-rgb),
+	rogue				: var(--c-class-rogue-rgb),
+	shaman			: var(--c-class-shaman-rgb),
+	warlock			: var(--c-class-warlock-rgb),
+	warrior			: var(--c-class-warrior-rgb)
+);
+
+$responsive-ios             : 812px;
+
+$breakpoints: (
+	mobile-small: 374px,
+	mobile-medium: 575px,
+	mobile: 767px,
+	admin-bar: 782px,
+	tablet: 1023px,
+	small-desktop: 1199px,
+	large-desktop: 1399px
+);

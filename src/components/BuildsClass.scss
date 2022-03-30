@@ -1,0 +1,38 @@
+/* ------------------------------------------------------------ *\
+  .build-items
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.build-items {
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+
+  padding: 15px;
+  background-color: rgba($c-dark-3, 0.4);
+  box-shadow: 3px 3px 5px rgba($c-dark, 1);
+
+  &:not(:last-child) {
+    margin-bottom: 15px;
+  }
+
+  .build-items__head {
+    display: flex;
+    align-items: center;
+  }
+
+  .build-items__image {
+    margin-right: 10px;
+  }
+
+  .build-items__title {
+    font-size: 24px;
+  }
+
+  @each $class, $color in $classes {
+    &[data-class='#{$class}'] .build-items__title {
+      color: rgb(#{$color});
+    }
+  }
+}

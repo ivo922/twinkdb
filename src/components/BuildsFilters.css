@@ -1,0 +1,77 @@
+/* ------------------------------------------------------------ *\
+  builds-filter
+\* ------------------------------------------------------------ */
+
+.builds-filter {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 6px;
+  row-gap: 6px;
+}
+
+.builds-filter input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.builds-filter label {
+  display: block;
+  width: 46px;
+  height: 46px;
+}
+
+.builds-filter img {
+  width: 100%;
+  height: 100%;
+  filter: grayscale(1);
+  transition: filter 0.3s;
+}
+
+.builds-filter input:checked + label img,
+.builds-filter label:hover img {
+  filter: grayscale(0);
+}
+
+.builds-filter .builds-filter__title {
+  flex: 0 0 100%;
+  max-width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.builds-filter .builds-filter__actions {
+  flex: 0 0 100%;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  column-gap: 10px;
+}
+
+.builds-filter .builds-filter__btn {
+  --color: transparent;
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--color);
+  text-decoration: none;
+  white-space: no-wrap;
+  display: block;
+  min-width: 100px;
+  padding: 0 5px;
+  border: solid 2px var(--color);
+}
+
+.builds-filter .builds-filter__btn[data-checked='true'] {
+  --color: limegreen;
+}
+
+.builds-filter .builds-filter__btn[data-checked='false'] {
+  --color: red;
+}

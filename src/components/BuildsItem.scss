@@ -1,0 +1,72 @@
+/* ------------------------------------------------------------ *\
+  BuildsItem
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.build-item {
+  display: flex;
+  padding: 10px;
+  position: relative;
+
+  /* Tablet Portrait */
+  @media (max-width: 1023px) {
+    text-align: center;
+    display: block;
+  }
+
+  &::after {
+    content: attr(data-type);
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    font-size: 32px;
+    font-weight: 600;
+    opacity: 0.5;
+
+    /* Tablet Portrait */
+    @media (max-width: 1023px) {
+      content: none;
+    }
+  }
+
+  .build-item__anchor {
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .build-item__image {
+    margin-right: 10px;
+
+    /* Tablet Portrait */
+    @media (max-width: 1023px) {
+      margin-bottom: 5px;
+    }
+  }
+
+  .build-item__title {
+    font-size: 18px;
+  }
+
+  .build-item__stats,
+  .build-item__author {
+    font-size: 13px;
+  }
+
+  &[data-type="F2P"] {
+    background-color: rgba(limegreen, 0.1);
+  }
+
+  &[data-type="VET"] {
+    background-color: rgba(yellow, 0.1);
+  }
+
+  & + & {
+    border-top: solid 1px rgba($c-white, 0.3);
+  }
+}
