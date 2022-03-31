@@ -10,12 +10,13 @@ import Trinkets from './pages/Trinkets';
 import Builds from './pages/Builds';
 
 import TablesList from './components/TablesList';
+import BuildsList from './components/BuildsList';
 
 import dataArmor from './DB/armor.json';
 import dataWeapons from './DB/weapons.json';
 import dataTrinkets from './DB/trinkets.json';
-import dataBuilds from './DB/builds.json';
 import ReactMarkdown from 'react-markdown';
+import Build from './components/Build';
 
 function App() {
   return (
@@ -29,7 +30,7 @@ function App() {
 
         <Route children path="/armor" element={<Armor data={dataArmor} />}>
           <Route
-            path=""
+            index
             element={<ReactMarkdown># Chose a category</ReactMarkdown>}
           />
           <Route
@@ -56,7 +57,11 @@ function App() {
 
         <Route path="/trinkets" element={<Trinkets data={dataTrinkets} />} />
 
-        <Route path="/builds" element={<Builds data={dataBuilds} />}/>
+        <Route path="/builds" element={<Builds />}>
+          <Route index element={<BuildsList />} />
+
+          <Route path=":cls/:id" element={<Build />} />
+        </Route>
 
         <Route path="/calculator" />
       </Routes>

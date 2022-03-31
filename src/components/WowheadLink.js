@@ -54,7 +54,7 @@ function WowheadLink(props) {
    */
   if (isLink) {
     return (
-      <a href={props.url} data-wh-rename-link={isRenamed}>
+      <a href={props.url} data-wh-rename-link={isRenamed} data-wh-icon-size="medium">
         {content}
       </a>
     );

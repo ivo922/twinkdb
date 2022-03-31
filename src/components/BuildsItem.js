@@ -13,15 +13,10 @@ function BuildsItem(props) {
 
   return (
     <div className="build-item" data-type={props.build.type}>
-      {/* // TODO: link */}
-      <a
-        href="/20/builds.html?build={{this.class_handle}}:{{this.id}}"
-        className="build-item__anchor js-build-switch"
-        data-target="build"
-        data-class="{{this.class_handle}}"
-        data-id="{{this.id}}"
-      ></a>
-      {/* // TODO: end */}
+      <Link
+        to={`${props.build.class_handle}/${props.build.id}`}
+        className="build-item__anchor"
+      />
 
       <div className="build-item__image">
         <img src={images.spec.src} alt={images.spec.alt} />

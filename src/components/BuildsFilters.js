@@ -1,9 +1,16 @@
 import React from 'react';
+
+import BuildsData from '../DB/builds.json';
+
 import BuildsFilter from './BuildsFilter';
 
 import './BuildsFilters.css';
 
-function BuildsFilters(props) {
+function BuildsFilters() {
+  const classesHandles = BuildsData.classes.map((cls) => {
+    return cls.name_handle;
+  });
+
   return (
     <div className="builds-filter">
       <h2 className="builds-filter__title">Filter by class</h2>
@@ -18,7 +25,7 @@ function BuildsFilters(props) {
         </a>
       </div>
 
-      {props.classes.map((cls, index) => {
+      {classesHandles.map((cls, index) => {
         return <BuildsFilter class={cls} key={index} />;
       })}
     </div>
