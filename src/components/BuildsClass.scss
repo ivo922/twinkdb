@@ -1,10 +1,10 @@
 /* ------------------------------------------------------------ *\
-  .build-items
+  .BuildsClass
 \* ------------------------------------------------------------ */
 
 @import '../styles/variables.scss';
 
-.build-items {
+.BuildsClass {
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
   break-inside: avoid;
@@ -17,21 +17,21 @@
     margin-bottom: 15px;
   }
 
-  .build-items__head {
+  .BuildsClass__head {
     display: flex;
     align-items: center;
   }
 
-  .build-items__image {
+  .BuildsClass__image {
     margin-right: 10px;
   }
 
-  .build-items__title {
+  .BuildsClass__title {
     font-size: 24px;
   }
 
   @each $class, $color in $classes {
-    &[data-class='#{$class}'] .build-items__title {
+    &[data-class='#{$class}'] .BuildsClass__title {
       color: rgb(#{$color});
     }
   }

@@ -1,6 +1,7 @@
 /**
  * TODO:
  * ! Note remains active when switching tabs.
+ * ! Builds column wrapping when only 1 item is present
  *
  * * Builds
  * * Calculator

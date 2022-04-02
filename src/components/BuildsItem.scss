@@ -4,7 +4,7 @@
 
 @import '../styles/variables.scss';
 
-.build-item {
+.BuildsItem {
   display: flex;
   padding: 10px;
   position: relative;
@@ -31,7 +31,7 @@
     }
   }
 
-  .build-item__anchor {
+  .BuildsItem__anchor {
     display: block;
     width: 100%;
     height: 100%;
@@ -40,7 +40,7 @@
     left: 0;
   }
 
-  .build-item__image {
+  .BuildsItem__image {
     margin-right: 10px;
 
     /* Tablet Portrait */
@@ -49,12 +49,12 @@
     }
   }
 
-  .build-item__title {
+  .BuildsItem__title {
     font-size: 18px;
   }
 
-  .build-item__stats,
-  .build-item__author {
+  .BuildsItem__stats,
+  .BuildsItem__author {
     font-size: 13px;
   }
 

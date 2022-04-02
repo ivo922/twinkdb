@@ -13,12 +13,12 @@ function BuildsClass(props) {
 
   const head = () => {
     return (
-      <div className="build-items__head">
-        <div className="build-items__image">
+      <div className="BuildsClass__head">
+        <div className="BuildsClass__image">
           <img src={images.heading.src} alt={images.heading.alt} />
         </div>
 
-        <h3 className="build-items__title">{props.cls.name}</h3>
+        <h3 className="BuildsClass__title">{props.cls.name}</h3>
       </div>
     );
   };
@@ -26,7 +26,7 @@ function BuildsClass(props) {
   const body = () => {
     if (props.cls.builds.length > 0) {
       return (
-        <div className="build-items__body">
+        <div className="BuildsClass__body">
           {props.cls.builds.map((build, index) => {
             return <BuildsItem build={build} key={index} />;
           })}
@@ -36,7 +36,7 @@ function BuildsClass(props) {
   };
 
   return (
-    <div className="build-items" data-class={props.cls.name_handle}>
+    <div className="BuildsClass" data-class={props.cls.name_handle}>
       {head()}
 
       <hr />

@@ -1,14 +1,14 @@
 /* ------------------------------------------------------------ *\
-  build-items-container
+  BuildsList
 \* ------------------------------------------------------------ */
 
-.build-items-container {
+.BuildsList {
   columns: 2;
 }
 
 /* Tablet Portrait */
 @media (max-width: 1023px) {
-  .build-items-container {
+  .BuildsList {
     columns: 1;
   }
 }

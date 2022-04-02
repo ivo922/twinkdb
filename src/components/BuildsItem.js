@@ -12,22 +12,22 @@ function BuildsItem(props) {
   };
 
   return (
-    <div className="build-item" data-type={props.build.type}>
+    <div className="BuildsItem" data-type={props.build.type}>
       <Link
         to={`${props.build.class_handle}/${props.build.id}`}
-        className="build-item__anchor"
+        className="BuildsItem__anchor"
       />
 
-      <div className="build-item__image">
+      <div className="BuildsItem__image">
         <img src={images.spec.src} alt={images.spec.alt} />
       </div>
 
-      <div className="build-item__content">
-        <h4 className="build-item__title">{props.build.title}</h4>
+      <div className="BuildsItem__content">
+        <h4 className="BuildsItem__title">{props.build.title}</h4>
 
-        <div className="build-item__author">Author: {props.build.author}</div>
+        <div className="BuildsItem__author">Author: {props.build.author}</div>
 
-        <div className="build-item__stats">
+        <div className="BuildsItem__stats">
           Stat priority: {props.build.stat_priority}
         </div>
       </div>
