@@ -138,16 +138,15 @@ ul.widgets {
 
 .categories {
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
-  margin: 0 -15px -30px;
+  margin: 0 -10px;
+  margin-bottom: 15px;
 }
 
 .categories .categories__item {
-  flex: 0 0 150px;
-  max-width: 150px;
-  margin-bottom: 30px;
-  padding: 0 15px;
+  flex: 0 0 130px;
+  max-width: 130px;
+  padding: 0 10px;
 }
 
 .category {

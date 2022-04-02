@@ -9,17 +9,23 @@ function Header() {
         <LogoText />
 
         <div className="nav">
-          <ul className="no-dropdown">
+          <ul className="nav__level-1">
             <li>
-              <NavLink to="/weapons">Weapons</NavLink>
-            </li>
+              <span>Items</span>
 
-            <li>
-              <NavLink to="/armor">Armor</NavLink>
-            </li>
+              <ul className="nav__level-2">
+                <li>
+                  <NavLink to="weapons">Weapons</NavLink>
+                </li>
 
-            <li>
-              <NavLink to="/trinkets">Trinkets</NavLink>
+                <li>
+                  <NavLink to="armor">Armor</NavLink>
+                </li>
+
+                <li>
+                  <NavLink to="trinkets">Trinkets</NavLink>
+                </li>
+              </ul>
             </li>
 
             <li>

@@ -150,19 +150,19 @@ function Home() {
 
         <div className="main__content">
           <div className="container">
-            <h2>Quick links:</h2>
+            <h2>Items:</h2>
 
             <div className="categories">
               <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="/weapons">
+                    <Link to="weapons">
                       <img src={images.weapons.src} alt={images.weapons.alt} />
                     </Link>
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="/weapons">Weapons</Link>
+                    <Link to="weapons">Weapons</Link>
                   </h3>
                 </div>
               </div>
@@ -170,13 +170,13 @@ function Home() {
               <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="/armor">
+                    <Link to="armor">
                       <img src={images.armor.src} alt={images.armor.alt} />
                     </Link>
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="/armor">Armor</Link>
+                    <Link to="armor">Armor</Link>
                   </h3>
                 </div>
               </div>
@@ -184,7 +184,7 @@ function Home() {
               <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="/trinkets">
+                    <Link to="trinkets">
                       <img
                         src={images.trinkets.src}
                         alt={images.trinkets.alt}
@@ -193,11 +193,15 @@ function Home() {
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="/trinkets">Trinkets</Link>
+                    <Link to="trinkets">Trinkets</Link>
                   </h3>
                 </div>
               </div>
+            </div>
 
+            <h2>Tools:</h2>
+
+            <div className="categories">
               <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
