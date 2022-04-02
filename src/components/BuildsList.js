@@ -44,7 +44,7 @@ function BuildsList() {
         return filter;
       });
 
-      return { ...prevFilters, ...Object.fromEntries(filtered) };
+      return Object.fromEntries(filtered);
     });
   };
 
@@ -55,7 +55,7 @@ function BuildsList() {
         return filter;
       });
 
-      return { ...prevFilters, ...Object.fromEntries(filtered) };
+      return Object.fromEntries(filtered);
     });
   };
 

@@ -1,9 +1,7 @@
 /**
  * TODO:
  * ! Note remains active when switching tabs.
- * ! Builds column wrapping when only 1 item is present
  *
- * * Builds
  * * Calculator
  * * Favicon
  * * 404
@@ -14,7 +12,6 @@
  * * Sort off-sets by rarity
  * * Sort trinkets by rarity
  *
- * * Nav items dropdown
  * * Rewrite builds using markdown.
  * * Restyle build with tables and remove rectangles
  * * Try to prevent wowhead links reloading on component change.
@@ -37,6 +34,7 @@
  * ? Add leech to the calculator
  * ? Add stats lost to DR to calculator
  *
+ * ? Builds column wrapping when only 1 item is present (not supported in Firefox)
  *
  * Updates:
  * - Updated trinkets table to improve readability.
