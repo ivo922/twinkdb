@@ -2,8 +2,6 @@
  * TODO:
  * ! Note remains active when switching tabs.
  *
- * * Calculator
- * * Favicon
  * * 404
  * * Changelog
  *
@@ -33,6 +31,7 @@
  * ? Enchants
  * ? Add leech to the calculator
  * ? Add stats lost to DR to calculator
+ * ? Save last calculator values in localStorage/sessionStorage
  *
  * ? Builds column wrapping when only 1 item is present (not supported in Firefox)
  *
