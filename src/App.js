@@ -1,5 +1,10 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Navigate,
+} from 'react-router-dom';
 
 import Header from './components/Header';
 
@@ -9,15 +14,16 @@ import Weapons from './pages/Weapons';
 import Trinkets from './pages/Trinkets';
 import Builds from './pages/Builds';
 import Calculator from './pages/Calculator';
+import Changelog from './pages/Changelog';
 
 import TablesList from './components/TablesList';
 import BuildsList from './components/BuildsList';
+import Build from './components/Build';
 
 import dataArmor from './DB/armor.json';
 import dataWeapons from './DB/weapons.json';
 import dataTrinkets from './DB/trinkets.json';
 import ReactMarkdown from 'react-markdown';
-import Build from './components/Build';
 
 function App() {
   return (
@@ -65,6 +71,8 @@ function App() {
         </Route>
 
         <Route path="/calculator" element={<Calculator />} />
+
+        <Route path="/changelog" element={<Changelog />} />
 
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>

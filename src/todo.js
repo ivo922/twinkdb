@@ -2,9 +2,9 @@
  * TODO:
  * ! Note remains active when switching tabs.
  *
- * * 404
- * * Changelog
  *
+ * * Rename component classes to use component name
+ * * Convert css to scss
  * * Mobile site
  *
  * * Sort off-sets by rarity
@@ -19,8 +19,6 @@
  * * Deal with active nav links
  *
  * * Update <head> in index.html
- * * Rename component classes to use component name
- * * Convert css to scss
  * * Check every build for errors
  * * Update description
  * * Github pages deploy

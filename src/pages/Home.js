@@ -1,6 +1,8 @@
-import React from 'react';
-import LogoText from '../components/LogoText';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
+
+import LogoText from '../components/LogoText';
+import Spoiler from '../components/Spoiler';
 
 function Home() {
   const images = {
@@ -49,7 +51,13 @@ function Home() {
     moreGuides:
       'https://xpoff.com/threads/20s-guide-index-and-faq-read-before-posting-new-threads.95324/',
     feedback: 'https://xpoff.com/threads/level-20-items-sheet-updated.97014/',
+    changelog: '/changelog',
   };
+
+  // Reload wowhead links on tab change.
+  useEffect(() => {
+    window.$WowheadPower.refreshLinks();
+  }, []);
 
   return (
     <div className="main">
@@ -233,6 +241,94 @@ function Home() {
                 </div>
               </div>
             </div>
+          </div>
+
+          <div className="container">
+            <h2>Latest update:</h2>
+
+            <Spoiler title="26 Feb 2022">
+              <h3>The following items have been added:</h3>
+
+              <ul>
+                <li>
+                  <h4>Leather:</h4>
+
+                  <ul>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=28348/moonglade-cowl?ilvl=25"
+                      >link</a>
+                    </li>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=28224/wastewalker-helm?bonus=6710?ilvl=25"
+                      >link</a>
+                    </li>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=27531/wastewalker-gloves?ilvl=25"
+                      >link</a>
+                    </li>
+                  </ul>
+                </li>
+
+                <li>
+                  <h4>Mail:</h4>
+
+                  <ul>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=37188/plunderers-helmet?ilvl=25"
+                      >link</a>
+                    </li>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=27802/tidefury-shoulderguards?ilvl=25"
+                      >link</a>
+                    </li>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=27743/girdle-of-living-flame?ilvl=25"
+                      >link</a>
+                    </li>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=24388/girdle-of-the-gale-storm?ilvl=25"
+                      >link</a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+
+              <h3>The following items have been removed:</h3>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=87420?ilvl=28"
+                  >link</a>
+                </li>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=87477?ilvl=28"
+                  >link</a>
+                </li>
+              </ul>
+            </Spoiler>
+
+            <p style={{marginTop: '10px'}}>
+              For previous updates visit{' '}
+              <Link to={routes.changelog}>the changelog</Link>
+            </p>
           </div>
         </div>
       </div>

@@ -1,0 +1,83 @@
+/* ------------------------------------------------------------ *\
+  Spoiler
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.Spoiler {
+  padding: 10px 15px;
+  border: solid 2px $c-black;
+  border-radius: 6px;
+  background: #111;
+  position: relative;
+
+  &::after {
+    content: '...';
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+    font-size: 30px;
+    line-height: 0.9;
+    letter-spacing: 0.02em;
+  }
+
+  & + & {
+    margin-top: 15px;
+  }
+
+  &.is-active {
+    &::after {
+      content: '';
+    }
+
+    .Spoiler__title a::after {
+      transform: translateY(-3px) rotate(180deg);
+    }
+
+    .Spoiler__entry {
+      display: block;
+    }
+  }
+
+  a[href*="wowhead"] {
+    text-decoration: none;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  li > ul {
+    margin-bottom: 10px;
+  }
+
+  .Spoiler__title {
+    border-bottom: 1px solid $c-dark-3;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+
+  .Spoiler__title a {
+    display: block;
+    padding-bottom: 5px;
+    text-decoration: none;
+
+    &::after {
+      content: '';
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-color: transparent;
+      border-width: 7px;
+      border-top-color: currentColor;
+      transform: translateY(4px);
+      transform-origin: center;
+      display: inline-block;
+      margin-left: 5px;
+    }
+  }
+
+  .Spoiler__entry {
+    display: none;
+  }
+}
