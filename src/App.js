@@ -8,6 +8,7 @@ import Armor from './pages/Armor';
 import Weapons from './pages/Weapons';
 import Trinkets from './pages/Trinkets';
 import Builds from './pages/Builds';
+import Calculator from './pages/Calculator';
 
 import TablesList from './components/TablesList';
 import BuildsList from './components/BuildsList';
@@ -63,7 +64,7 @@ function App() {
           <Route path=":cls/:id" element={<Build />} />
         </Route>
 
-        <Route path="/calculator" />
+        <Route path="/calculator" element={<Calculator />} />
       </Routes>
     </Router>
   );

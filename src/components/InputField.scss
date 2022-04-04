@@ -1,0 +1,39 @@
+/* ------------------------------------------------------------ *\
+	InputFIeld
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.InputField {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+  label {
+    flex: 0 0 calc(100% - 80px);
+		max-width: calc(100% - 80px);
+    text-align: right;
+    padding-right: 10px;
+    line-height: 1;
+  }
+
+  input {
+    flex: 1;
+    max-width: 100%;
+    font-size: 14px;
+    font-weight: 300;
+    width: 100%;
+    padding: 10px;
+    appearance: none;
+    border: solid 1px $c-dark;
+    background-color: $c-dark-3;
+
+    &:focus {
+      border: solid 1px $c-class-warrior;
+    }
+
+    &:disabled {
+      cursor: not-allowed;
+    }
+  }
+}

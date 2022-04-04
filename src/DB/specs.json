@@ -1,0 +1,76 @@
+{
+  "classes": [
+    {
+      "class": "Death Knight",
+      "class_handle": "deathknight",
+      "specs": ["Blood", "Unholy", "Frost"],
+      "specs_handle": ["blood", "unholy", "frost"]
+    },
+    {
+      "class": "Demon Hunter",
+      "class_handle": "demonhunter",
+      "specs": ["Vengeance", "Havoc"],
+      "specs_handle": ["vengeance", "havoc"]
+    },
+    {
+      "class": "Druid",
+      "class_handle": "druid",
+      "specs": ["Guardian", "Restoration", "Feral", "Balance"],
+      "specs_handle": ["guardian", "restoration", "feral", "balance"]
+    },
+    {
+      "class": "Hunter",
+      "class_handle": "hunter",
+      "specs": ["Marksmanship", "Beast Mastery", "Survival"],
+      "specs_handle": ["marksmanship", "beastmastery", "survival"]
+    },
+    {
+      "class": "Mage",
+      "class_handle": "mage",
+      "specs": ["Arcane", "Fire", "Frost"],
+      "specs_handle": ["arcane", "fire", "frost"]
+    },
+    {
+      "class": "Monk",
+      "class_handle": "monk",
+      "specs": ["Brewmaster", "Mistweaver", "Windwalker"],
+      "specs_handle": ["brewmaster", "mistweaver", "windwalker"]
+    },
+    {
+      "class": "Paladin",
+      "class_handle": "paladin",
+      "specs": ["Protection", "Holy", "Retribution"],
+      "specs_handle": ["protection", "holy", "retribution"]
+    },
+    {
+      "class": "Priest",
+      "class_handle": "priest",
+      "specs": ["Holy", "Discipline", "Shadow"],
+      "specs_handle": ["holy", "discipline", "shadow"]
+    },
+    {
+      "class": "Rogue",
+      "class_handle": "rogue",
+      "specs": ["Assassination", "Outlaw", "Subtlety"],
+      "specs_handle": ["assassination", "outlaw", "subtlety"]
+    },
+    {
+      "class": "Shaman",
+      "class_handle": "shaman",
+      "specs": ["Restoration", "Elemental", "Enhancement"],
+      "specs_handle": ["restoration", "elemental", "enhancement"]
+    },
+    {
+      "class": "Warlock",
+      "class_handle": "warlock",
+      "specs": ["Affliction", "Destruction", "Demonology"],
+      "specs_handle": ["affliction", "destruction", "demonology"]
+    },
+    {
+      "class": "Warrior",
+      "class_handle": "warrior",
+      "specs": ["Protection", "Fury", "Arms"],
+      "specs_handle": ["protection", "fury", "arms"]
+    }
+  ]
+}

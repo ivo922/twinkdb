@@ -1,0 +1,36 @@
+/* ------------------------------------------------------------ *\
+  StatsCalculator
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.StatsCalculator {
+  max-width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto 20px;
+  padding: 10px 0;
+  border: solid 1px $c-class-warrior;
+  background-color: rgba($c-white, 0.05);
+
+  h3 {
+    padding: 4px 0 5px;
+  }
+
+  .StatsCalculator__inputs {
+    max-width: 50%;
+    flex: 0 0 50%;
+    padding: 0 10px;
+  }
+
+  .StatsCalculator__results {
+    max-width: 50%;
+    flex: 0 0 50%;
+    border-left: solid 1px $c-dark-3;
+    padding: 0 10px;
+  }
+
+  .form__row + .form__row {
+    margin-top: 5px;
+  }
+}

@@ -1,0 +1,50 @@
+/* ------------------------------------------------------------ *\
+  StatsCalculatorSpecSelect
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.StatsCalculatorSpecSelect {
+  position: relative;
+
+  span {
+    width: 24px;
+    height: 24px;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    background-size: contain;
+    z-index: 5;
+  }
+
+  select {
+    position: relative;
+    font-size: 14px;
+    font-weight: 300;
+    width: 100%;
+    padding: 10px;
+    padding-left: 30px;
+    appearance: none;
+    border: solid 1px $c-dark;
+    background-color: $c-dark-3;
+
+    &:focus {
+      border: solid 1px $c-class-warrior;
+    }
+  }
+
+  &::after {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-right: solid 1px $c-white;
+    border-bottom: solid 1px $c-white;
+    transform: translateY(-65%) rotate(45deg);
+    transform-origin: center;
+    position: absolute;
+    top: 50%;
+    right: 13px;
+  }
+}
