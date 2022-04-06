@@ -18,7 +18,7 @@
   }
 }
 
-.build {
+.Build {
   a[data-wh-icon-size] {
     text-decoration: none;
     white-space: nowrap;
@@ -30,18 +30,18 @@
     }
   }
 
-  .build__head {
+  .Build__head {
     text-align: center;
     margin-bottom: 20px;
   }
 
-  .build__body {
+  .Build__body {
     display: flex;
     flex-wrap: wrap;
     column-gap: 16px;
   }
 
-  .build__col {
+  .Build__col {
     flex: 0 0 calc(50% - 8px);
     max-width: calc(50% - 8px);
     border: solid 1px $c-dark-3;
@@ -57,7 +57,7 @@
       padding: 0;
     }
 
-    &.build__col--full {
+    &.Build__col--full {
       flex: 0 0 100%;
       max-width: 100%;
     }

@@ -1,11 +1,11 @@
 import { NavLink } from 'react-router-dom';
 import LogoText from './LogoText';
-import './Header.css';
+import './Header.scss';
 
 function Header() {
   return (
-    <header className="header">
-      <div className="header__inner">
+    <header className="Header">
+      <div className="Header__inner">
         <LogoText />
 
         <div className="nav">

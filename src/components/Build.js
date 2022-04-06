@@ -37,40 +37,40 @@ function Build() {
 
         <hr />
 
-        <div className="build">
-          <div className="build__head">
+        <div className="Build">
+          <div className="Build__head">
             <h2>Stat priority:</h2>
 
             <ReactMarkdown>{build.stat_priority}</ReactMarkdown>
           </div>
 
-          <div className="build__body">
-            <div className="build__col">
+          <div className="Build__body">
+            <div className="Build__col">
               <h2>Gear:</h2>
 
               <ReactMarkdown>{build.gear.join('')}</ReactMarkdown>
             </div>
 
-            <div className="build__col">
+            <div className="Build__col">
               <h2>Enchants:</h2>
 
               <ReactMarkdown>{build.enchants.join('')}</ReactMarkdown>
             </div>
 
-            <div className="build__col">
+            <div className="Build__col">
               <h2>Gems:</h2>
 
               <ReactMarkdown>{build.gems.join('')}</ReactMarkdown>
             </div>
 
-            <div className="build__col">
+            <div className="Build__col">
               <h2>Consumables:</h2>
 
               <ReactMarkdown>{build.consumables.join('')}</ReactMarkdown>
             </div>
 
             {build.notes &&
-              <div className="build__col build__col--full">
+              <div className="Build__col build__col--full">
                 <h2>Notes:</h2>
 
                 <ReactMarkdown>{build.notes.join('')}</ReactMarkdown>

@@ -1,9 +1,9 @@
 import React from 'react';
-import './Legend.css';
+import './Legend.scss';
 
 function LegendSorting() {
   return (
-    <div class="legend">
+    <div class="Legend">
       <h4>How are items sorted?</h4>
 
       <p>

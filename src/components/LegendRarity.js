@@ -1,9 +1,9 @@
 import React from 'react';
-import './Legend.css';
+import './Legend.scss';
 
 function LegendRarity() {
   return (
-    <div className="legend">
+    <div className="Legend">
       <h4>Rarity legend:</h4>
 
       <span className="rarity-1">

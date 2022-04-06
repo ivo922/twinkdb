@@ -1,12 +1,12 @@
 /* ------------------------------------------------------------ *\
-  title-with-image
+  TitleWithImage
 \* ------------------------------------------------------------ */
 
-.title-with-image {
+.TitleWithImage {
   display: flex;
   align-items: center;
-}
 
-.title-with-image img {
-  margin-right: 10px;
+  img {
+    margin-right: 10px;
+  }
 }

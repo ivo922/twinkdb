@@ -1,0 +1,120 @@
+/* ------------------------------------------------------------ *\
+  table
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.table {
+  border: solid 1px $c-dark-3;
+  margin-bottom: 20px;
+  font-size: 14px;
+  text-align: center;
+
+  /* Tablet Portrait */
+  @media (max-width: 1023px) {
+    overflow: auto;
+  }
+
+  th,
+  td {
+    position: relative;
+    padding: 5px 10px;
+  }
+
+  th {
+    background-color: $c-black;
+    font-weight: 300;
+  }
+
+  tr:nth-child(even) td {
+    background-color: $c-dark-2;
+  }
+
+  tr:hover td {
+    background-color: $c-dark-3;
+  }
+
+  td a {
+    font-weight: 400;
+    text-decoration: none;
+
+    /* Tablet Portrait */
+    @media (max-width: 1023px) {
+      white-space: nowrap;
+    }
+  }
+
+  td:first-child {
+    text-align: left;
+  }
+
+  // Table note
+  td.table__note {
+    display: none;
+  }
+
+  tr.note-active td:not(:first-child):not(.table__note):not(:last-child) {
+    display: none;
+  }
+
+  tr.note-active td.table__note {
+    display: table-cell;
+  }
+  // End of table note
+
+  // Change text
+  tr .table__note-trigger a span:last-child {
+    display: none;
+  }
+
+  tr .table__note-trigger a span:first-child {
+    display: block;
+  }
+
+  tr.note-active .table__note-trigger a span:last-child {
+    display: block;
+  }
+
+  tr.note-active .table__note-trigger a span:first-child {
+    display: none;
+  }
+  // End of change text
+
+  .table__note-trigger a {
+    color: $c-dark-3;
+    text-decoration: none;
+    pointer-events: none;
+  }
+
+  .table__note-trigger.has-note a {
+    font-weight: 700;
+    color: $c-item-artifact;
+    pointer-events: all;
+  }
+
+  .table__note {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  // Rarity
+  $rarities: ("1": limegreen, "2": yellow, "3": orange, "4": red);
+
+  @each $index, $color in $rarities {
+    tr.rarity-#{$index} td:first-child::before {
+      background-color: $color;
+    }
+  }
+
+  tr[class^="rarity-"] td:first-child {
+    &::before {
+      content: '';
+      width: 10px;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+    }
+  }
+}

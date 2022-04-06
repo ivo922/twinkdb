@@ -1,9 +1,9 @@
 import { Link } from 'react-router-dom';
-import './LogoText.css';
+import './LogoText.scss';
 
 function LogoText() {
   return (
-    <div className="logo">
+    <div className="LogoText">
       <Link to="/">TWINKDB</Link>
     </div>
   );

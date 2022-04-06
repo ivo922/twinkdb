@@ -6,7 +6,7 @@ import TitleWithImage from '../components/TitleWithImage';
 import BuildsFilters from '../components/BuildsFilters';
 import BuildsClass from './BuildsClass';
 
-import './BuildsList.css';
+import './BuildsList.scss';
 
 function BuildsList() {
   const images = {

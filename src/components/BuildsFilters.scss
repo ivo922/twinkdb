@@ -39,12 +39,12 @@
   min-width: 100px;
   padding: 0 5px;
   border: solid 2px var(--color);
-}
 
-.BuildsFilters .BuildsFilters__btn[data-checked='true'] {
-  --color: limegreen;
-}
+  .BuildsFilters__btn[data-checked='true'] {
+    --color: limegreen;
+  }
 
-.BuildsFilters .BuildsFilters__btn[data-checked='false'] {
-  --color: red;
+  .BuildsFilters__btn[data-checked='false'] {
+    --color: red;
+  }
 }

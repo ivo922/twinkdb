@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import TableRow from './TableRow';
 import TableHeader from './TableHeader';
 
-import './TablesList.css';
+import './TablesList.scss';
 
 function TablesList(props) {
   // Reload wowhead links on tab change.

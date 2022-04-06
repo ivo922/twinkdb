@@ -4,11 +4,9 @@
 
 .BuildsList {
   columns: 2;
-}
 
-/* Tablet Portrait */
-@media (max-width: 1023px) {
-  .BuildsList {
+  /* Tablet Portrait */
+  @media (max-width: 1023px) {
     columns: 1;
   }
 }

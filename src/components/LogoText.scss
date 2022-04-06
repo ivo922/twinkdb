@@ -1,0 +1,25 @@
+/* ------------------------------------------------------------ *\
+	LogoText
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.LogoText {
+  font-family: $ff-gruppo;
+  font-size: 38px;
+  line-height: 1;
+  transition: opacity $t-duration;
+
+  /* Tablet Portrait */
+  @media (max-width: 1023px) {
+    font-size: 24px;
+  }
+
+  &:hover {
+    opacity: 0.8;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}

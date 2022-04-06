@@ -4,7 +4,7 @@ import BuildsData from '../DB/builds.json';
 
 import BuildsFilter from './BuildsFilter';
 
-import './BuildsFilters.css';
+import './BuildsFilters.scss';
 
 function BuildsFilters(props) {
   const classesHandles = BuildsData.classes.map((cls) => {

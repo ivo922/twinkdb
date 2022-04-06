@@ -1,8 +1,6 @@
 /**
  * TODO:
  *
- * * Rename component classes to use component name
- * * Convert css to scss
  * * Mobile site
  *
  * * Sort off-sets by rarity
