@@ -1,7 +1,5 @@
 /**
  * TODO:
- * ! Note remains active when switching tabs.
- *
  *
  * * Rename component classes to use component name
  * * Convert css to scss
@@ -37,6 +35,7 @@
  * - Updated trinkets table to improve readability.
  * - Moved changelog to a different page because it became too long.
  * - Restyled builds.
+ * - Restyled navigation and homepage.
  *
  * - Some new items added.
  * - Some new builds added.

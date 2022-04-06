@@ -6,6 +6,12 @@ function TableRow(props) {
   const [visibleCellsCount, setVisibleCellsCount] = useState(0);
   const [noteActive, setNoteActive] = useState(false);
 
+  useEffect(() => {
+    return () => {
+      setNoteActive(false);
+    };
+  }, [props.item]);
+
   /**
    * Formats a string.
    *
