@@ -147,6 +147,11 @@ ul.widgets {
   flex: 0 0 130px;
   max-width: 130px;
   padding: 0 10px;
+
+  /* Tablet Portrait */
+  @media (max-width: 1023px) {
+    margin-bottom: 20px;
+  }
 }
 
 .category {
