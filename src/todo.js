@@ -3,19 +3,19 @@
  *
  * * Mobile site
  *
+ * * Check every build for errors
+ * * Rewrite builds using markdown.
+ *
  * * Sort off-sets by rarity
  * * Sort trinkets by rarity
  *
- * * Rewrite builds using markdown.
  * * Restyle build with tables and remove rectangles
  * * Try to prevent wowhead links reloading on component change.
  * * Anchors for item categories
  * * URL params for sorting builds
- * * Import json wherever it's need instead of passing it down
  * * Deal with active nav links
  *
  * * Update <head> in index.html
- * * Check every build for errors
  * * Update description
  * * Github pages deploy
  *
@@ -26,6 +26,7 @@
  * ? Add leech to the calculator
  * ? Add stats lost to DR to calculator
  * ? Save last calculator values in localStorage/sessionStorage
+ * ? Import json wherever it's need instead of passing it down
  *
  * ? Builds column wrapping when only 1 item is present (not supported in Firefox)
  *

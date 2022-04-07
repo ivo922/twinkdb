@@ -1,0 +1,162 @@
+/* ------------------------------------------------------------ *\
+  Nav
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.Nav {
+  padding: 0 20px;
+  font-family: $ff-montserrat;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  color: $c-menu-link;
+
+  /* Tablet Portrait */
+  @media (max-width: 1023px) {
+    width: 90%;
+    height: 100%;
+    background-color: $c-dark-2;
+    border-left: 1px solid $c-dark-3;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    transform: translateX(100%);
+    padding: 25px 0;
+    transition: transform 0.3s;
+  }
+
+  &.is-active {
+    transform: none;
+  }
+
+  ul {
+    list-style: none;
+    white-space: nowrap;
+  }
+
+  ul.Nav__level-1 {
+    display: flex;
+    align-items: center;
+    margin: 0 -20px;
+    line-height: 1;
+
+    /* Tablet Portrait */
+    @media (max-width: 1023px) {
+      display: block;
+      margin: 0;
+      line-height: 2.4;
+      text-align: center;
+    }
+  }
+
+  ul.Nav__level-2 {
+    background-color: $c-dark-3;
+    border: solid 1px #484848;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    transform: translateY(20px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity $t-duration;
+
+    &::before {
+      content: '';
+      width: 100%;
+      height: 20px;
+      position: absolute;
+      bottom: 100%;
+      left: 0;
+      display: block;
+    }
+
+    /* Tablet Portrait */
+    @media (max-width: 1023px) {
+      border: none;
+      position: static;
+      transform: none;
+      opacity: 1;
+      pointer-events: all;
+      margin: 0 -20px;
+    }
+  }
+
+  ul.Nav__level-2 li {
+    padding: 10px 15px;
+
+    /* Tablet Portrait */
+    @media (max-width: 1023px) {
+      padding: inherit;
+      font-size: 15px;
+    }
+  }
+
+  li {
+    position: relative;
+    padding: 0 20px;
+
+    /* Tablet Portrait */
+    @media (max-width: 1023px) {
+      color: $c-white;
+    }
+
+    &:hover > a,
+    &:hover > span {
+      color: $c-white;
+    }
+
+    @media (hover: hover) {
+      &:hover > ul.Nav__level-2 {
+        opacity: 1;
+        pointer-events: all;
+      }
+    }
+  }
+
+  a,
+  span {
+    cursor: pointer;
+    text-decoration: none;
+    transition: color $t-duration;
+  }
+
+  a:focus {
+    color: $c-white;
+  }
+
+  .Nav__close {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    display: none;
+
+    /* Tablet Portrait */
+    @media (max-width: 1023px) {
+      display: block;
+    }
+
+    &::before,
+    &::after {
+      content: '';
+      width: 100%;
+      height: 2px;
+      background-color: $c-white;
+      border-radius: 10px;
+      position: absolute;
+      top: calc(50% - 1px);
+      left: 0;
+      transform-origin: center;
+    }
+
+    &::before {
+      transform: rotate(45deg);
+    }
+
+    &::after {
+      transform: rotate(-45deg);
+    }
+  }
+}
