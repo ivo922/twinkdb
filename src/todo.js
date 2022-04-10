@@ -2,9 +2,6 @@
  * TODO:
  * ! desktop nav dropdown styles
  *
- * * Check every build for errors
- * * Rewrite builds using markdown.
- *
  * * Sort off-sets by rarity
  * * Sort trinkets by rarity
  *

@@ -33,6 +33,7 @@
   ul {
     list-style: none;
     white-space: nowrap;
+    padding: 0;
   }
 
   ul.Nav__level-1 {
@@ -51,8 +52,8 @@
   }
 
   ul.Nav__level-2 {
-    background-color: $c-dark-3;
-    border: solid 1px #484848;
+    background-color: $c-dark-2;
+    border: solid 1px $c-dark-3;
     position: absolute;
     top: 100%;
     right: 0;
@@ -73,6 +74,7 @@
 
     /* Tablet Portrait */
     @media (max-width: 1023px) {
+      background-color: $c-dark-3;
       border: none;
       position: static;
       transform: none;
