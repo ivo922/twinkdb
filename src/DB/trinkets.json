@@ -7,109 +7,121 @@
           "name": "Pit Fighter",
           "item_url": "https://www.wowhead.com/item=74034",
           "source_url": "https://www.wowhead.com/object=209620|Darkmoon Treasure Chest@Darkmoon Island",
-          "note": "13 stamina + mastery proc."
+          "note": ""
         },
         {
           "name": "Greka's Dentures",
           "item_url": "https://www.wowhead.com/item=113408?ilvl=25",
           "source_url": "https://www.wowhead.com/object=232588|Greka's Urn@Shadowmoon Valley",
-          "note": "9 haste + str on proc"
+          "note": ""
         },
         {
           "name": "External Combustion Engine",
           "item_url": "https://www.wowhead.com/item=113025?ilvl=24",
           "source_url": "https://www.wowhead.com/quest=34090@Talador",
-          "note": "7 crit + str proc"
+          "note": ""
         },
         {
           "name": "\"Reliable\" Threat Assessor",
           "item_url": "https://www.wowhead.com/item=113024?ilvl=24",
           "source_url": "https://www.wowhead.com/quest=34090@Talador",
-          "note": "6 mastery + agi proc"
+          "note": ""
         },
         {
           "name": "Foolproof Targeting Mechanism",
           "item_url": "https://www.wowhead.com/item=113023?ilvl=24",
           "source_url": "https://www.wowhead.com/quest=34090@Talador",
-          "note": "9 mastery + int proc"
+          "note": ""
         },
         {
           "name": "Harlan's Loaded Dice",
           "item_url": "https://www.wowhead.com/item=155881?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=126983|Harlan Sweete@Freehold",
-          "note": "6 agi + crit/haste/mastery on proc"
+          "note": ""
         },
         {
           "name": "Ember of Nullification",
           "item_url": "https://www.wowhead.com/item=136978?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=98696|Illysanna Ravencrest@Black Rook Hold",
-          "note": "5 agi/str, 8 vers + silence on proc"
+          "note": ""
         },
         {
           "name": "Lekos' Leash",
           "item_url": "https://www.wowhead.com/item=128958?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=97069|Wrath-Lord Lekos@Vault of the Wardens",
-          "note": "9 crit + agi on proc (DH ONLY)"
+          "note": "**DH ONLY**"
         },
         {
           "name": "Kliaa's Venomclaws",
           "item_url": "https://www.wowhead.com/item=113163?ilvl=25",
           "source_url": "https://www.wowhead.com/quest=33834@Shadowmoon Valley",
-          "note": "9 mastery + agi on proc"
+          "note": ""
         },
         {
           "name": "Giantstalker's Guile",
           "item_url": "https://www.wowhead.com/item=111530?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=71665|Giant-Slayer Kul@Frostfire Ridge",
-          "note": "9 vers + agi on proc"
+          "note": ""
         },
         {
           "name": "Scales of Gennadian",
           "item_url": "https://www.wowhead.com/item=116075?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=80471|Gennadian@Talador",
-          "note": "6 agi + mastery on proc"
+          "note": ""
         },
         {
           "name": "Moonstone Luck Token",
           "item_url": "https://www.wowhead.com/item=113160?ilvl=24",
           "source_url": "https://www.wowhead.com/quest=34847@Shadowmoon Valley",
-          "note": "6 int + int on proc"
+          "note": ""
         },
         {
           "name": "Forge Ember",
           "item_url": "https://www.wowhead.com/item=37660?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=27978|Sjonnir the Ironshaper@Halls of Stone",
-          "note": "9 crit + int on proc"
+          "note": ""
         },
         {
           "name": "Spark of Life",
           "item_url": "https://www.wowhead.com/item=37657?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=27978|Sjonnir the Ironshaper@Halls of Stone",
-          "note": "9 haste + vers on proc"
+          "note": ""
         },
         {
           "name": "Zugdug's Piece of Paradise",
           "item_url": "https://www.wowhead.com/item=131799?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=98299|Bodash the Hoarder@Highmountain",
-          "note": "6 str + mastery on proc"
+          "note": ""
         },
         {
           "name": "Legacy of Om'ra",
           "item_url": "https://www.wowhead.com/item=113527?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=75071|Mother Om'ra@Shadowmoon Valley",
-          "note": "6 int + mastery on proc"
+          "note": ""
         },
         {
           "name": "Endless Tincture of Renewed Combat",
           "item_url": "https://www.wowhead.com/item=152634?ilvl=19",
           "source_url": "https://www.wowhead.com/spell=252362",
-          "note": "6 vers + heal on kill"
+          "note": ""
         },
         {
           "name": "Empowered Shark's Tooth",
           "item_url": "https://www.wowhead.com/item=159765?ilvl=24",
           "source_url": "https://www.wowhead.com/quest=48026@Zul'Dazar",
-          "note": "6 main stat + crit proc"
+          "note": ""
+        },
+        {
+          "name": "Essence of Gossamer",
+          "item_url": "https://www.wowhead.com/item=37220/essence-of-gossamer?ilvl=25",
+          "source_url": "https://www.wowhead.com/npc=28921|Hadronox@Azjol-Nerub",
+          "note": ""
+        },
+        {
+          "name": "Price of Progress",
+          "item_url": "https://www.wowhead.com/item=88360/price-of-progress?ilvl=25",
+          "source_url": "https://www.wowhead.com/npc=59080|Darkmaster Gandling@Scholomance",
+          "note": ""
         }
       ]
     },
@@ -120,49 +132,49 @@
           "name": "Enforcer's Stun Grenade",
           "item_url": "https://www.wowhead.com/item=110017?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=80816|Ahri'ok Dugru@Iron Docks",
-          "note": "6 vers + vers on use"
+          "note": ""
         },
         {
           "name": "Armored Elekk Tusk",
           "item_url": "https://www.wowhead.com/item=108902?ilvl=25",
           "source_url": "https://www.wowhead.com/object=226854|Armored Elekk Tusk@Shadowmoon Valley",
-          "note": "9 vers + mastery on use (lasts for 30s instead of 15)"
+          "note": "Lasts for 30s instead of 15s in BG"
         },
         {
           "name": "Orb of Torment",
           "item_url": "https://www.wowhead.com/item=137538?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=96015|Inquisitor Tormentorum@Vault of the Wardens",
-          "note": "10 haste + 50% leech on use"
+          "note": ""
         },
         {
           "name": "Kihra's Adrenaline Injector",
           "item_url": "https://www.wowhead.com/item=109997?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=79852|Oshir@Iron Docks",
-          "note": "4 int + mastery on use"
+          "note": ""
         },
         {
           "name": "Hargal's Favorite Trinket",
           "item_url": "https://www.wowhead.com/item=140161?ilvl=27",
           "source_url": "https://www.wowhead.com/item=141069",
-          "note": "Bladestorm (WARRIOR ONLY)"
+          "note": "Bladestorm **(WARRIOR ONLY)**"
         },
         {
           "name": "Shivermaw's Jawbone",
           "item_url": "https://www.wowhead.com/item=137440?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=101951|Shivermaw@Violet Hold",
-          "note": "9 Stamina + AoE slow on-use"
+          "note": ""
         },
         {
           "name": "Brooch of Munificent Deeds",
           "item_url": "https://www.wowhead.com/item=87500?ilvl=28",
           "source_url": "[Pandaria BoE]",
-          "note": "10 Stamina + Max health on-use"
+          "note": ""
         },
         {
           "name": "Argussian Compass",
           "item_url": "https://www.wowhead.com/item=27770?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=17882|The Black Stalker@The Underbog",
-          "note": "7 Stamina + Shield on-use"
+          "note": ""
         }
       ]
     },

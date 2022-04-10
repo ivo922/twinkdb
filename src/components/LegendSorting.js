@@ -21,7 +21,7 @@ function LegendSorting() {
         </span>{' '}
         {'>'}{' '}
         <span style={{color: 'yellow'}}>
-          <a href="https://www.wowhead.com/npc=75590"></a> drop
+          <a href="https://www.wowhead.com/npc=75590">Frog</a> drop
         </span>{' '}
         {'>'} <span style={{color: 'orange'}}>World BoEs</span>
       </p>

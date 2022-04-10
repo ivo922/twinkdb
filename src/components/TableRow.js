@@ -6,8 +6,6 @@ function TableRow(props) {
   const [visibleCellsCount, setVisibleCellsCount] = useState(0);
   const [noteActive, setNoteActive] = useState(false);
 
-  console.log(visibleCellsCount);
-
   useEffect(() => {
     return () => {
       setNoteActive(false);
@@ -71,7 +69,7 @@ function TableRow(props) {
     });
 
     setVisibleCellsCount(counter);
-  }, []);
+  }, [props.item]);
 
   return (
     <tr
@@ -80,39 +78,38 @@ function TableRow(props) {
       }`}
     >
       {Object.entries(props.item).map((entry, index) => {
-        {
-          if (
-            entry[0] !== 'name' &&
-            entry[0] !== 'rarity' &&
-            entry[0] !== 'note'
-          ) {
-            if (entry[0].includes('_url')) {
-              return (
-                <td key={`${entry[0]}--${entry[1]}`}>
-                  <WowheadLink url={entry[1]} />
-                </td>
-              );
-            } else {
-              return (
-                <td key={index}>
-                  <ReactMarkdown>{formatText(entry[1])}</ReactMarkdown>
-                </td>
-              );
-            }
-          } else if (entry[0] === 'note') {
-            if (entry[1]) {
-              return (
-                <td
-                  className="table__note"
-                  key={index}
-                  colSpan={visibleCellsCount}
-                >
-                  <ReactMarkdown>{entry[1]}</ReactMarkdown>
-                </td>
-              );
-            }
+        if (
+          entry[0] !== 'name' &&
+          entry[0] !== 'rarity' &&
+          entry[0] !== 'note'
+        ) {
+          if (entry[0].includes('_url')) {
+            return (
+              <td key={`${entry[0]}--${entry[1]}`}>
+                <WowheadLink url={entry[1]} />
+              </td>
+            );
+          } else {
+            return (
+              <td key={index}>
+                <ReactMarkdown>{formatText(entry[1])}</ReactMarkdown>
+              </td>
+            );
+          }
+        } else if (entry[0] === 'note') {
+          if (entry[1]) {
+            return (
+              <td
+                className="table__note"
+                key={index}
+                colSpan={visibleCellsCount}
+              >
+                <ReactMarkdown>{entry[1]}</ReactMarkdown>
+              </td>
+            );
           }
         }
+        return null;
       })}
 
       {noteToggleMarkup()}

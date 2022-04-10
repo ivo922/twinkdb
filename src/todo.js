@@ -1,6 +1,6 @@
 /**
  * TODO:
- * ! desktop nav dropdown styles
+ * ! add pokspell's stats to calculator
  *
  * * Sort off-sets by rarity
  * * Sort trinkets by rarity
