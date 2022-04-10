@@ -1,7 +1,6 @@
 /**
  * TODO:
- *
- * * Mobile site
+ * ! desktop nav dropdown styles
  *
  * * Check every build for errors
  * * Rewrite builds using markdown.

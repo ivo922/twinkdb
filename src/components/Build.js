@@ -69,8 +69,8 @@ function Build() {
               <ReactMarkdown>{build.consumables.join('')}</ReactMarkdown>
             </div>
 
-            {build.notes &&
-              <div className="Build__col build__col--full">
+            {build.notes.length !== 0 &&
+              <div className="Build__col Build__col--full">
                 <h2>Notes:</h2>
 
                 <ReactMarkdown>{build.notes.join('')}</ReactMarkdown>
