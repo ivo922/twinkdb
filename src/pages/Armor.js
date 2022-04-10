@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import TitleWithImage from '../components/TitleWithImage';
 import LegendRarity from '../components/LegendRarity';
@@ -11,6 +11,10 @@ function Armor(props) {
       alt: 'Armor',
     },
   };
+
+  useEffect(() => {
+    document.title = 'TwinkDB - Armor';
+  }, []);
 
   const tabLinks = props.data.types.map((type, index) => {
     return (

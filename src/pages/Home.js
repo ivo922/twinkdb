@@ -57,6 +57,7 @@ function Home() {
   // Reload wowhead links on tab change.
   useEffect(() => {
     window.$WowheadPower.refreshLinks();
+    document.title = 'TwinkDB - Home';
   }, []);
 
   return (
@@ -258,19 +259,25 @@ function Home() {
                       <a
                         data-wh-icon-size="small"
                         href="https://www.wowhead.com/item=28348/moonglade-cowl?ilvl=25"
-                      >link</a>
+                      >
+                        link
+                      </a>
                     </li>
                     <li>
                       <a
                         data-wh-icon-size="small"
                         href="https://www.wowhead.com/item=28224/wastewalker-helm?bonus=6710?ilvl=25"
-                      >link</a>
+                      >
+                        link
+                      </a>
                     </li>
                     <li>
                       <a
                         data-wh-icon-size="small"
                         href="https://www.wowhead.com/item=27531/wastewalker-gloves?ilvl=25"
-                      >link</a>
+                      >
+                        link
+                      </a>
                     </li>
                   </ul>
                 </li>
@@ -283,25 +290,33 @@ function Home() {
                       <a
                         data-wh-icon-size="small"
                         href="https://www.wowhead.com/item=37188/plunderers-helmet?ilvl=25"
-                      >link</a>
+                      >
+                        link
+                      </a>
                     </li>
                     <li>
                       <a
                         data-wh-icon-size="small"
                         href="https://www.wowhead.com/item=27802/tidefury-shoulderguards?ilvl=25"
-                      >link</a>
+                      >
+                        link
+                      </a>
                     </li>
                     <li>
                       <a
                         data-wh-icon-size="small"
                         href="https://www.wowhead.com/item=27743/girdle-of-living-flame?ilvl=25"
-                      >link</a>
+                      >
+                        link
+                      </a>
                     </li>
                     <li>
                       <a
                         data-wh-icon-size="small"
                         href="https://www.wowhead.com/item=24388/girdle-of-the-gale-storm?ilvl=25"
-                      >link</a>
+                      >
+                        link
+                      </a>
                     </li>
                   </ul>
                 </li>
@@ -314,18 +329,22 @@ function Home() {
                   <a
                     data-wh-icon-size="small"
                     href="https://www.wowhead.com/item=87420?ilvl=28"
-                  >link</a>
+                  >
+                    link
+                  </a>
                 </li>
                 <li>
                   <a
                     data-wh-icon-size="small"
                     href="https://www.wowhead.com/item=87477?ilvl=28"
-                  >link</a>
+                  >
+                    link
+                  </a>
                 </li>
               </ul>
             </Spoiler>
 
-            <p style={{marginTop: '10px'}}>
+            <p style={{ marginTop: '10px' }}>
               For previous updates visit{' '}
               <Link to={routes.changelog}>the changelog</Link>
             </p>

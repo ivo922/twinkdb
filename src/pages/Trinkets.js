@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import TitleWithImage from '../components/TitleWithImage';
 import TablesList from '../components/TablesList';
@@ -10,6 +10,10 @@ function Trinkets(props) {
       alt: 'Trinkets',
     },
   };
+
+  useEffect(() => {
+    document.title = 'TwinkDB - Trinkets';
+  }, []);
 
   return (
     <div className="main">

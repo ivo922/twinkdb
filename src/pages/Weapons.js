@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import TitleWithImage from '../components/TitleWithImage';
 import LegendRarity from '../components/LegendRarity';
@@ -12,6 +12,10 @@ function Weapons(props) {
       alt: 'Weapons',
     },
   };
+
+  useEffect(() => {
+    document.title = 'TwinkDB - Weapons';
+  }, []);
 
   return (
     <div className="main">

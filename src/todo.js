@@ -1,6 +1,5 @@
 /**
  * TODO:
- * ! add pokspell's stats to calculator
  *
  * * Sort off-sets by rarity
  * * Sort trinkets by rarity
@@ -9,10 +8,7 @@
  * * Try to prevent wowhead links reloading on component change.
  * * Anchors for item categories
  * * URL params for sorting builds
- * * Deal with active nav links
- *
- * * Update <head> in index.html
- * * Update description
+ *l
  * * Github pages deploy
  *
  *
