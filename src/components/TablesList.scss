@@ -24,6 +24,7 @@
   th {
     background-color: $c-black;
     font-weight: 300;
+    text-transform: capitalize;
   }
 
   tr:nth-child(even) td {
@@ -61,24 +62,6 @@
     display: table-cell;
   }
   // End of table note
-
-  // Change text
-  tr .table__note-trigger a span:last-child {
-    display: none;
-  }
-
-  tr .table__note-trigger a span:first-child {
-    display: block;
-  }
-
-  tr.note-active .table__note-trigger a span:last-child {
-    display: block;
-  }
-
-  tr.note-active .table__note-trigger a span:first-child {
-    display: none;
-  }
-  // End of change text
 
   .table__note-trigger a {
     color: $c-dark-3;

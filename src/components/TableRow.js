@@ -6,6 +6,8 @@ function TableRow(props) {
   const [visibleCellsCount, setVisibleCellsCount] = useState(0);
   const [noteActive, setNoteActive] = useState(false);
 
+  console.log(visibleCellsCount);
+
   useEffect(() => {
     return () => {
       setNoteActive(false);
@@ -69,7 +71,7 @@ function TableRow(props) {
     });
 
     setVisibleCellsCount(counter);
-  });
+  }, []);
 
   return (
     <tr

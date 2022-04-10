@@ -3,7 +3,7 @@ import './Legend.scss';
 
 function LegendSorting() {
   return (
-    <div class="Legend">
+    <div className="Legend">
       <h4>How are items sorted?</h4>
 
       <p>
