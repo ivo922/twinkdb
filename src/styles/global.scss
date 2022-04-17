@@ -147,11 +147,7 @@ ul.widgets {
   flex: 0 0 130px;
   max-width: 130px;
   padding: 0 10px;
-
-  /* Tablet Portrait */
-  @media (max-width: 1023px) {
-    margin-bottom: 20px;
-  }
+  margin-bottom: 20px;
 }
 
 .category {
@@ -174,6 +170,26 @@ ul.widgets {
   position: relative;
   opacity: 0.85;
   transition: opacity var(--t-duration);
+}
+
+.category__item--coming-soon {
+  pointer-events: none;
+
+  .category__image::after {
+    content: 'COMING SOON';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -35%);
+    width: 80px;
+    height: 80px;
+    color: red;
+    font-weight: 700;
+  }
+
+  img {
+    filter: grayscale(1);
+  }
 }
 
 .category .category__image a {

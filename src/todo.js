@@ -8,7 +8,7 @@
  * * Try to prevent wowhead links reloading on component change.
  * * Anchors for item categories
  * * URL params for sorting builds
- *l
+ *
  * * Github pages deploy
  *
  *

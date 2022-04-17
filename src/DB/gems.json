@@ -1,0 +1,372 @@
+{
+  "categories": [
+    {
+      "name": "Strength",
+      "items": [
+        {
+          "name": "Bold Crimson Spinel",
+          "item_url": "https://www.wowhead.com/item=32193/bold-crimson-spinel",
+          "stats": "+3 Strength",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Sovereign Shadowsong Amethyst",
+          "item_url": "https://www.wowhead.com/item=32211/sovereign-shadowsong-amethyst",
+          "stats": "+2 Strength and +2 Stamina",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Inscribed Pyrestone",
+          "item_url": "https://www.wowhead.com/item=32217/inscribed-pyrestone",
+          "stats": "+2 Critical Strike and +2 Strength",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Bold Cardinal Ruby",
+          "item_url": "https://www.wowhead.com/item=40111/bold-cardinal-ruby",
+          "stats": "+3 Strength",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Sovereign Dreadstone",
+          "item_url": "https://www.wowhead.com/item=40129/sovereign-dreadstone",
+          "stats": "+2 Strength and +2 Stamina",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Etched Dreadstone",
+          "item_url": "https://www.wowhead.com/item=40143/etched-dreadstone",
+          "stats": "+2 Strength and +2 Critical Strike",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Inscribed Ametrine",
+          "item_url": "https://www.wowhead.com/item=40142/inscribed-ametrine",
+          "stats": "+2 Strength and +2 Critical Strike",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Fierce Ametrine",
+          "item_url": "https://www.wowhead.com/item=40146/fierce-ametrine",
+          "stats": "+2 Strength and +2 Haste",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": "Doesn't have a TBC counterpart"
+        }
+      ]
+    },
+    {
+      "name": "Agility",
+      "items": [
+        {
+          "name": "Delicate Ornate Ruby",
+          "item_url": "https://www.wowhead.com/item=28362/delicate-ornate-ruby",
+          "stats": "+3 Agility",
+          "source_url": "[Honor Mark Vendor]",
+          "note": ""
+        },
+        {
+          "name": "Deadly Ornate Topaz",
+          "item_url": "https://www.wowhead.com/item=28363/deadly-ornate-topaz",
+          "stats": "+2 Agility and +2 Critical Strike",
+          "source_url": "[Honor Mark Vendor]",
+          "note": ""
+        },
+        {
+          "name": "Delicate Crimson Spinel",
+          "item_url": "https://www.wowhead.com/item=32194/delicate-crimson-spinel",
+          "stats": "+3 Agility",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Shifting Shadowsong Amethyst",
+          "item_url": "https://www.wowhead.com/item=32212/shifting-shadowsong-amethyst",
+          "stats": "+2 Agility and +2 Stamina",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Glinting Shadowsong Amethyst",
+          "item_url": "https://www.wowhead.com/item=32220/glinting-shadowsong-amethyst",
+          "stats": "+2 Agility and +2 Critical Strike",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Deadly Pyrestone",
+          "item_url": "https://www.wowhead.com/item=32222/deadly-pyrestone",
+          "stats": "+2 Agility and +2 Critical Strike",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Delicate Cardinal Ruby",
+          "item_url": "https://www.wowhead.com/item=40112/delicate-cardinal-ruby",
+          "stats": "+3 Agility",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Shifting Dreadstone",
+          "item_url": "https://www.wowhead.com/item=40130/shifting-dreadstone",
+          "stats": "+2 Agility and +2 Stamina",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Glinting Dreadstone",
+          "item_url": "https://www.wowhead.com/item=40157/glinting-dreadstone",
+          "stats": "+2 Agility and +2 Critical Strike",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Deadly Ametrine",
+          "item_url": "https://www.wowhead.com/item=40147/deadly-ametrine",
+          "stats": "+2 Agility and +2 Critical Strike",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Deft Ametrine",
+          "item_url": "https://www.wowhead.com/item=40150/deft-ametrine",
+          "stats": "+2 Agility and +2 Haste",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": "Doesn't have a TBC counterpart."
+        }
+      ]
+    },
+    {
+      "name": "Intellect",
+      "items": [
+        {
+          "name": "Brilliant Ornate Ruby",
+          "item_url": "https://www.wowhead.com/item=28118/brilliant-ornate-ruby",
+          "stats": "+3 Intellect",
+          "source_url": "[Honor Mark Vendor]",
+          "note": ""
+        },
+        {
+          "name": "Potent Ornate Topaz",
+          "item_url": "https://www.wowhead.com/item=28123/potent-ornate-topaz",
+          "stats": "+2 Intellect and +2 Critical Strike",
+          "source_url": "[Honor Mark Vendor]",
+          "note": ""
+        },
+        {
+          "name": "Brilliant Crimson Spinel",
+          "item_url": "https://www.wowhead.com/item=32196/brilliant-crimson-spinel",
+          "stats": "+3 Intellect",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Sovereign Shadowsong Amethyst",
+          "item_url": "https://www.wowhead.com/item=32211/sovereign-shadowsong-amethyst",
+          "stats": "+2 Strength and +2 Stamina",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Veiled Shadowsong Amethyst",
+          "item_url": "https://www.wowhead.com/item=32221/veiled-shadowsong-amethyst",
+          "stats": "+2 Intellect and +2 Critical Strike",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Potent Pyrestone",
+          "item_url": "https://www.wowhead.com/item=32218/potent-pyrestone",
+          "stats": "+2 Intellect and +2 Critical Strike",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Reckless Pyrestone",
+          "item_url": "https://www.wowhead.com/item=35760/reckless-pyrestone",
+          "stats": "+2 Intellect and +2 Haste",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Purified Shadowsong Amethyst",
+          "item_url": "https://www.wowhead.com/item=32225/purified-shadowsong-amethyst",
+          "stats": "+2 Intellect and +2 Versatility",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Brilliant Cardinal Ruby",
+          "item_url": "https://www.wowhead.com/item=40113/brilliant-cardinal-ruby",
+          "stats": "+3 Intellect",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Timeless Dreadstone",
+          "item_url": "https://www.wowhead.com/item=40164/timeless-dreadstone",
+          "stats": "+2 Intellect and +2 Stamina",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Potent Ametrine",
+          "item_url": "https://www.wowhead.com/item=40152/potent-ametrine",
+          "stats": "+2 Intellect and +2 Critical Strike",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Veiled Dreadstone",
+          "item_url": "https://www.wowhead.com/item=40153/veiled-dreadstone",
+          "stats": "+2 Intellect and +2 Critical Strike",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Reckless Ametrine",
+          "item_url": "https://www.wowhead.com/item=40155/reckless-ametrine",
+          "stats": "+2 Intellect and +2 Haste",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Purified Dreadstone",
+          "item_url": "https://www.wowhead.com/item=40133/purified-dreadstone",
+          "stats": "+2 Intellect and +2 Versatility",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Mysterious Dreadstone",
+          "item_url": "https://www.wowhead.com/item=40135/mysterious-dreadstone",
+          "stats": "+2 Intellect and +2 Versatility",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Meta",
+      "items": [
+        {
+          "name": "Imbued Unstable Diamond",
+          "item_url": "https://www.wowhead.com/item=32641/imbued-unstable-diamond",
+          "stats": "+3 Intellect and 5% Stun Resistance",
+          "source_url": "https://www.wowhead.com/npc=23245/aether-tech-master",
+          "note": "Requires Apexis event."
+        },
+        {
+          "name": "Tense Unstable Diamond",
+          "item_url": "https://www.wowhead.com/item=32640/tense-unstable-diamond",
+          "stats": "+12 Critical Strike and 5% Stun Resistance",
+          "source_url": "https://www.wowhead.com/npc=23245/aether-tech-master",
+          "note": "Requires Apexis event."
+        },
+        {
+          "name": "Powerful Earthshatter Diamond",
+          "item_url": "https://www.wowhead.com/item=44088/powerful-earthshatter-diamond",
+          "stats": "+3(4) Stamina and Stun Duration Reduced by 10%",
+          "source_url": "[Wintergrasp Honor Mark Vendor]",
+          "note": ""
+        },
+        {
+          "name": "Trenchant Earthshatter Diamond",
+          "item_url": "https://www.wowhead.com/item=44089/trenchant-earthshatter-diamond",
+          "stats": "+2 Intellect and Stun Duration Reduced by 10%",
+          "source_url": "[Wintergrasp Honor Mark Vendor]",
+          "note": ""
+        },
+        {
+          "name": "Relentless Earthsiege Diamond",
+          "item_url": "https://www.wowhead.com/item=41398/relentless-earthsiege-diamond",
+          "stats": "+2 Agility and 3% Increased Critical Effect",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Thundering Skyflare Diamond",
+          "item_url": "https://www.wowhead.com/item=41400/thundering-skyflare-diamond",
+          "stats": "Chance to Increase Melee/Ranged Attack Speed",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": "Scales with helm iLvl"
+        },
+        {
+          "name": "Thundering Skyfire Diamond",
+          "item_url": "https://www.wowhead.com/item=32410/thundering-skyfire-diamond",
+          "stats": "Chance to Increase Melee/Ranged Attack Speed",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": "Scales with helm iLvl"
+        },
+        {
+          "name": "Mystical Skyfire Diamond",
+          "item_url": "https://www.wowhead.com/item=25893/mystical-skyfire-diamond",
+          "stats": "Chance to Increase Spell Cast Speed",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": "Scales with helm iLvl"
+        },
+        {
+          "name": "Relentless Earthstorm Diamond",
+          "item_url": "https://www.wowhead.com/item=32409/relentless-earthstorm-diamond",
+          "stats": "+2 Agility and 3% Increased Critical Effect",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "items": [
+        {
+          "name": "Nightmare Tear",
+          "item_url": "https://www.wowhead.com/item=49110/nightmare-tear",
+          "stats": "+2 All Stats",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": "Increases all primary stats and Stamina by 2"
+        },
+        {
+          "name": "Jagged Deep Peridot",
+          "item_url": "https://www.wowhead.com/item=27809/jagged-deep-peridot",
+          "stats": "+3 Stamina and +4 Critical Strike",
+          "source_url": "[Hellfire Peninsula Marks]",
+          "note": "Available at Honor Hold(A) and Thrallmar(H)"
+        },
+        {
+          "name": "Solid Empyrean Sapphire",
+          "item_url": "https://www.wowhead.com/item=32200/solid-empyrean-sapphire",
+          "stats": "+3 Stamina",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Solid Stormjewel",
+          "item_url": "https://www.wowhead.com/item=45880/solid-stormjewel",
+          "stats": "+3 Stamina",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Steady Seaspray Emerald",
+          "item_url": "https://www.wowhead.com/item=35758/steady-seaspray-emerald",
+          "stats": "+2 Armor and +2 Stamina",
+          "source_url": "[Outland Jewelcrafting]",
+          "note": ""
+        },
+        {
+          "name": "Steady Eye of Zul",
+          "item_url": "https://www.wowhead.com/item=40168/steady-eye-of-zul",
+          "stats": "+2 Armor and +2 Stamina",
+          "source_url": "[Northrend Jewelcrafting]",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

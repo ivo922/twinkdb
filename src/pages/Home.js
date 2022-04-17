@@ -30,6 +30,18 @@ function Home() {
       src: require('../assets/images/trinket.png'),
       alt: 'Trinkets category',
     },
+    gems: {
+      src: require('../assets/images/gem.png'),
+      alt: 'Gems category',
+    },
+    enchants: {
+      src: require('../assets/images/enchant.png'),
+      alt: 'Enchants category',
+    },
+    consumables: {
+      src: require('../assets/images/consumable.png'),
+      alt: 'Consumables category',
+    },
     builds: {
       src: require('../assets/images/builds.png'),
       alt: 'Builds category',
@@ -203,6 +215,57 @@ function Home() {
 
                   <h3 className="category__title">
                     <Link to="trinkets">Trinkets</Link>
+                  </h3>
+                </div>
+              </div>
+
+              <div className="categories__item">
+                <div className="category">
+                  <div className="category__image">
+                    <Link to="gems">
+                      <img
+                        src={images.gems.src}
+                        alt={images.gems.alt}
+                      />
+                    </Link>
+                  </div>
+
+                  <h3 className="category__title">
+                    <Link to="gems">Gems</Link>
+                  </h3>
+                </div>
+              </div>
+
+              <div className="categories__item category__item--coming-soon">
+                <div className="category">
+                  <div className="category__image">
+                    <Link to="enchants">
+                      <img
+                        src={images.enchants.src}
+                        alt={images.enchants.alt}
+                      />
+                    </Link>
+                  </div>
+
+                  <h3 className="category__title">
+                    <Link to="enchants">Enchants</Link>
+                  </h3>
+                </div>
+              </div>
+
+              <div className="categories__item category__item--coming-soon">
+                <div className="category">
+                  <div className="category__image">
+                    <Link to="consumables">
+                      <img
+                        src={images.consumables.src}
+                        alt={images.consumables.alt}
+                      />
+                    </Link>
+                  </div>
+
+                  <h3 className="category__title">
+                    <Link to="consumables">Consumables</Link>
                   </h3>
                 </div>
               </div>

@@ -12,6 +12,7 @@ import Home from './pages/Home';
 import Armor from './pages/Armor';
 import Weapons from './pages/Weapons';
 import Trinkets from './pages/Trinkets';
+import Gems from './pages/Gems';
 import Builds from './pages/Builds';
 import Calculator from './pages/Calculator';
 import Changelog from './pages/Changelog';
@@ -23,6 +24,8 @@ import Build from './components/Build';
 import dataArmor from './DB/armor.json';
 import dataWeapons from './DB/weapons.json';
 import dataTrinkets from './DB/trinkets.json';
+import dataGems from './DB/gems.json';
+
 import ReactMarkdown from 'react-markdown';
 
 function App() {
@@ -63,6 +66,8 @@ function App() {
         </Route>
 
         <Route path="/trinkets" element={<Trinkets data={dataTrinkets} />} />
+
+        <Route path="/gems" element={<Gems data={dataGems} />} />
 
         <Route path="/builds" element={<Builds />}>
           <Route index element={<BuildsList />} />
