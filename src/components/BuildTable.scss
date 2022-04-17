@@ -1,0 +1,22 @@
+/* ------------------------------------------------------------ *\
+  BuildTable
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.BuildTable {
+  th,
+  td {
+    text-align: left;
+    padding: 5px;
+    border: solid 1px $c-dark-3;
+  }
+
+  td p {
+    margin: 0;
+  }
+
+  td ul + p {
+    margin-top: 10px;
+  }
+}

@@ -45,22 +45,22 @@
   .Build__col {
     flex: 0 0 calc(50% - 8px);
     max-width: calc(50% - 8px);
-    border: solid 1px $c-dark-3;
-    background-color: $c-dark-2;
-    padding: 15px;
-    margin-bottom: 16px;
+    margin-bottom: 25px;
 
     /* Tablet Portrait */
     @media (max-width: 1023px) {
       max-width: 100%;
       flex: 0 0 100%;
-      border: none;
-      padding: 0;
     }
 
     &.Build__col--full {
       flex: 0 0 100%;
       max-width: 100%;
     }
+  }
+
+  .Build__notes {
+    border-top: solid 1px $c-dark-3;
+    padding: 15px 0 0;
   }
 }

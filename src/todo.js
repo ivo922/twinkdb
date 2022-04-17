@@ -11,8 +11,6 @@
  *
  * * Github pages deploy
  *
- *
- * ? Gems
  * ? Consumables
  * ? Enchants
  * ? Add leech to the calculator
@@ -28,6 +26,7 @@
  * - Restyled builds.
  * - Restyled navigation and homepage.
  *
+ * - Gems added.
  * - Some new items added.
  * - Some new builds added.
  */

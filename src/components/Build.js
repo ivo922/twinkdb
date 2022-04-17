@@ -7,6 +7,7 @@ import BuildsData from '../DB/builds.json';
 import TitleWithImage from './TitleWithImage';
 
 import './Build.scss';
+import BuildTable from './BuildTable';
 
 function Build() {
   const params = useParams();
@@ -48,29 +49,29 @@ function Build() {
             <div className="Build__col">
               <h2>Gear:</h2>
 
-              <ReactMarkdown>{build.gear.join('')}</ReactMarkdown>
+              <BuildTable type="gear" data={build.gear} />
             </div>
 
             <div className="Build__col">
               <h2>Enchants:</h2>
 
-              <ReactMarkdown>{build.enchants.join('')}</ReactMarkdown>
+              <BuildTable type="enchants" data={build.enchants} />
             </div>
 
             <div className="Build__col">
               <h2>Gems:</h2>
 
-              <ReactMarkdown>{build.gems.join('')}</ReactMarkdown>
+              <BuildTable type="gems" data={build.gems} />
             </div>
 
             <div className="Build__col">
               <h2>Consumables:</h2>
 
-              <ReactMarkdown>{build.consumables.join('')}</ReactMarkdown>
+              <BuildTable type="consumables" data={build.consumables} />
             </div>
 
             {build.notes.length !== 0 &&
-              <div className="Build__col Build__col--full">
+              <div className="Build__col Build__col--full Build__notes">
                 <h2>Notes:</h2>
 
                 <ReactMarkdown>{build.notes.join('')}</ReactMarkdown>
