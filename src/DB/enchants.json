@@ -1,0 +1,484 @@
+{
+  "categories": [
+    {
+      "name": "Neck",
+      "items": [
+        {
+          "name": "Mark of the Hidden Satyr",
+          "item_url": "https://www.wowhead.com/item=128553/enchant-neck-mark-of-the-hidden-satyr",
+          "stats": "Has a chance to deal ~50% SP/65% AP damage to the target. Approx. 2.5 RPPM",
+          "source_url": "[Legion Enchanting]",
+          "note": ""
+        },
+        {
+          "name": "Mark of the Claw",
+          "item_url": "https://www.wowhead.com/item=128551/enchant-neck-mark-of-the-claw",
+          "stats": "+6(9) Crit & Haste",
+          "source_url": "[Legion Enchanting]",
+          "note": ""
+        },
+        {
+          "name": "Mark of the Trained Soldier",
+          "item_url": "https://www.wowhead.com/item=141909/enchant-neck-mark-of-the-trained-soldier",
+          "stats": "+4(6) Mastery",
+          "source_url": "[Legion Enchanting]",
+          "note": ""
+        },
+        {
+          "name": "Mark of the Ancient Priestess",
+          "item_url": "https://www.wowhead.com/item=141910/enchant-neck-mark-of-the-ancient-priestess",
+          "stats": "Chance to heal a nearby ally for ~100% SP",
+          "source_url": "[Legion Enchanting]",
+          "note": ""
+        },
+        {
+          "name": "Mark of the Heavy Hide",
+          "item_url": "https://www.wowhead.com/item=141908/enchant-neck-mark-of-the-heavy-hide",
+          "stats": "Chance to gain +18(26) Armor",
+          "source_url": "[Legion Enchanting]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Shoulders",
+      "items": [
+        {
+          "name": "Master's Inscription of the Axe",
+          "item_url": "https://www.wowhead.com/spell=61117/masters-inscription-of-the-axe",
+          "stats": "+2(3) AP +2(3) Crit",
+          "source_url": "[Northrend Inscription]",
+          "note": "Requires Northrend Inscription (25) to give stats."
+        },
+        {
+          "name": "Master’s Inscription of the Crag",
+          "item_url": "https://www.wowhead.com/spell=61118/masters-inscription-of-the-crag",
+          "stats": "+2(4) Int +2(3) Vers",
+          "source_url": "[Northrend Inscription]",
+          "note": "Requires Northrend Inscription (25) to give stats."
+        },
+        {
+          "name": "Master’s Inscription of the Storm",
+          "item_url": "https://www.wowhead.com/spell=61120/masters-inscription-of-the-storm",
+          "stats": "+3(4) SP +1 Crit",
+          "source_url": "[Northrend Inscription]",
+          "note": "Requires Northrend Inscription (25) to give stats."
+        }
+      ]
+    },
+    {
+      "name": "Cloak",
+      "items": [
+        {
+          "name": "Enchant Cloak - Minor Power",
+          "item_url": "https://www.wowhead.com/item=38973/enchant-cloak-minor-power",
+          "stats": "+5(6) Primary Stat",
+          "source_url": "[Northrend Enchanting (20)]",
+          "note": ""
+        },
+        {
+          "name": "Enchant Cloak - PvP Power",
+          "item_url": "https://www.wowhead.com/item=28274/formula-enchant-cloak-pvp-power",
+          "stats": "+5(6) Primary Stat",
+          "source_url": "[Outland Enchanting (25)]",
+          "note": ""
+        },
+        {
+          "name": "Enchant Cloak - Mighty Stamina",
+          "item_url": "https://www.wowhead.com/item=44471/formula-enchant-cloak-mighty-stamina",
+          "stats": "+3(4) Stamina",
+          "source_url": "[Northrend Enchanting (55)]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Chest",
+      "items": [
+        {
+          "name": "Enchant Chest - Exceptional Stats",
+          "item_url": "https://www.wowhead.com/item=38913/enchant-chest-exceptional-stats",
+          "stats": "+3(4) Primary & Stamina",
+          "source_url": "[Outland Enchanting (45)]",
+          "note": ""
+        },
+        {
+          "name": "Super Stats",
+          "item_url": "https://www.wowhead.com/item=38989/enchant-chest-super-stats",
+          "stats": "+3(4) Primary & Stamina",
+          "source_url": "[Northrend Enchanting (1)]",
+          "note": ""
+        },
+        {
+          "name": "Peerless Stats",
+          "item_url": "https://www.wowhead.com/item=52779/enchant-chest-peerless-stats",
+          "stats": "+3(4) Primary & Stamina",
+          "source_url": "[Cataclysm Enchanting (25)]",
+          "note": ""
+        },
+        {
+          "name": "Glorious Stats",
+          "item_url": "https://www.wowhead.com/item=74708/enchant-chest-glorious-stats",
+          "stats": "+3(4) Primary & Stamina",
+          "source_url": "[Pandaria Enchanting (25)]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Bracers",
+      "items": [
+        {
+          "name": "Major Stamina",
+          "item_url": "https://www.wowhead.com/spell=62256/major-stamina",
+          "stats": "+5(6) Stamina",
+          "source_url": "[Northrend Enchanting (75)]",
+          "note": ""
+        },
+        {
+          "name": "Major Intellect",
+          "item_url": "https://www.wowhead.com/spell=34001/major-intellect",
+          "stats": "+3(4) Intellect",
+          "source_url": "[Outland Enchanting (5)]",
+          "note": ""
+        },
+        {
+          "name": "Superior Healing",
+          "item_url": "https://www.wowhead.com/spell=27911/superior-healing",
+          "stats": "+3(4) Spell Power",
+          "source_url": "[Outland Enchanting (25)]",
+          "note": ""
+        },
+        {
+          "name": "Spellpower",
+          "item_url": "https://www.wowhead.com/spell=27917/spellpower",
+          "stats": "+3(4) Spell Power",
+          "source_url": "[Outland Enchanting (60)]",
+          "note": ""
+        },
+        {
+          "name": "Greater Spellpower",
+          "item_url": "https://www.wowhead.com/spell=44635/greater-spellpower",
+          "stats": "+3(4) Spell Power",
+          "source_url": "[Northrend Enchanting (20)]",
+          "note": ""
+        },
+        {
+          "name": "Superior Spellpower",
+          "item_url": "https://www.wowhead.com/spell=60767/superior-spellpower",
+          "stats": "+3(4) Spell Power",
+          "source_url": "[Northrend Enchanting (60)]",
+          "note": ""
+        },
+        {
+          "name": "Mighty Intellect",
+          "item_url": "https://www.wowhead.com/spell=96262/mighty-intellect",
+          "stats": "+3(4) Intellect",
+          "source_url": "[Cataclysm Enchanting (65)]",
+          "note": ""
+        },
+        {
+          "name": "Super Intellect",
+          "item_url": "https://www.wowhead.com/spell=104389/super-intellect",
+          "stats": "+3(4) Intellect",
+          "source_url": "[Pandaria Enchanting (75)]",
+          "note": ""
+        },
+        {
+          "name": "Superior Strength",
+          "item_url": "https://www.wowhead.com/spell=20010/superior-strength",
+          "stats": "+4(5) Strength",
+          "source_url": "[Classic Enchanting (295)]",
+          "note": ""
+        },
+        {
+          "name": "Greater Assault",
+          "item_url": "https://www.wowhead.com/spell=44575/greater-assault",
+          "stats": "+3(4) Attack Power",
+          "source_url": "[Northrend Enchanting (55)]",
+          "note": ""
+        },
+        {
+          "name": "Agility",
+          "item_url": "https://www.wowhead.com/spell=96264/agility",
+          "stats": "+3(4) Agility",
+          "source_url": "[Cataclysm Enchanting (65)]",
+          "note": ""
+        },
+        {
+          "name": "Greater Agility",
+          "item_url": "https://www.wowhead.com/spell=104391/greater-agility",
+          "stats": "+3(4) Agility",
+          "source_url": "[Pandaria Enchanting (75)]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Gloves",
+      "items": [
+        {
+          "name": "Healing Power",
+          "item_url": "https://www.wowhead.com/spell=33999/major-healing",
+          "stats": "+4(5) Spell Power",
+          "source_url": "[Outland Enchanting (50)]",
+          "note": ""
+        },
+        {
+          "name": "Major Spellpower",
+          "item_url": "https://www.wowhead.com/spell=33997/major-spellpower",
+          "stats": "+4(5) Spell Power",
+          "source_url": "[Outland Enchanting (60)]",
+          "note": ""
+        },
+        {
+          "name": "Greater Assault",
+          "item_url": "https://www.wowhead.com/spell=44513/greater-assault",
+          "stats": "+5(6) Attack Power",
+          "source_url": "[Northrend Enchanting (20)]",
+          "note": ""
+        },
+        {
+          "name": "Crusher",
+          "item_url": "https://www.wowhead.com/spell=60668/crusher",
+          "stats": "+5(6) Attack Power",
+          "source_url": "[Northrend Enchanting (50)]",
+          "note": ""
+        },
+        {
+          "name": "Major Agility",
+          "item_url": "https://www.wowhead.com/spell=44529/major-agility",
+          "stats": "+5(6) Agility",
+          "source_url": "[Northrend Enchanting (40)]",
+          "note": ""
+        },
+        {
+          "name": "Exceptional Strength",
+          "item_url": "https://www.wowhead.com/spell=74212/exceptional-strength",
+          "stats": "+5(6) Strength",
+          "source_url": "[Cataclysm Enchanting (20)]",
+          "note": ""
+        },
+        {
+          "name": "Mighty Strength",
+          "item_url": "https://www.wowhead.com/spell=74254/mighty-strength",
+          "stats": "+5(6) Strength",
+          "source_url": "[Cataclysm Enchanting (50)]",
+          "note": ""
+        },
+        {
+          "name": "Super Strength",
+          "item_url": "https://www.wowhead.com/spell=104419/super-strength",
+          "stats": "+5(6) Strength",
+          "source_url": "[Pandaria Enchanting (50)]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Belt",
+      "items": [
+        {
+          "name": "Spinal Healing Injector",
+          "item_url": "https://www.wowhead.com/spell=82200",
+          "stats": "400(1200) Heal on 60s cooldown",
+          "source_url": "[Cataclysm Engineering]",
+          "note": "Discovered by crafting other stuff. Heal scales with versatility. Doesn't share cooldown with health or mana pots.  \n Requires Cataclysm Engineering to work."
+        },
+        {
+          "name": "Frag Belt",
+          "item_url": "https://www.wowhead.com/spell=54793/frag-belt",
+          "stats": "Throw a grenade. AOE incap and damage",
+          "source_url": "[Northrend Engineering (5)]",
+          "note": "Doesn't share cooldown with [cobalt frag bomb](https://www.wowhead.com/item=40771/cobalt-frag-bomb).  \n Requires Northrend Engineering to work."
+        }
+      ]
+    },
+    {
+      "name": "Legs",
+      "items": [
+        {
+          "name": "Heavy Leg Reinforcement",
+          "item_url": "https://www.wowhead.com/spell=124563/heavy-leg-reinforcements",
+          "stats": "+4(6) Stamina",
+          "source_url": "[Pandaria Leatherworking (1)]",
+          "note": ""
+        },
+        {
+          "name": "Primal Leg Reinforcements",
+          "item_url": "https://www.wowhead.com/spell=124559/primal-leg-reinforcements",
+          "stats": "+3(4) Agility, +2 Crit",
+          "source_url": "[Pandaria Leatherworking (1)]",
+          "note": ""
+        },
+        {
+          "name": "Draconic Leg Reinforcement",
+          "item_url": "https://www.wowhead.com/spell=124561/draconic-leg-reinforcements",
+          "stats": "+3(4) Strength, +2 Crit",
+          "source_url": "[Pandaria Leatherworking (1)]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Boots",
+      "items": [
+        {
+          "name": "Minor Speed",
+          "item_url": "https://www.wowhead.com/spell=13890/minor-speed",
+          "stats": "+10% Movement Speed",
+          "source_url": "[Classic Enchanting (225)]",
+          "note": "Stacks with movement speed increasing spells like cat form, fleet footed and more."
+        },
+        {
+          "name": "Tuskarr's Vitality",
+          "item_url": "https://www.wowhead.com/spell=47901/tuskarrs-vitality",
+          "stats": "+10% Movement Speed, +3(4) Stamina",
+          "source_url": "[Northrend Enchanting (65)]",
+          "note": ""
+        },
+        {
+          "name": "Cat's Swiftness",
+          "item_url": "https://www.wowhead.com/spell=34007/cats-swiftness",
+          "stats": "+10% Movement Speed, +2 Agility",
+          "source_url": "[Outland Enchanting (60)]",
+          "note": ""
+        },
+        {
+          "name": "Blurred Speed",
+          "item_url": "https://www.wowhead.com/spell=104409/blurred-speed",
+          "stats": "+10% Movement Speed, +2 Agility",
+          "source_url": "[Pandaria Enchanting (25)]",
+          "note": ""
+        },
+        {
+          "name": "Lavawalker",
+          "item_url": "https://www.wowhead.com/spell=74253/lavawalker",
+          "stats": "+10% Movement Speed, +2(3) Mastery",
+          "source_url": "[Cataclysm Enchanting (75)]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "name": "Rings",
+      "items": [
+        {
+          "name": "Binding of Critical Strike",
+          "item_url": "https://www.wowhead.com/spell=190870/binding-of-critical-strike",
+          "stats": "+1(2) Crit",
+          "source_url": "[Legion Enchanting]",
+          "note": "Recipe is a quest reward."
+        },
+        {
+          "name": "Binding of Haste",
+          "item_url": "https://www.wowhead.com/spell=190871/binding-of-haste",
+          "stats": "+1(2) Haste",
+          "source_url": "[Legion Enchanting]",
+          "note": "Recipe is a quest reward."
+        },
+        {
+          "name": "Binding of Mastery",
+          "item_url": "https://www.wowhead.com/spell=190872/binding-of-mastery",
+          "stats": "+1(2) Mastery",
+          "source_url": "[Legion Enchanting]",
+          "note": "Recipe is a quest reward."
+        },
+        {
+          "name": "Binding of Versatility",
+          "item_url": "https://www.wowhead.com/spell=190873/binding-of-versatility",
+          "stats": "+1(2) Versatility",
+          "source_url": "[Legion Enchanting]",
+          "note": "Recipe is a quest reward."
+        }
+      ]
+    },
+    {
+      "name": "Weapons",
+      "items": [
+        {
+          "name": "Crusader",
+          "item_url": "https://www.wowhead.com/spell=20034/crusader",
+          "stats": "+40 Str, Heal",
+          "source_url": "[Classic Enchanting (300)]",
+          "note": "BIS for str users."
+        },
+        {
+          "name": "Sniper Scope",
+          "item_url": "https://www.wowhead.com/spell=12620/sniper-scope",
+          "stats": "+2(3) Weapon Damage",
+          "source_url": "[Classic Engineering (240)]",
+          "note": "BIS for hunter."
+        },
+        {
+          "name": "Major Spellpower",
+          "item_url": "https://www.wowhead.com/spell=27975/major-spellpower",
+          "stats": "+11(14) Spell Power",
+          "source_url": "[Outland Enchanting (50)]",
+          "note": "Farm the recipe on an enchanter. BIS for all casters."
+        },
+        {
+          "name": "Mighty Agility",
+          "item_url": "https://www.wowhead.com/spell=95471/mighty-agility",
+          "stats": "+12(+17) Agility",
+          "source_url": "[Cataclysm Enchanting (20)]",
+          "note": "Only on 2H. BIS for survival hunter and 2H monk."
+        },
+        {
+          "name": "Superior Potency",
+          "item_url": "https://www.wowhead.com/spell=60707/superior-potency",
+          "stats": "+7(10) Attack Power",
+          "source_url": "[Northrend Enchanting (60)]",
+          "note": ""
+        },
+        {
+          "name": "Superior Impact",
+          "item_url": "https://www.wowhead.com/spell=20030/superior-impact",
+          "stats": "+2(4?)",
+          "source_url": "[Classic Enchanting (295)]",
+          "note": "2H only. BIS for feral due to weapon damage scaling."
+        },
+        {
+          "name": "Elemental Force",
+          "item_url": "https://www.wowhead.com/spell=104430/elemental-force",
+          "stats": "Magic damage procs on hit",
+          "source_url": "[Pandaria Enchanting (1)]",
+          "note": "Very good proc rate."
+        },
+        {
+          "name": "Dancing Steel",
+          "item_url": "https://www.wowhead.com/spell=104434/dancing-steel",
+          "stats": "+17(25) Agility proc on hit",
+          "source_url": "[Pandaria Enchanting (1)]",
+          "note": "2.3 PPM, no ICD, can stack"
+        }
+      ]
+    },
+    {
+      "name": "Off-Hands/Shields",
+      "items": [
+        {
+          "name": "Vitality",
+          "item_url": "https://www.wowhead.com/spell=20016/vitality",
+          "stats": "+4 Stamina, + 4 Versatility",
+          "source_url": "[Classic Enchanting (280)]",
+          "note": ""
+        },
+        {
+          "name": "Major Stamina",
+          "item_url": "https://www.wowhead.com/spell=34009/major-stamina",
+          "stats": "+5(6) Stamina",
+          "source_url": "[Outland Enchanting (25)]",
+          "note": ""
+        },
+        {
+          "name": "Major Intellect",
+          "item_url": "https://www.wowhead.com/spell=104445/major-intellect",
+          "stats": "+5(6) Intellect",
+          "source_url": "[Pandaria Enchanting (50)]",
+          "note": "BIS for off-hand."
+        }
+      ]
+    }
+  ]
+}

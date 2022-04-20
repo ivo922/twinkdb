@@ -13,6 +13,7 @@ import Armor from './pages/Armor';
 import Weapons from './pages/Weapons';
 import Trinkets from './pages/Trinkets';
 import Gems from './pages/Gems';
+import Enchants from './pages/Enchants';
 import Builds from './pages/Builds';
 import Calculator from './pages/Calculator';
 import Changelog from './pages/Changelog';
@@ -25,8 +26,11 @@ import dataArmor from './DB/armor.json';
 import dataWeapons from './DB/weapons.json';
 import dataTrinkets from './DB/trinkets.json';
 import dataGems from './DB/gems.json';
+import dataEnchants from './DB/enchants.json';
 
 import ReactMarkdown from 'react-markdown';
+
+import routes from './routes';
 
 function App() {
   return (
@@ -36,9 +40,13 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
 
-        <Route path="/weapons" element={<Weapons data={dataWeapons} />} />
+        <Route path={routes.weapons} element={<Weapons data={dataWeapons} />} />
 
-        <Route children path="/armor" element={<Armor data={dataArmor} />}>
+        <Route
+          children
+          path={routes.armor}
+          element={<Armor data={dataArmor} />}
+        >
           <Route
             index
             element={<ReactMarkdown># Chose a category</ReactMarkdown>}
@@ -65,21 +73,26 @@ function App() {
           />
         </Route>
 
-        <Route path="/trinkets" element={<Trinkets data={dataTrinkets} />} />
+        <Route
+          path={routes.trinkets}
+          element={<Trinkets data={dataTrinkets} />}
+        />
 
-        <Route path="/gems" element={<Gems data={dataGems} />} />
+        <Route path={routes.gems} element={<Gems data={dataGems} />} />
 
-        <Route path="/builds" element={<Builds />}>
+        <Route path={routes.enchants} element={<Enchants data={dataEnchants} />} />
+
+        <Route path={routes.builds} element={<Builds />}>
           <Route index element={<BuildsList />} />
 
           <Route path=":cls/:id" element={<Build />} />
         </Route>
 
-        <Route path="/calculator" element={<Calculator />} />
+        <Route path={routes.calculator} element={<Calculator />} />
 
-        <Route path="/changelog" element={<Changelog />} />
+        <Route path={routes.changelog} element={<Changelog />} />
 
-        <Route path="*" element={<Navigate to="/" replace />} />
+        <Route path="*" element={<Navigate to={routes.home} replace />} />
       </Routes>
     </Router>
   );

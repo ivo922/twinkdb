@@ -4,7 +4,6 @@
  * * Sort off-sets by rarity
  * * Sort trinkets by rarity
  *
- * * Restyle build with tables and remove rectangles
  * * Try to prevent wowhead links reloading on component change.
  * * Anchors for item categories
  * * URL params for sorting builds
@@ -12,7 +11,6 @@
  * * Github pages deploy
  *
  * ? Consumables
- * ? Enchants
  * ? Add leech to the calculator
  * ? Add stats lost to DR to calculator
  * ? Save last calculator values in localStorage/sessionStorage
@@ -27,6 +25,6 @@
  * - Restyled navigation and homepage.
  *
  * - Gems added.
+ * - Enchants added.
  * - Some new items added.
- * - Some new builds added.
  */

@@ -2,6 +2,8 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Nav.scss';
 
+import routes from '../routes';
+
 function Nav(props) {
   return (
     <div className={`Nav ${props.active ? 'is-active' : ''}`}>
@@ -11,25 +13,33 @@ function Nav(props) {
 
           <ul className="Nav__level-2">
             <li>
-              <NavLink to="weapons">Weapons</NavLink>
+              <NavLink to={routes.weapons}>Weapons</NavLink>
             </li>
 
             <li>
-              <NavLink to="armor">Armor</NavLink>
+              <NavLink to={routes.armor}>Armor</NavLink>
             </li>
 
             <li>
-              <NavLink to="trinkets">Trinkets</NavLink>
+              <NavLink to={routes.trinkets}>Trinkets</NavLink>
+            </li>
+
+            <li>
+              <NavLink to={routes.gems}>Gems</NavLink>
+            </li>
+
+            <li>
+              <NavLink to={routes.enchants}>Enchants</NavLink>
             </li>
           </ul>
         </li>
 
         <li>
-          <NavLink to="/builds">Builds</NavLink>
+          <NavLink to={routes.builds}>Builds</NavLink>
         </li>
 
         <li>
-          <NavLink to="/calculator">Calculator</NavLink>
+          <NavLink to={routes.calculator}>Calculator</NavLink>
         </li>
       </ul>
 

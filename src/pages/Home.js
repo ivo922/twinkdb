@@ -4,6 +4,8 @@ import { Link } from 'react-router-dom';
 import LogoText from '../components/LogoText';
 import Spoiler from '../components/Spoiler';
 
+import routes from '../routes';
+
 function Home() {
   const images = {
     suggest: {
@@ -50,20 +52,6 @@ function Home() {
       src: require('../assets/images/calculator.png'),
       alt: 'Stats calculator',
     },
-  };
-
-  const routes = {
-    armor: '/armor',
-    weapons: '/weapons',
-    trinkets: '/trinkets',
-    builds: '/builds',
-    calculator: '/calculator',
-    suggest:
-      'https://docs.google.com/forms/d/e/1FAIpQLSeYFPOynx0F7DMazBJEviIUz3oQ2mmB-VNAiT9BKcVwyThlig/viewform?usp=sf_link',
-    moreGuides:
-      'https://xpoff.com/threads/20s-guide-index-and-faq-read-before-posting-new-threads.95324/',
-    feedback: 'https://xpoff.com/threads/level-20-items-sheet-updated.97014/',
-    changelog: '/changelog',
   };
 
   // Reload wowhead links on tab change.
@@ -177,13 +165,13 @@ function Home() {
               <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="weapons">
+                    <Link to={routes.weapons}>
                       <img src={images.weapons.src} alt={images.weapons.alt} />
                     </Link>
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="weapons">Weapons</Link>
+                    <Link to={routes.weapons}>Weapons</Link>
                   </h3>
                 </div>
               </div>
@@ -191,13 +179,13 @@ function Home() {
               <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="armor">
+                    <Link to={routes.armor}>
                       <img src={images.armor.src} alt={images.armor.alt} />
                     </Link>
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="armor">Armor</Link>
+                    <Link to={routes.armor}>Armor</Link>
                   </h3>
                 </div>
               </div>
@@ -205,7 +193,7 @@ function Home() {
               <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="trinkets">
+                    <Link to={routes.trinkets}>
                       <img
                         src={images.trinkets.src}
                         alt={images.trinkets.alt}
@@ -214,7 +202,7 @@ function Home() {
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="trinkets">Trinkets</Link>
+                    <Link to={routes.trinkets}>Trinkets</Link>
                   </h3>
                 </div>
               </div>
@@ -222,7 +210,7 @@ function Home() {
               <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="gems">
+                    <Link to={routes.gems}>
                       <img
                         src={images.gems.src}
                         alt={images.gems.alt}
@@ -231,15 +219,15 @@ function Home() {
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="gems">Gems</Link>
+                    <Link to={routes.gems}>Gems</Link>
                   </h3>
                 </div>
               </div>
 
-              <div className="categories__item category__item--coming-soon">
+              <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="enchants">
+                    <Link to={routes.enchants}>
                       <img
                         src={images.enchants.src}
                         alt={images.enchants.alt}
@@ -248,7 +236,7 @@ function Home() {
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="enchants">Enchants</Link>
+                    <Link to={routes.enchants}>Enchants</Link>
                   </h3>
                 </div>
               </div>
@@ -256,7 +244,7 @@ function Home() {
               <div className="categories__item category__item--coming-soon">
                 <div className="category">
                   <div className="category__image">
-                    <Link to="consumables">
+                    <Link to={routes.consumables}>
                       <img
                         src={images.consumables.src}
                         alt={images.consumables.alt}
@@ -265,7 +253,7 @@ function Home() {
                   </div>
 
                   <h3 className="category__title">
-                    <Link to="consumables">Consumables</Link>
+                    <Link to={routes.consumables}>Consumables</Link>
                   </h3>
                 </div>
               </div>
