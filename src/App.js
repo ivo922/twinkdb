@@ -96,7 +96,7 @@ function App() {
         <Route path={routes.changelog} element={<Changelog />} />
 
         <Route
-          path={`${routes.home}/*`}
+          path="*"
           element={<Navigate to={routes.home} replace />}
         />
       </Routes>
