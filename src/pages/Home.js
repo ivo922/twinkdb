@@ -211,10 +211,7 @@ function Home() {
                 <div className="category">
                   <div className="category__image">
                     <Link to={routes.gems}>
-                      <img
-                        src={images.gems.src}
-                        alt={images.gems.alt}
-                      />
+                      <img src={images.gems.src} alt={images.gems.alt} />
                     </Link>
                   </div>
 
@@ -298,100 +295,13 @@ function Home() {
           <div className="container">
             <h2>Latest update:</h2>
 
-            <Spoiler title="26 Feb 2022">
-              <h3>The following items have been added:</h3>
-
+            <Spoiler title="22 April 2022">
               <ul>
-                <li>
-                  <h4>Leather:</h4>
-
-                  <ul>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=28348/moonglade-cowl?ilvl=25"
-                      >
-                        link
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=28224/wastewalker-helm?bonus=6710?ilvl=25"
-                      >
-                        link
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=27531/wastewalker-gloves?ilvl=25"
-                      >
-                        link
-                      </a>
-                    </li>
-                  </ul>
-                </li>
-
-                <li>
-                  <h4>Mail:</h4>
-
-                  <ul>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=37188/plunderers-helmet?ilvl=25"
-                      >
-                        link
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=27802/tidefury-shoulderguards?ilvl=25"
-                      >
-                        link
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=27743/girdle-of-living-flame?ilvl=25"
-                      >
-                        link
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=24388/girdle-of-the-gale-storm?ilvl=25"
-                      >
-                        link
-                      </a>
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-
-              <h3>The following items have been removed:</h3>
-
-              <ul>
-                <li>
-                  <a
-                    data-wh-icon-size="small"
-                    href="https://www.wowhead.com/item=87420?ilvl=28"
-                  >
-                    link
-                  </a>
-                </li>
-                <li>
-                  <a
-                    data-wh-icon-size="small"
-                    href="https://www.wowhead.com/item=87477?ilvl=28"
-                  >
-                    link
-                  </a>
-                </li>
+                <li>Gems added.</li>
+                <li>Enchants added.</li>
+                <li>New items added.</li>
+                <li>Builds redesigned.</li>
+                <li>Router updated.</li>
               </ul>
             </Spoiler>
 

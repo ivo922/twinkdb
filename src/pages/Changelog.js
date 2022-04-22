@@ -29,6 +29,16 @@ function Changelog() {
 
         <hr />
 
+        <Spoiler title="22 April 2022">
+          <ul>
+            <li>Gems added.</li>
+            <li>Enchants added.</li>
+            <li>New items added.</li>
+            <li>Builds redesigned.</li>
+            <li>Router updated.</li>
+          </ul>
+        </Spoiler>
+
         <Spoiler title="26 Feb 2022">
           <h3>The following items have been added:</h3>
 
