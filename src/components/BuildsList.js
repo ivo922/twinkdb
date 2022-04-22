@@ -84,6 +84,7 @@ function BuildsList() {
             if (filters[cls.name_handle]) {
               return <BuildsClass cls={cls} key={index} />;
             }
+            return null;
           })}
         </div>
       </div>

@@ -8,8 +8,6 @@
  * * Anchors for item categories
  * * URL params for sorting builds
  *
- * * Github pages deploy
- *
  * ? Consumables
  * ? Add leech to the calculator
  * ? Add stats lost to DR to calculator

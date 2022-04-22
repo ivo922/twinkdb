@@ -41,7 +41,7 @@ function TableRow(props) {
       <td
         className={`table__note-trigger ${props.item.note ? 'has-note' : ''}`}
       >
-        <a href="#" onClick={toggleNote}>
+        <a href="/" onClick={toggleNote}>
           {noteToggleText}
         </a>
       </td>

@@ -38,7 +38,7 @@ function App() {
       <Header />
 
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path={routes.home} element={<Home />} />
 
         <Route path={routes.weapons} element={<Weapons data={dataWeapons} />} />
 
@@ -80,7 +80,10 @@ function App() {
 
         <Route path={routes.gems} element={<Gems data={dataGems} />} />
 
-        <Route path={routes.enchants} element={<Enchants data={dataEnchants} />} />
+        <Route
+          path={routes.enchants}
+          element={<Enchants data={dataEnchants} />}
+        />
 
         <Route path={routes.builds} element={<Builds />}>
           <Route index element={<BuildsList />} />
@@ -92,7 +95,10 @@ function App() {
 
         <Route path={routes.changelog} element={<Changelog />} />
 
-        <Route path="*" element={<Navigate to={routes.home} replace />} />
+        <Route
+          path={`${routes.home}/*`}
+          element={<Navigate to={routes.home} replace />}
+        />
       </Routes>
     </Router>
   );

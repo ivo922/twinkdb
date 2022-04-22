@@ -29,7 +29,7 @@ function BuildsFilters(props) {
 
       <div className="BuildsFilters__actions">
         <a
-          href="#"
+          href="/"
           className="BuildsFilters__btn"
           data-checked="true"
           onClick={handleCheckAllClick}
@@ -38,7 +38,7 @@ function BuildsFilters(props) {
         </a>
 
         <a
-          href="#"
+          href="/"
           className="BuildsFilters__btn"
           data-checked="false"
           onClick={handleUncheckAllClick}
