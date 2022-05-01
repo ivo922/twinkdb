@@ -4,9 +4,9 @@ import { useSelector, useDispatch } from 'react-redux';
 import { togglePopup, remove, check } from '../features/wishlist/wishlistSlice';
 
 import TitleWithImage from './TitleWithImage';
+import Icon from './Icon';
 
 import './Wishlist.scss';
-import Icon from './Icon';
 
 function Wishlist() {
   const images = {

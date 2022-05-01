@@ -31,10 +31,12 @@ import dataTrinkets from './DB/trinkets.json';
 import dataGems from './DB/gems.json';
 import dataEnchants from './DB/enchants.json';
 
+import WishlistUpdater from './components/WishlistUpdater';
+import Wishlist from './components/Wishlist';
+
 import ReactMarkdown from 'react-markdown';
 
 import routes from './routes';
-import Wishlist from './components/Wishlist';
 
 function App() {
   return (
@@ -106,6 +108,7 @@ function App() {
           <Route path="*" element={<Navigate to={routes.home} replace />} />
         </Routes>
 
+        <WishlistUpdater />
         <Wishlist />
       </Router>
     </Provider>
