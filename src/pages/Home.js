@@ -295,7 +295,7 @@ function Home() {
           <div className="container">
             <h2>Latest update:</h2>
 
-            <Spoiler title="1 May 2022">
+            <Spoiler title="1 May 2022 (Saved items)">
               <h3>The following items have been added:</h3>
 
               <ul>
@@ -314,6 +314,8 @@ function Home() {
                   </ul>
                 </li>
               </ul>
+
+              <h3>Checklist added.</h3>
             </Spoiler>
 
             <p style={{ marginTop: '10px' }}>
