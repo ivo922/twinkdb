@@ -1,0 +1,18 @@
+/* ------------------------------------------------------------ *\
+  Icon
+\* ------------------------------------------------------------ */
+
+@import '../styles/variables.scss';
+
+.Icon {
+  &--arrow-right * {
+    width: 25px;
+    fill: $c-white;
+  }
+
+  &--arrow-right {
+    display: inline-flex;
+    align-items: center;
+    transition: transform .3s;
+  }
+}
