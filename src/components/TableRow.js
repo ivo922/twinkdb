@@ -91,7 +91,7 @@ function TableRow(props) {
           if (entry[0].includes('_url')) {
             return (
               <td className="text-align-left" key={`${entry[0]}--${entry[1]}`}>
-                <WowheadLink url={entry[1]} />
+                <WowheadLink url={entry[1]} key={entry[1]} />
               </td>
             );
           } else {
