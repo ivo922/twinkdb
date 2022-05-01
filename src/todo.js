@@ -1,10 +1,6 @@
 /**
  * TODO:
  *
- * ! Fix mobile menu closing on new page
- * ! Fix mobile menu closing on wishlist open
- * ! Dungeon names (wowhead links issue)
- *
  * * Sort off-sets by rarity
  * * Sort trinkets by rarity
  *
@@ -23,4 +19,7 @@
  * Updates:
  *
  * - Some new items added.
+ * - Added check list.
+ * - Fixed items source not updating as some people pointed out.
+ * - Fixed the mobile menu not closing after page change.
  */
