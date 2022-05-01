@@ -826,6 +826,20 @@
           "note": "Can proc blue or purple. Not good at green."
         },
         {
+          "name": "Fist of Stone",
+          "item_url": "https://www.wowhead.com/item=17943/fist-of-stone?ilvl=25",
+          "sockets": 0,
+          "damage": "4 - 5",
+          "stamina": 5,
+          "main_stat": 19,
+          "critical": 3,
+          "haste": 3,
+          "mastery": 0,
+          "versatility": 0,
+          "source_url": "https://www.wowhead.com/npc=12203/landslide|Landslide@Maraudon",
+          "rarity": 1
+        },
+        {
           "name": "Blade of Eternal Darkness",
           "item_url": "https://www.wowhead.com/item=17780&ilvl=26",
           "sockets": 0,

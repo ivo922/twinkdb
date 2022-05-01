@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom';
 import './Nav.scss';
 
 import routes from '../routes';
+import WishlistButton from './WishlistButton';
 
 function Nav(props) {
   return (
@@ -40,6 +41,10 @@ function Nav(props) {
 
         <li>
           <NavLink to={routes.calculator}>Calculator</NavLink>
+        </li>
+
+        <li>
+          <WishlistButton />
         </li>
       </ul>
 

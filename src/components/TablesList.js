@@ -22,6 +22,8 @@ function TablesList(props) {
                 <tbody>
                   <tr>
                     <TableHeader items={category.items} />
+
+                    <th></th>
                   </tr>
 
                   {category.items.map((item, index) => {

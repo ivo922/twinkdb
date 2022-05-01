@@ -2,9 +2,14 @@ import React, { useEffect, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import WowheadLink from './WowheadLink';
 
+import { useDispatch } from 'react-redux';
+import { add } from '../features/wishlist/wishlistSlice';
+
 function TableRow(props) {
   const [visibleCellsCount, setVisibleCellsCount] = useState(0);
   const [noteActive, setNoteActive] = useState(false);
+
+  const dispatch = useDispatch();
 
   useEffect(() => {
     return () => {
@@ -85,7 +90,7 @@ function TableRow(props) {
         ) {
           if (entry[0].includes('_url')) {
             return (
-              <td key={`${entry[0]}--${entry[1]}`}>
+              <td className="text-align-left" key={`${entry[0]}--${entry[1]}`}>
                 <WowheadLink url={entry[1]} />
               </td>
             );
@@ -113,6 +118,11 @@ function TableRow(props) {
       })}
 
       {noteToggleMarkup()}
+
+      <td
+        className="table__action"
+        onClick={() => dispatch(add(props.item.item_url))}
+      ></td>
     </tr>
   );
 }

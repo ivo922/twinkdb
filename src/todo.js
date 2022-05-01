@@ -1,6 +1,10 @@
 /**
  * TODO:
  *
+ * ! Fix mobile menu closing on new page
+ * ! Fix mobile menu closing on wishlist open
+ * ! Dungeon names (wowhead links issue)
+ *
  * * Sort off-sets by rarity
  * * Sort trinkets by rarity
  *
@@ -17,12 +21,6 @@
  * ? Builds column wrapping when only 1 item is present (not supported in Firefox)
  *
  * Updates:
- * - Updated trinkets table to improve readability.
- * - Moved changelog to a different page because it became too long.
- * - Restyled builds.
- * - Restyled navigation and homepage.
  *
- * - Gems added.
- * - Enchants added.
  * - Some new items added.
  */

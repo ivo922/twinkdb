@@ -295,13 +295,24 @@ function Home() {
           <div className="container">
             <h2>Latest update:</h2>
 
-            <Spoiler title="22 April 2022">
+            <Spoiler title="1 May 2022">
+              <h3>The following items have been added:</h3>
+
               <ul>
-                <li>Gems added.</li>
-                <li>Enchants added.</li>
-                <li>New items added.</li>
-                <li>Builds redesigned.</li>
-                <li>Router updated.</li>
+                <li>
+                  <h4>Weapons:</h4>
+
+                  <ul>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=17943/fist-of-stone?ilvl=25"
+                      >
+                        link
+                      </a>
+                    </li>
+                  </ul>
+                </li>
               </ul>
             </Spoiler>
 
