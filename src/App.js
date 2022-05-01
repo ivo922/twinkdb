@@ -6,6 +6,9 @@ import {
   Navigate,
 } from 'react-router-dom';
 
+import store from './app/store';
+import { Provider } from 'react-redux';
+
 import Header from './components/Header';
 
 import Home from './pages/Home';
@@ -31,76 +34,81 @@ import dataEnchants from './DB/enchants.json';
 import ReactMarkdown from 'react-markdown';
 
 import routes from './routes';
+import Wishlist from './components/Wishlist';
 
 function App() {
   return (
-    <Router>
-      <Header />
+    <Provider store={store}>
+      <Router>
+        <Header />
 
-      <Routes>
-        <Route path={routes.home} element={<Home />} />
+        <Routes>
+          <Route path={routes.home} element={<Home />} />
 
-        <Route path={routes.weapons} element={<Weapons data={dataWeapons} />} />
-
-        <Route
-          children
-          path={routes.armor}
-          element={<Armor data={dataArmor} />}
-        >
           <Route
-            index
-            element={<ReactMarkdown># Chose a category</ReactMarkdown>}
+            path={routes.weapons}
+            element={<Weapons data={dataWeapons} />}
           />
+
           <Route
-            path="cloth"
-            element={<TablesList data={dataArmor.types[0].categories} />}
-          />
+            children
+            path={routes.armor}
+            element={<Armor data={dataArmor} />}
+          >
+            <Route
+              index
+              element={<ReactMarkdown># Chose a category</ReactMarkdown>}
+            />
+            <Route
+              path="cloth"
+              element={<TablesList data={dataArmor.types[0].categories} />}
+            />
+            <Route
+              path="leather"
+              element={<TablesList data={dataArmor.types[1].categories} />}
+            />
+            <Route
+              path="mail"
+              element={<TablesList data={dataArmor.types[2].categories} />}
+            />
+            <Route
+              path="plate"
+              element={<TablesList data={dataArmor.types[3].categories} />}
+            />
+            <Route
+              path="off-set"
+              element={<TablesList data={dataArmor.types[4].categories} />}
+            />
+          </Route>
+
           <Route
-            path="leather"
-            element={<TablesList data={dataArmor.types[1].categories} />}
+            path={routes.trinkets}
+            element={<Trinkets data={dataTrinkets} />}
           />
+
+          <Route path={routes.gems} element={<Gems data={dataGems} />} />
+
           <Route
-            path="mail"
-            element={<TablesList data={dataArmor.types[2].categories} />}
+            path={routes.enchants}
+            element={<Enchants data={dataEnchants} />}
           />
-          <Route
-            path="plate"
-            element={<TablesList data={dataArmor.types[3].categories} />}
-          />
-          <Route
-            path="off-set"
-            element={<TablesList data={dataArmor.types[4].categories} />}
-          />
-        </Route>
 
-        <Route
-          path={routes.trinkets}
-          element={<Trinkets data={dataTrinkets} />}
-        />
+          <Route path={routes.builds} element={<Builds />}>
+            <Route index element={<BuildsList />} />
 
-        <Route path={routes.gems} element={<Gems data={dataGems} />} />
+            <Route path=":cls/:id" element={<Build />} />
+          </Route>
 
-        <Route
-          path={routes.enchants}
-          element={<Enchants data={dataEnchants} />}
-        />
+          <Route path={routes.calculator} element={<Calculator />} />
 
-        <Route path={routes.builds} element={<Builds />}>
-          <Route index element={<BuildsList />} />
+          <Route path={routes.changelog} element={<Changelog />} />
 
-          <Route path=":cls/:id" element={<Build />} />
-        </Route>
+          <Route path="*" element={<Navigate to={routes.home} replace />} />
+        </Routes>
 
-        <Route path={routes.calculator} element={<Calculator />} />
-
-        <Route path={routes.changelog} element={<Changelog />} />
-
-        <Route
-          path="*"
-          element={<Navigate to={routes.home} replace />}
-        />
-      </Routes>
-    </Router>
+        <Wishlist />
+      </Router>
+    </Provider>
   );
 }
 
