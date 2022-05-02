@@ -54,7 +54,7 @@
     display: none;
   }
 
-  tr.note-active td:not(:first-child):not(.table__note):not(:last-child) {
+  tr.note-active td:not(:first-child):not(.table__note):not(:last-child):not(.table__note-trigger) {
     display: none;
   }
 
