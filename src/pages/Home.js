@@ -295,20 +295,20 @@ function Home() {
           <div className="container">
             <h2>Latest update:</h2>
 
-            <Spoiler title="1 May 2022 (Saved items)">
-              <h3>The following items have been added:</h3>
+            <Spoiler title="2 May 2022 (Remove Draenor trinkets)">
+              <h3>The following items have been removed:</h3>
 
               <ul>
                 <li>
-                  <h4>Weapons:</h4>
+                  <h4>Trinkets:</h4>
 
                   <ul>
                     <li>
                       <a
                         data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=17943/fist-of-stone?ilvl=25"
+                        href="https://www.wowhead.com/item=111530?ilvl=25"
                       >
-                        link
+                        Giantstalker's Guile
                       </a>
                     </li>
                   </ul>

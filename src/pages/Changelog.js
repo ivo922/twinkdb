@@ -29,6 +29,29 @@ function Changelog() {
 
         <hr />
 
+        <Spoiler title="2 May 2022 (Remove Draenor trinkets)">
+          <h3>The following items have been removed:</h3>
+
+          <ul>
+            <li>
+              <h4>Trinkets:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=111530?ilvl=25"
+                  >
+                    Giantstalker's Guile
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+
+          <h3>Checklist added.</h3>
+        </Spoiler>
+
         <Spoiler title="1 May 2022 (Saved items)">
           <h3>The following items have been added:</h3>
 

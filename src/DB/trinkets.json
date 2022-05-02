@@ -55,19 +55,13 @@
           "name": "Kliaa's Venomclaws",
           "item_url": "https://www.wowhead.com/item=113163?ilvl=25",
           "source_url": "https://www.wowhead.com/quest=33834@Shadowmoon Valley",
-          "note": ""
-        },
-        {
-          "name": "Giantstalker's Guile",
-          "item_url": "https://www.wowhead.com/item=111530?ilvl=25",
-          "source_url": "https://www.wowhead.com/npc=71665|Giant-Slayer Kul@Frostfire Ridge",
-          "note": "24 Agility for 40s in BG."
+          "note": "27 agi for 25s in BG/arena."
         },
         {
           "name": "Scales of Gennadian",
           "item_url": "https://www.wowhead.com/item=116075?ilvl=25",
           "source_url": "https://www.wowhead.com/npc=80471|Gennadian@Talador",
-          "note": ""
+          "note": "42 mastery for 20s in BG/arena."
         },
         {
           "name": "Moonstone Luck Token",
