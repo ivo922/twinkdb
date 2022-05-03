@@ -310,6 +310,32 @@ function Home() {
                       >
                         Giantstalker's Guile
                       </a>
+
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=118881?ilvl=26"
+                      >
+                        Bajheric Bangle
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+
+              <h3>The following items have been added:</h3>
+
+              <ul>
+                <li>
+                  <h4>Trinkets:</h4>
+
+                  <ul>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=28170/auchenai-bracers?bonus=6710&ilvl=25"
+                      >
+                        Auchenai Bracers
+                      </a>
                     </li>
                   </ul>
                 </li>

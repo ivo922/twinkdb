@@ -1254,6 +1254,23 @@
               "note": "One time drop."
             },
             {
+              "name": "Auchenai Bracers",
+              "item_url": "https://www.wowhead.com/item=28170/auchenai-bracers?bonus=6710&ilvl=25",
+
+              "sockets": "1",
+              "armor": 7,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 3,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 2,
+
+              "source_url": "https://www.wowhead.com/quest=29641/the-soul-devices@Shadow Labyrinth",
+              "rarity": 1,
+              "note": ""
+            },
+            {
               "name": "Wristlinks of Alchemical Transfusion",
               "item_url": "https://www.wowhead.com/item=158309?ilvl=25",
 

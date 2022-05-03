@@ -209,7 +209,6 @@
     },
     {
       "name": "Super rare",
-      "note": "Some of these might even be unobtainable.",
       "items": [
         {
           "name": "Lucky Double-Sided Coin",
@@ -246,12 +245,6 @@
           "item_url": "https://www.wowhead.com/item=87496?ilvl=28",
           "source_url": "[Pandaria BoE]",
           "note": "10 crit + str on use"
-        },
-        {
-          "name": "Bajheric Bangle",
-          "item_url": "https://www.wowhead.com/item=118881?ilvl=26",
-          "source_url": "[Draenor BoE]",
-          "note": "5 crit + str on proc"
         },
         {
           "name": "Everblooming Thorny Hibiscus",
