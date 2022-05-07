@@ -1,0 +1,620 @@
+{
+  "types": [
+    {
+      "name": "Combat",
+      "categories": [
+        {
+          "name": "Bombs",
+          "items": [
+            {
+              "name": "Cobalt Frag Bomb",
+              "item_url": "https://www.wowhead.com/item=40771/cobalt-frag-bomb",
+              "effect": "AOE dmg and incap for 3s (1 min cd)",
+              "source_url": "https://www.wowhead.com/spell=56460/cobalt-frag-bomb",
+              "note": "Mats are farmable at Fizzcrank Pumping Station(mechs in Borean Tundra). Doesn't share cd with frag belt.",
+              "rarity": "2"
+            },
+            {
+              "name": "Portable Bronze Mortar",
+              "item_url": "https://www.wowhead.com/item=4403/portable-bronze-mortar",
+              "effect": "Incap for 2s (1 min cd)",
+              "source_url": "https://www.wowhead.com/spell=3960/portable-bronze-mortar",
+              "note": "Instant cast and bigger radius than cobalt bombs.",
+              "rarity": "2"
+            },
+            {
+              "name": "Flash Bomb",
+              "item_url": "https://www.wowhead.com/item=4852/flash-bomb",
+              "effect": "Fears beasts for 10s (1 min cd)",
+              "source_url": "https://www.wowhead.com/spell=8243/flash-bomb",
+              "note": "Useful vs hunter pets.",
+              "rarity": "2"
+            },
+            {
+              "name": "Arcane Bomb",
+              "item_url": "https://www.wowhead.com/item=16040/arcane-bomb",
+              "effect": "Mana drain and silence for 5s (1 min cd)",
+              "source_url": "https://www.wowhead.com/spell=19831/arcane-bomb",
+              "note": "",
+              "rarity": "2"
+            },
+            {
+              "name": "Organic Discombobulation Grenade",
+              "item_url": "https://www.wowhead.com/item=153487/organic-discombobulation-grenade",
+              "effect": "Polymorph for 8s (1 min cd)",
+              "source_url": "https://www.wowhead.com/spell=255407/organic-discombobulation-grenade",
+              "note": "",
+              "rarity": "5"
+            }
+          ]
+        },
+        {
+          "name": "Health Potions",
+          "note": "Share cooldown with ()[https://www.wowhead.com/spell=82200]",
+          "items": [
+            {
+              "name": "Super Healing Potion",
+              "item_url": "https://www.wowhead.com/item=22829/super-healing-potion",
+              "effect": "455 healing (5 min cd)",
+              "source_url": "[Various]",
+              "note": "Strongest healing potion at 20.",
+              "rarity": "4"
+            },
+            {
+              "name": "Endless Healing Potion",
+              "item_url": "https://www.wowhead.com/item=43569/endless-healing-potion",
+              "effect": "228(455) health (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=58871/endless-healing-potion",
+              "note": "Requires Northrend Alchemy (25), not consumed when used.",
+              "rarity": "4"
+            },
+            {
+              "name": "Third Wind Potion",
+              "item_url": "https://www.wowhead.com/item=138486/third-wind-potion",
+              "effect": "50% health (5 min cd)",
+              "source_url": "[PvP Vendor]",
+              "note": "Costs 1 Mark of Honor.",
+              "rarity": "4"
+            },
+            {
+              "name": "Charged Crystal Focus",
+              "item_url": "https://www.wowhead.com/item=32578/charged-crystal-focus",
+              "effect": "2000 health (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=40548/create-charged-crystal-focus",
+              "note": "",
+              "rarity": "4"
+            }
+          ]
+        },
+        {
+          "name": "Secondary resource",
+          "items": [
+            {
+              "name": "Wildvine Potion",
+              "item_url": "https://www.wowhead.com/item=9144/wildvine-potion",
+              "effect": "429 health and mana (5 min cd)",
+              "source_url": "[Vendor in Boralus and Zul'Dazar]",
+              "note": "Cheap and strong potion. Especially useful on healers and hybrids.",
+              "rarity": "5"
+            },
+            {
+              "name": "Super Rejuvenation Potion",
+              "item_url": "https://www.wowhead.com/item=22850/super-rejuvenation-potion",
+              "effect": "500 health and mana (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=28586/super-rejuvenation-potion",
+              "note": "Better than Wildvine but requires crafting. Especially useful on healers and hybrids.",
+              "rarity": "5"
+            },
+            {
+              "name": "Iron Horde Rejuvenation Potion",
+              "item_url": "https://www.wowhead.com/item=113585/iron-horde-rejuvenation-potion",
+              "effect": "400(1200) health and 100(300) mana (5 min cd)",
+              "source_url": "[Draenor intro]",
+              "note": "Farmable during the Draenor intro.",
+              "rarity": "5"
+            },
+            {
+              "name": "Endless Mana Potion",
+              "item_url": "https://www.wowhead.com/item=43570/endless-mana-potion",
+              "effect": "273(546) mana (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=58868/endless-mana-potion",
+              "note": "Requires Northrend Alchemy (25), not consumed when used.",
+              "rarity": "5"
+            },
+            {
+              "name": "Mighty Rage Potion",
+              "item_url": "https://www.wowhead.com/item=13442/mighty-rage-potion",
+              "effect": "30-90 rage and 25 strength (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=17552/mighty-rage-potion",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Thistle Tea",
+              "item_url": "https://www.wowhead.com/item=7676/thistle-tea",
+              "effect": "100 energy (5 min cd)",
+              "source_url": "[Vendors]",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Noth's Special Brew",
+              "item_url": "https://www.wowhead.com/item=39327/noths-special-brew",
+              "effect": "333 health and 50 runic power (5 min cd)",
+              "source_url": "https://www.wowhead.com/quest=12717/noths-special-brew",
+              "note": "",
+              "rarity": "5"
+            }
+          ]
+        },
+        {
+          "name": "Self enhancements",
+          "items": [
+            {
+              "name": "Swiftness Potion",
+              "item_url": "https://www.wowhead.com/item=2459/swiftness-potion",
+              "effect": "50% speed for 15s (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=2335/swiftness-potion",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Swim Speed Potion",
+              "item_url": "https://www.wowhead.com/item=6372/swim-speed-potion",
+              "effect": "100% swim speed increase (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=7841/swim-speed-potion",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Saltwater Potion",
+              "item_url": "https://www.wowhead.com/item=138488/saltwater-potion",
+              "effect": "30% damage for 12s in BG (5 min cd)",
+              "source_url": "[Vendors]",
+              "note": "",
+              "rarity": "4"
+            },
+            {
+              "name": "Potion of Defiance",
+              "item_url": "https://www.wowhead.com/item=138727/potion-of-defiance",
+              "effect": "20% damage reduction for 12s (5 min cd)",
+              "source_url": "[Vendors]",
+              "note": "",
+              "rarity": "4"
+            },
+            {
+              "name": "Potion of Trivial Invisibility",
+              "item_url": "https://www.wowhead.com/item=138728/potion-of-trivial-invisibility",
+              "effect": "Invisibility for 6s (5 min cd)",
+              "source_url": "[Vendors]",
+              "note": "Doesn't break on healing.",
+              "rarity": "5"
+            }
+          ]
+        },
+        {
+          "name": "Party enhancements",
+          "items": [
+            {
+              "name": "Drums of Fury",
+              "item_url": "https://www.wowhead.com/item=120257/drums-of-fury",
+              "effect": "15% haste to all (2 min cd)",
+              "source_url": "https://www.wowhead.com/spell=178208/drums-of-fury",
+              "note": "Easy to make in garrison.",
+              "rarity": "2"
+            },
+            {
+              "name": "Drums of the Maelstrom",
+              "item_url": "https://www.wowhead.com/item=154167/drums-of-the-maelstrom",
+              "effect": "15% haste to all (2 min cd)",
+              "source_url": "https://www.wowhead.com/spell=256791/drums-of-the-maelstrom",
+              "note": "",
+              "rarity": "2"
+            },
+            {
+              "name": "Drums of the Mountain",
+              "item_url": "https://www.wowhead.com/item=142406/drums-of-the-mountain",
+              "effect": "15% haste to all (2 min cd)",
+              "source_url": "https://www.wowhead.com/spell=230936/drums-of-the-mountain",
+              "note": "",
+              "rarity": "2"
+            },
+            {
+              "name": "Drums of Rage",
+              "item_url": "https://www.wowhead.com/item=102351/drums-of-rage",
+              "effect": "15% haste to all (2 min cd)",
+              "source_url": "https://www.wowhead.com/spell=146613/drums-of-rage",
+              "note": "",
+              "rarity": "2"
+            },
+            {
+              "name": "Battle Flag: Phalanx Defense",
+              "item_url": "https://www.wowhead.com/item=154706/battle-flag-phalanx-defense",
+              "effect": "15% damage reduction for 30s (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=257134/battle-flag-phalanx-defense",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Battle Flag: Rallying Swiftness",
+              "item_url": "https://www.wowhead.com/item=154705/battle-flag-rallying-swiftness",
+              "effect": "15% mount speed for 15s (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=257137/battle-flag-rallying-swiftness",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Battle Flag: Spirit of Freedom",
+              "item_url": "https://www.wowhead.com/item=154707/battle-flag-spirit-of-freedom",
+              "effect": "CC reduction for 30s (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=257131/battle-flag-spirit-of-freedom",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Alliance Battle Standard",
+              "item_url": "https://www.wowhead.com/item=18606/alliance-battle-standard",
+              "effect": "15% health for 2 min (10 min cd)",
+              "source_url": "https://www.wowhead.com/npc=12781/master-sergeant-biggins",
+              "note": "",
+              "rarity": ""
+            },
+            {
+              "name": "Horde Battle Standard",
+              "item_url": "https://www.wowhead.com/item=18607/horde-battle-standard",
+              "effect": "15% health for 2 min (10 min cd)",
+              "source_url": "https://www.wowhead.com/npc=12793/brave-stonehide",
+              "note": "",
+              "rarity": ""
+            }
+          ]
+        },
+        {
+          "name": "Dispel",
+          "items": [
+            {
+              "name": "Living Action Potion",
+              "item_url": "https://www.wowhead.com/item=20008/living-action-potion",
+              "effect": "Stun immunity for 3s (5 min cd)",
+              "source_url": "https://www.wowhead.com/npc=11188/evie-whirlbrew",
+              "note": "Also craftable.",
+              "rarity": "5"
+            },
+            {
+              "name": "Free Action Potion",
+              "item_url": "https://www.wowhead.com/item=5634/free-action-potion",
+              "effect": "Stun immunity for 20s (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=6624/free-action-potion",
+              "note": "Doesn't remove stun.",
+              "rarity": "5"
+            },
+            {
+              "name": "Purification Potion",
+              "item_url": "https://www.wowhead.com/item=13462/purification-potion",
+              "effect": "Dispel curse, poison and disease (5 min cd)",
+              "source_url": "[Vendors in Boralus and Zul'Dazar]",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Restorative Potion",
+              "item_url": "https://www.wowhead.com/item=9030/restorative-potion",
+              "effect": "Dispel every 5s for 30s (5 min cd)",
+              "source_url": "https://www.wowhead.com/spell=11452/restorative-potion",
+              "note": "",
+              "rarity": "5"
+            },
+            {
+              "name": "Potion of Curing",
+              "item_url": "https://www.wowhead.com/item=3386/potion-of-curing",
+              "effect": "Dispel 4 poisons (1 min cd)",
+              "source_url": "https://www.wowhead.com/spell=3174/potion-of-curing",
+              "note": "",
+              "rarity": ""
+            }
+          ]
+        },
+        {
+          "name": "Bandages",
+          "items": [
+            {
+              "name": "Mageweave Bandage",
+              "item_url": "https://www.wowhead.com/item=8544/mageweave-bandage",
+              "effect": "800 healing over 8s (1 min cd)",
+              "source_url": "https://www.wowhead.com/spell=10840/mageweave-bandage",
+              "note": "",
+              "rarity": ""
+            },
+            {
+              "name": "Netherweave Bandage",
+              "item_url": "https://www.wowhead.com/item=21990/netherweave-bandage",
+              "effect": "800 healing over 8s (1 min cd)",
+              "source_url": "https://www.wowhead.com/spell=27032/netherweave-bandage",
+              "note": "",
+              "rarity": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Buffs",
+      "categories": [
+        {
+          "name": "Both Battle and Guardian elixir",
+          "items": [
+            {
+              "name": "Alchemist's Flask",
+              "item_url": "https://www.wowhead.com/item=75525/alchemists-flask",
+              "effect": "+9(12) primary stat",
+              "source_url": "https://www.wowhead.com/spell=114786/alchemists-flask",
+              "note": "Requires Alchemy (1), not consumed on use."
+            }
+          ]
+        },
+        {
+          "name": "Battle elixir",
+          "items": [
+            {
+              "name": "Elixir of Greater Firepower",
+              "item_url": "https://www.wowhead.com/item=21546/elixir-of-greater-firepower",
+              "effect": "17 SP for 1 hour",
+              "source_url": "[Recipe unobtainable]",
+              "note": "Obtainable from AH."
+            },
+            {
+              "name": "Greater Arcane Elixir",
+              "item_url": "https://www.wowhead.com/item=13454/greater-arcane-elixir",
+              "effect": "14 SP and 4 crit for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=17573/greater-arcane-elixir",
+              "note": ""
+            },
+            {
+              "name": "Elixir of the Mongoose",
+              "item_url": "https://www.wowhead.com/item=13452/elixir-of-the-mongoose",
+              "effect": "10 agility and 4 crit for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=17571/elixir-of-the-mongoose",
+              "note": ""
+            },
+            {
+              "name": "Elixir of Brute Force",
+              "item_url": "https://www.wowhead.com/item=13453/elixir-of-brute-force",
+              "effect": "8 strength and 8 stamina for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=17557/elixir-of-brute-force",
+              "note": ""
+            },
+            {
+              "name": "Elixir of the Sages",
+              "item_url": "https://www.wowhead.com/item=13447/elixir-of-the-sages",
+              "effect": "71 mana and 7 versatility for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=17555/elixir-of-the-sages",
+              "note": "Can be used with Elixir of Fortitude for maximum tankiness."
+            }
+          ]
+        },
+        {
+          "name": "Guardian elixir",
+          "items": [
+            {
+              "name": "Elixir of Fortitude",
+              "item_url": "https://www.wowhead.com/item=3825/elixir-of-fortitude",
+              "effect": "+60 max health for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=3450/elixir-of-fortitude",
+              "note": "Can be used with Elixir of the Sages for maximum tankiness."
+            }
+          ]
+        },
+        {
+          "name": "Weapon buffs",
+          "items": [
+            {
+              "name": "Brilliant Wizard Oil",
+              "item_url": "https://www.wowhead.com/item=20749/brilliant-wizard-oil",
+              "effect": "13 int and 6 crit for 1 hour",
+              "source_url": "[Recipe unobtainable]",
+              "note": "Obtainable on AH."
+            },
+            {
+              "name": "Wizard Oil",
+              "item_url": "https://www.wowhead.com/item=20750/wizard-oil",
+              "effect": "11 int for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=25128/wizard-oil",
+              "note": ""
+            },
+            {
+              "name": "Lesser Mana Oil",
+              "item_url": "https://www.wowhead.com/item=20747/lesser-mana-oil",
+              "effect": "6 versatility for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=25127/lesser-mana-oil",
+              "note": ""
+            },
+            {
+              "name": "Dense Sharpening Stone",
+              "item_url": "https://www.wowhead.com/item=12404/dense-sharpening-stone",
+              "effect": "+3 wep dmg for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=16641/dense-sharpening-stone",
+              "note": "Works on sharp weapons."
+            },
+            {
+              "name": "Dense Weight Stone",
+              "item_url": "https://www.wowhead.com/item=12643/dense-weightstone",
+              "effect": "+3 wep dmg for 1 hour",
+              "source_url": "https://www.wowhead.com/spell=16640/dense-weightstone",
+              "note": "Works on blunt weapons."
+            }
+          ]
+        },
+        {
+          "name": "Other",
+          "items": [
+            {
+              "name": "Draught of Ten Lands",
+              "item_url": "https://www.wowhead.com/item=166750/draught-of-ten-lands",
+              "effect": "5 primary stat and stamina for 1h",
+              "source_url": "https://www.wowhead.com/npc=148927/provisioner-stoutforge",
+              "note": "Persists after death"
+            },
+            {
+              "name": "Draught of Ten Lands",
+              "item_url": "https://www.wowhead.com/item=166751/draught-of-ten-lands",
+              "effect": "5 primary stat and stamina for 1h",
+              "source_url": "https://www.wowhead.com/npc=148924/provisioner-mukra",
+              "note": "Persists after death."
+            },
+            {
+              "name": "Lucky Rocket Cluster",
+              "item_url": "https://www.wowhead.com/item=21744/lucky-rocket-cluster",
+              "effect": "513 health for the raid",
+              "source_url": "[Lunar Festival Event]",
+              "note": ""
+            },
+            {
+              "name": "Crystal of Ferocity",
+              "item_url": "https://www.wowhead.com/item=23989/crystal-of-ferocity",
+              "effect": "+2 AP",
+              "source_url": "https://www.wowhead.com/quest=9641/irradiated-crystal-shards",
+              "note": "Alliance only."
+            },
+            {
+              "name": "Crystal of Insight",
+              "item_url": "https://www.wowhead.com/item=23986/crystal-of-insight",
+              "effect": "+2 int",
+              "source_url": "https://www.wowhead.com/quest=9641/irradiated-crystal-shards",
+              "note": "Alliance only."
+            },
+            {
+              "name": "Crystal of Vitality",
+              "item_url": "https://www.wowhead.com/item=23985/crystal-of-vitality",
+              "effect": "+2 stamina",
+              "source_url": "https://www.wowhead.com/quest=9641/irradiated-crystal-shards",
+              "note": "Alliance only."
+            }
+          ]
+        },
+        {
+          "name": "Well fed",
+          "items": [
+            {
+              "name": "Potato Stew Feast",
+              "item_url": "https://www.wowhead.com/item=138479/potato-stew-feast",
+              "effect": "+10% stamina",
+              "source_url": "[Vendors]",
+              "note": ""
+            },
+            {
+              "name": "Feast of Ribs",
+              "item_url": "https://www.wowhead.com/item=138478/feast-of-ribs",
+              "effect": "+10% stamina",
+              "source_url": "[Vendors]",
+              "note": ""
+            },
+            {
+              "name": "Pandaren Treasure Noodle Cart Kit",
+              "item_url": "https://www.wowhead.com/item=101662/pandaren-treasure-noodle-cart-kit",
+              "effect": "+10 primary stat",
+              "source_url": "https://www.wowhead.com/spell=145062/pandaren-treasure-noodle-cart-kit",
+              "note": "Creates a cart that gives free food. Can carry max of 5 soups."
+            },
+            {
+              "name": "Juicy Bear Burger",
+              "item_url": "https://www.wowhead.com/item=35565/juicy-bear-burger",
+              "effect": "+4 int",
+              "source_url": "https://www.wowhead.com/spell=46688/juicy-bear-burger",
+              "note": ""
+            },
+            {
+              "name": "Grilled Squid",
+              "item_url": "https://www.wowhead.com/item=13928/grilled-squid",
+              "effect": "+3 agility",
+              "source_url": "https://www.wowhead.com/spell=18240/grilled-squid",
+              "note": ""
+            },
+            {
+              "name": "Smoked Desert Dumplings",
+              "item_url": "https://www.wowhead.com/item=20452/smoked-desert-dumplings",
+              "effect": "+6 strength",
+              "source_url": "https://www.wowhead.com/spell=24801/smoked-desert-dumplings",
+              "note": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "categories": [
+        {
+          "name": "Out of combat regen",
+          "items": [
+            {
+              "name": "Restorative Amber",
+              "item_url": "https://www.wowhead.com/item=89230/restorative-amber",
+              "effect": "Very quick regen. Faster than food.",
+              "source_url": "https://www.wowhead.com/npc=64599/ambersmith-zikk",
+              "note": "Requires Klaxxi rep."
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "items": [
+            {
+              "name": "Goblin Glider Kit",
+              "item_url": "https://www.wowhead.com/item=109076/goblin-glider-kit",
+              "effect": "Become a plane",
+              "source_url": "https://www.wowhead.com/spell=162204/goblin-glider-kit",
+              "note": "Shares cooldown with the Goblin Glider cloak tinker."
+            },
+            {
+              "name": "Electroshock Mount Motivator",
+              "item_url": "https://www.wowhead.com/item=153573/electroshock-mount-motivator",
+              "effect": "Boost mount movement speed",
+              "source_url": "https://www.wowhead.com/spell=256070/electroshock-mount-motivator",
+              "note": ""
+            }
+          ]
+        },
+        {
+          "name": "Transform",
+          "items": [
+            {
+              "name": "Noggenfogger Elixir",
+              "item_url": "https://www.wowhead.com/item=8529/noggenfogger-elixir",
+              "effect": "Transform into a skeleton",
+              "source_url": "https://www.wowhead.com/npc=43418/sprinkle-noggenfogger",
+              "note": "Can breathe underwater. Or doesn't need to breathe at all?"
+            },
+            {
+              "name": "Pygmy Oil",
+              "item_url": "https://www.wowhead.com/item=40195/pygmy-oil",
+              "effect": "Transform into a voodoo gnome(wtf)",
+              "source_url": "https://www.wowhead.com/spell=53812/pygmy-oil",
+              "note": ""
+            },
+            {
+              "name": "Savory Deviate Delight",
+              "item_url": "https://www.wowhead.com/item=6657/savory-deviate-delight",
+              "effect": "Transform into a ninja or a pirate",
+              "source_url": "https://www.wowhead.com/spell=8238/savory-deviate-delight",
+              "note": ""
+            },
+            {
+              "name": "Potion of Illusion",
+              "item_url": "https://www.wowhead.com/item=58489/potion-of-illusion",
+              "effect": "Transform into your target",
+              "source_url": "https://www.wowhead.com/spell=80269/potion-of-illusion",
+              "note": ""
+            },
+            {
+              "name": "Lifegiving Seed",
+              "item_url": "https://www.wowhead.com/item=63122/lifegiving-seed",
+              "effect": "Transform into a plant.",
+              "source_url": "[Cataclysm Herbalism]",
+              "note": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

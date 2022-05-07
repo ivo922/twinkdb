@@ -45,6 +45,10 @@ function Nav(props) {
             <li>
               <NavLink to={routes.enchants} onClick={handleClick}>Enchants</NavLink>
             </li>
+
+            <li>
+              <NavLink to={routes.consumables} onClick={handleClick}>Consumables</NavLink>
+            </li>
           </ul>
         </li>
 

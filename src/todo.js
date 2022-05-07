@@ -8,7 +8,6 @@
  * * Anchors for item categories
  * * URL params for sorting builds
  *
- * ? Consumables
  * ? Add leech to the calculator
  * ? Add stats lost to DR to calculator
  * ? Save last calculator values in localStorage/sessionStorage

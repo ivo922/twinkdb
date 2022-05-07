@@ -30,6 +30,7 @@ import dataWeapons from './DB/weapons.json';
 import dataTrinkets from './DB/trinkets.json';
 import dataGems from './DB/gems.json';
 import dataEnchants from './DB/enchants.json';
+import dataConsumables from './DB/consumables.json';
 
 import WishlistUpdater from './components/WishlistUpdater';
 import Wishlist from './components/Wishlist';
@@ -37,6 +38,7 @@ import Wishlist from './components/Wishlist';
 import ReactMarkdown from 'react-markdown';
 
 import routes from './routes';
+import Consumables from './pages/Consumables';
 
 function App() {
   return (
@@ -94,6 +96,29 @@ function App() {
             path={routes.enchants}
             element={<Enchants data={dataEnchants} />}
           />
+
+          <Route
+            children
+            path={routes.consumables}
+            element={<Consumables data={dataConsumables} />}
+          >
+            <Route
+              index
+              element={<ReactMarkdown># Chose a category</ReactMarkdown>}
+            />
+            <Route
+              path="combat"
+              element={<TablesList data={dataConsumables.types[0].categories} />}
+            />
+            <Route
+              path="buffs"
+              element={<TablesList data={dataConsumables.types[1].categories} />}
+            />
+            <Route
+              path="other"
+              element={<TablesList data={dataConsumables.types[2].categories} />}
+            />
+          </Route>
 
           <Route path={routes.builds} element={<Builds />}>
             <Route index element={<BuildsList />} />

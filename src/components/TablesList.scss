@@ -108,7 +108,7 @@
   }
 
   // Rarity
-  $rarities: ("1": limegreen, "2": yellow, "3": orange, "4": red);
+  $rarities: ("1": limegreen, "2": yellow, "3": orange, "4": red, "5": cyan);
 
   @each $index, $color in $rarities {
     tr.rarity-#{$index} td:first-child::before {

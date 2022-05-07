@@ -44,7 +44,9 @@ function Changelog() {
                   >
                     Giantstalker's Guile
                   </a>
+                </li>
 
+                <li>
                   <a
                     data-wh-icon-size="small"
                     href="https://www.wowhead.com/item=118881?ilvl=26"

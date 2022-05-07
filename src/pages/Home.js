@@ -111,48 +111,6 @@ function Home() {
                   </p>
                 </div>
               </li>
-
-              <li className="widget">
-                <div className="widget__image">
-                  <img src={images.feedback.src} alt={images.feedback.alt} />
-                </div>
-
-                <div className="widget__content">
-                  <h3 className="widget__title">Got feedback?</h3>
-
-                  <p>
-                    <a target="_blank" rel="noreferrer" href={routes.feedback}>
-                      Tell me here!
-                    </a>
-                  </p>
-                </div>
-              </li>
-            </ul>
-          </div>
-
-          <div className="container">
-            <h2>More resources:</h2>
-
-            <ul className="widgets">
-              <li className="widget">
-                <div className="widget__image">
-                  <img src={images.guides.src} alt={images.guides.alt} />
-                </div>
-
-                <div className="widget__content">
-                  <h3 className="widget__title">For more level 20 guides</h3>
-
-                  <p>
-                    <a
-                      target="_blank"
-                      rel="noreferrer"
-                      href={routes.moreGuides}
-                    >
-                      Visit XPOFF
-                    </a>
-                  </p>
-                </div>
-              </li>
             </ul>
           </div>
         </div>
@@ -238,7 +196,7 @@ function Home() {
                 </div>
               </div>
 
-              <div className="categories__item category__item--coming-soon">
+              <div className="categories__item">
                 <div className="category">
                   <div className="category__image">
                     <Link to={routes.consumables}>
@@ -310,7 +268,9 @@ function Home() {
                       >
                         Giantstalker's Guile
                       </a>
+                    </li>
 
+                    <li>
                       <a
                         data-wh-icon-size="small"
                         href="https://www.wowhead.com/item=118881?ilvl=26"
