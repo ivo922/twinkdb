@@ -29,6 +29,75 @@ function Changelog() {
 
         <hr />
 
+        <Spoiler title="8 June 2022 (Items)">
+          <h3>The following items have been removed:</h3>
+
+          <ul>
+            <li>
+              <h4>Weapons:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=37749/shocking-claws?ilvl=27"
+                  >
+                    Shocking Claws
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=119378/socrethars-stone?ilvl=25"
+                  >
+                    Socrethar's Stone
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=155422/pirate-chiefs-speargun?ilvl=25"
+                  >
+                    Pirate Chief's Speargun
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <h4>Armor:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/npc=10439/ramstein-the-gorger"
+                  >
+                    Band of Flesh
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <h4>Consumables:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=41509/frostweave-net"
+                  >
+                    Frostweave Net
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </Spoiler>
+
         <Spoiler title="2 May 2022 (Remove Draenor trinkets)">
           <h3>The following items have been removed:</h3>
 
@@ -76,8 +145,6 @@ function Changelog() {
               </ul>
             </li>
           </ul>
-
-          <h3>Checklist added.</h3>
         </Spoiler>
 
         <Spoiler title="1 May 2022 (Saved items)">

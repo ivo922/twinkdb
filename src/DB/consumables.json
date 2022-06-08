@@ -334,6 +334,19 @@
               "rarity": ""
             }
           ]
+        },
+        {
+          "name": "Nets",
+          "items": [
+            {
+              "name": "Frostweave Net",
+              "item_url": "https://www.wowhead.com/item=41509/frostweave-net",
+              "effect": "Root for 3s",
+              "source_url": "https://www.wowhead.com/spell=55898/frostweave-net",
+              "note": "Requires Northrend Tailoring (1) to use.",
+              "rarity": "2"
+            }
+          ]
         }
       ]
     },
@@ -511,7 +524,7 @@
             {
               "name": "Pandaren Treasure Noodle Cart Kit",
               "item_url": "https://www.wowhead.com/item=101662/pandaren-treasure-noodle-cart-kit",
-              "effect": "+10 primary stat",
+              "effect": "+7 primary stat",
               "source_url": "https://www.wowhead.com/spell=145062/pandaren-treasure-noodle-cart-kit",
               "note": "Creates a cart that gives free food. Can carry max of 5 soups."
             },

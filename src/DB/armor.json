@@ -2883,6 +2883,22 @@
               "rarity": 1
             },
             {
+              "name": "Band of Flesh",
+              "item_url": "https://www.wowhead.com/item=13373/band-of-flesh?ilvl=25",
+
+              "sockets": 0,
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 16,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 7,
+
+              "source_url": "https://www.wowhead.com/npc=10439/ramstein-the-gorger|Ramstein the Gorger@Stratholme",
+              "rarity": 1
+            },
+            {
               "name": "Seal of Rivendare",
               "item_url": "https://www.wowhead.com/item=13345?ilvl=25",
 
