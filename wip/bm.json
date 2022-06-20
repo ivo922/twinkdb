@@ -1,0 +1,56 @@
+{
+  "id": "3",
+  "spec": "Beast Mastery",
+  "spec_handle": "beastmastery",
+  "class": "Hunter",
+  "class_handle": "hunter",
+  "title": "BM/Survival Hunter build",
+  "stat_priority": "Agility > Versatility = Haste ",
+  "type": "VET",
+  "author": "TWINKDB",
+  "gear": {
+    "Head": "[](https://www.wowhead.com/item=27409/raven-heart-headdress?bonus=6710&ilvl=25)",
+    "Neck": "* ilvl28 BoE of the Aurora + socket  \n * Any haste+vers/only vers neck on this site",
+    "Shoulders": "[](https://www.wowhead.com/item=127203/pauldrons-of-desolation?bonus=0&ilvl=25)",
+    "Back": "* ilvl28 BoE of the Aurora + socket  \n * [](https://www.wowhead.com/item=119349/craven-cowards-cloak&ilvl=25) + socket",
+    "Chest": "[](https://www.wowhead.com/item=24465/shamblehide-chestguard?bonus=6710&ilvl=25) or [](https://www.wowhead.com/item=28202/moonglade-robe?bonus=6710&ilvl=25) whatever you prefer",
+    "Wrists": "* ilvl28 BoE of the Aurora + socket  \n * [](https://www.wowhead.com/item=159356?ilvl=25) + socket",
+    "Hands": "[](https://www.wowhead.com/item=27528/gauntlets-of-desolation?bonus=6710&ilvl=25)",
+    "Waist": "[](https://www.wowhead.com/item=29319/tarren-mill-defenders-cinch?bonus=6710&ilvl=25)",
+    "Legs": "[](https://www.wowhead.com/item=30534/wyrmscale-greaves?bonus=6710&ilvl=25)",
+    "Boots": "[](https://www.wowhead.com/item=28177/auchenai-boots?bonus=6710&ilvl=25)",
+    "Rings": "* ilvl28 BoE of the Aurora + socket  \n * [](https://www.wowhead.com/item=159458/seal-of-the-regal-loa?ilvl=25)  \n * [](https://www.wowhead.com/item=155381?ilvl=25)  \n * [](https://www.wowhead.com/item=160985?ilvl=25)  \n * [](https://www.wowhead.com/item=9447/electrocutioner-lagnut?ilvl=25)  \n * Preferably with socket whenever possible.",
+    "Trinket 1": "* [](https://www.wowhead.com/item=122370/inherited-insignia-of-the-horde&ilvl=24) or [](https://www.wowhead.com/item=122371/inherited-insignia-of-the-alliance?ilvl=24) (if not human)  \n * ilvl28 BoE with vers + socket  \n * [](https://www.wowhead.com/item=27770/argussian-compass?bonus=6710&ilvl=25) (situational)  \n * [](https://www.wowhead.com/item=137538/orb-of-torment?bonus=1826:1472&ilvl=25) (situational)  \n * [](https://www.wowhead.com/item=108902/armored-elekk-tusk?ilvl=25) (burst)  \n * [](https://www.wowhead.com/item=155881/harlans-loaded-dice?bonus=4777:1473&ilvl=25) + socket  \n *[](https://www.wowhead.com/item=74034/pit-fighter) (survival only)",
+    "Trinket 2": "[](https://www.wowhead.com/item=77530?ilvl=19&gems=59496:59479:59489)",
+    "Main Hand": "*[](https://www.wowhead.com/item=39487&ilvl=25) BM  \n * [](https://www.wowhead.com/item=791/gnarled-ash-staff&ilvl=27) survival"
+  },
+  "enchants": {
+    "Neck": "[](https://www.wowhead.com/item=128553/enchant-neck-mark-of-the-hidden-satyr)",
+    "Back": "[](https://www.wowhead.com/item=38973/enchant-cloak-minor-power) + [](https://www.wowhead.com/spell=126392/goblin-glider)",
+    "Chest": "[](https://www.wowhead.com/item=74708/enchant-chest-glorious-stats)",
+    "Wrists": "[](https://www.wowhead.com/item=44815/enchant-bracer-greater-assault)",
+    "Hands": "[](https://www.wowhead.com/item=44458/enchant-gloves-crusher)",
+    "Waist": "[](https://www.wowhead.com/spell=82200/spinal-healing-injector)",
+    "Legs": "[](https://www.wowhead.com/spell=124567/primal-leg-reinforcements)",
+    "Boots": "[](https://www.wowhead.com/item=74717/enchant-boots-blurred-speed)",
+    "Rings": "[](https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility)",
+    "Main Hand": "[](https://www.wowhead.com/item=22556/formula-enchant-2h-weapon-major-agility)"
+  },
+  "gems": {
+    "Prismatic gems": "[](https://www.wowhead.com/item=28362/delicate-ornate-ruby)",
+    "Meta gem": "[](https://www.wowhead.com/item=32640/tense-unstable-diamond)"
+  },
+  "consumables": {
+    "Flask": "[](https://www.wowhead.com/item=75525/alchemists-flask)",
+    "Food": "[](https://www.wowhead.com/item=13928/grilled-squid)",
+    "Weapon enchant": "[](https://www.wowhead.com/spell=16640/dense-weightstone)"
+  },
+  "notes": [
+    "Pet: [Wasp](https://www.wowhead.com/pet=44/wasp)"
+  ],
+  "stats": [
+    "Agility >Versatility > Mastery"
+  ],
+  "talents": [],
+  "pvp_talents": []
+}

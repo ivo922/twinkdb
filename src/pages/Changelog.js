@@ -29,8 +29,40 @@ function Changelog() {
 
         <hr />
 
+        <Spoiler title="16 June 2022">
+          <h4>Added Andraste's shadow priest build.</h4>
+
+          <h3>The following items have been added:</h3>
+
+          <ul>
+            <li>
+              <h4>Consumables:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=12820/winterfall-firewater"
+                  >
+                    Winterfall Firewater
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=119449/shadowberry"
+                  >
+                    Shadowberry
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </Spoiler>
+
         <Spoiler title="8 June 2022 (Items)">
-          <h3>The following items have been removed:</h3>
+          <h3>The following items have been added:</h3>
 
           <ul>
             <li>

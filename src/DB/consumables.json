@@ -44,7 +44,7 @@
               "effect": "Polymorph for 8s (1 min cd)",
               "source_url": "https://www.wowhead.com/spell=255407/organic-discombobulation-grenade",
               "note": "",
-              "rarity": "5"
+              "rarity": "2"
             }
           ]
         },
@@ -189,6 +189,14 @@
               "source_url": "[Vendors]",
               "note": "Doesn't break on healing.",
               "rarity": "5"
+            },
+            {
+              "name": "Shadowberry",
+              "item_url": "https://www.wowhead.com/item=119449/shadowberry",
+              "effect": "2% HP per 5s. Not usable in instances.",
+              "source_url": "https://www.wowhead.com/npc=75071/mother-omra",
+              "note": "",
+              "rarity": ""
             }
           ]
         },
@@ -402,6 +410,13 @@
               "effect": "71 mana and 7 versatility for 1 hour",
               "source_url": "https://www.wowhead.com/spell=17555/elixir-of-the-sages",
               "note": "Can be used with Elixir of Fortitude for maximum tankiness."
+            },
+            {
+              "name": "Winterfall Firewater",
+              "item_url": "https://www.wowhead.com/item=12820/winterfall-firewater",
+              "effect": "7 AP for 40 min",
+              "source_url": "https://www.wowhead.com/npc=10738/high-chief-winterfall",
+              "note": ""
             }
           ]
         },

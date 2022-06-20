@@ -253,58 +253,12 @@ function Home() {
           <div className="container">
             <h2>Latest update:</h2>
 
-            <Spoiler title="8 June 2022 (Items)">
-              <h3>The following items have been removed:</h3>
+            <Spoiler title="16 June 2022">
+              <h4>Added Andraste's shadow priest build.</h4>
+
+              <h3>The following items have been added:</h3>
 
               <ul>
-                <li>
-                  <h4>Weapons:</h4>
-
-                  <ul>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=37749/shocking-claws?ilvl=27"
-                      >
-                        Shocking Claws
-                      </a>
-                    </li>
-
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=119378/socrethars-stone?ilvl=25"
-                      >
-                        Socrethar's Stone
-                      </a>
-                    </li>
-
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=155422/pirate-chiefs-speargun?ilvl=25"
-                      >
-                        Pirate Chief's Speargun
-                      </a>
-                    </li>
-                  </ul>
-                </li>
-
-                <li>
-                  <h4>Armor:</h4>
-
-                  <ul>
-                    <li>
-                      <a
-                        data-wh-icon-size="small"
-                        href="https://www.wowhead.com/npc=10439/ramstein-the-gorger"
-                      >
-                        Band of Flesh
-                      </a>
-                    </li>
-                  </ul>
-                </li>
-
                 <li>
                   <h4>Consumables:</h4>
 
@@ -312,9 +266,18 @@ function Home() {
                     <li>
                       <a
                         data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=41509/frostweave-net"
+                        href="https://www.wowhead.com/item=12820/winterfall-firewater"
                       >
-                        Frostweave Net
+                        Winterfall Firewater
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=119449/shadowberry"
+                      >
+                        Shadowberry
                       </a>
                     </li>
                   </ul>

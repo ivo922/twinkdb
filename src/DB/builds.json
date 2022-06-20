@@ -676,7 +676,7 @@
           "title": "F2P Disc Priest",
           "stat_priority": "Intellect > Versatility > Haste",
           "type": "F2P",
-          "author": "Vøíd",
+          "author": "TWINKDB",
           "gear": {
             "Head": "[](https://www.wowhead.com/item=11808?ilvl=26)",
             "Neck": "* [](https://www.wowhead.com/item=88273?ilvl=25)  \n * [](https://www.wowhead.com/item=17707?ilvl=25)  \n * [](https://www.wowhead.com/item=39653?ilvl=25)  \n * [](https://www.wowhead.com/item=119230/unpopped-pustule-pendant?bonus=572&ilvl=25)",
@@ -738,7 +738,7 @@
           "title": "Balanced Discipline Priest",
           "stat_priority": "Intellect > Versatility > Haste",
           "type": "VET",
-          "author": "Vøíd",
+          "author": "TWINKDB",
           "gear": {
             "Head": "[](https://www.wowhead.com/item=11808?ilvl=26)",
             "Neck": "Legion ilvl28 BoE of the Aurora + socket",
@@ -787,6 +787,78 @@
           ],
           "stats": [
             "Intellect > Versatility > Haste > Mastery = Critical"
+          ],
+          "talents": [],
+          "pvp_talents": []
+        },
+        {
+          "id": "3",
+          "spec": "Shadow",
+          "spec_handle": "shadow",
+          "class": "Priest",
+          "class_handle": "priest",
+          "title": "Andraste's SP Build",
+          "stat_priority": "Intellect > Haste > Versatility",
+          "type": "VET",
+          "author": "Andraste",
+          "gear": {
+            "Head": "* [](https://www.wowhead.com/item=28278/incanters-cowl?ilvl=25) (if you are running with ghost iron)  \n * [](https://www.wowhead.com/item=77533/lightweight-retinal-armor?ilvl=25) (1x haste 1x versa or 2x haste if you can get enough haste w/o ghost iron)",
+            "Neck": "Legion ilvl28 BoE of the Aurora + socket",
+            "Shoulders": "[](https://www.wowhead.com/item=27775/hallowed-pauldrons?bonus=6710&ilvl=25)",
+            "Back": "* ilvl28 BoE of the Aurora + socket  \n * [](https://www.wowhead.com/item=119414?bonus=572&ilvl=25)",
+            "Chest": "* [](https://www.wowhead.com/item=28230/hallowed-garments?bonus=6710&ilvl=25) (you are lacking stam)  \n * [](https://www.wowhead.com/item=28229/incanters-robe?bonus=6710&ilvl=25) (1 more int)",
+            "Wrists": "* ilvl28 BoE of the Aurora + socket  \n * [](https://www.wowhead.com/item=36945/verdisas-cuffs-of-dreaming?bonus=6710&ilvl=25)",
+            "Hands": "* iLvl28 Aurora BoE with socket  \n * [](https://www.wowhead.com/item=24393?ilvl=25)",
+            "Waist": "* iLvl28 Aurora BoE with socket  \n * [](https://www.wowhead.com/item=35929?bonus=6697&ilvl=25)  \n * [](https://www.wowhead.com/item=24395?ilvl=25)",
+            "Legs": "* [](https://www.wowhead.com/item=28218?ilvl=25) (you are lacking stam)  \n * [](https://www.wowhead.com/item=30543?ilvl=25) (1 more SP)",
+            "Boots": "* iLvl28 Aurora BoE with socket  \n * [](https://www.wowhead.com/item=27411?ilvl=25)",
+            "Rings": "* ilvl28 BoE of the Aurora + socket  \n * [](https://www.wowhead.com/item=159458?bonus=4802&ilvl=25)  \n * [](https://www.wowhead.com/item=160985?bonus=4802&ilvl=25)  \n * [](https://www.wowhead.com/item=155381?bonus=4802&ilvl=25)",
+            "Trinket 1": "* [](https://www.wowhead.com/item=77530?ilvl=19&gems=59496:59479:59489)  \n * iLvl28 INT BoE with socket (vers or haste depending on your values)",
+            "Trinket 2": "* [](https://www.wowhead.com/item=87499/grakls-gleaming-talisman)  \n * [](https://www.wowhead.com/item=122371?ilvl=24)  \n * [](https://www.wowhead.com/item=122370?ilvl=24)",
+            "Main Hand": "* [](https://www.wowhead.com/item=38135?bonus=6697&ilvl=25) (rare/epic proc)  \n * [](https://www.wowhead.com/item=37041?bonus=6697&ilvl=25) (rare/epic proc)  \n * [](https://www.wowhead.com/item=31304?ilvl=27)  \n * [](https://www.wowhead.com/item=17780?ilvl=26)  \n * ilvl25 green BoE of the Aurora + socket  \n * [](https://www.wowhead.com/item=155278?bonus=4802&ilvl=25) (with socket)",
+            "Off Hand": "* ilvl25 green BoE of the Aurora + socket  \n * [](https://www.wowhead.com/item=160447?bonus=4802&ilvl=25)  \n * [](https://www.wowhead.com/item=158322/aureus-vessel?ilvl=25) (with socket)"
+          },
+          "enchants": {
+            "Neck": "* [](https://www.wowhead.com/item=128553)",
+            "Shoulders": "[](https://www.wowhead.com/spell=61118) (optional)",
+            "Back": "[](https://www.wowhead.com/item=38973) + [](https://www.wowhead.com/spell=126392)",
+            "Chest": "[](https://www.wowhead.com/item=38989)",
+            "Wrists": "[](https://www.wowhead.com/item=38937)",
+            "Hands": "* [](https://www.wowhead.com/item=38935)  \n * [](https://www.wowhead.com/item=28273)",
+            "Waist": "[](https://www.wowhead.com/spell=82200)",
+            "Legs": "[](https://www.wowhead.com/spell=124568)",
+            "Boots": "[](https://www.wowhead.com/item=39006)",
+            "Rings": "* [](https://www.wowhead.com/item=128542/enchant-ring-binding-of-haste)  \n * [](https://www.wowhead.com/item=128544/enchant-ring-binding-of-versatility)",
+            "Main Hand": "[](https://www.wowhead.com/item=38921)",
+            "Off Hand": "[](https://www.wowhead.com/item=74729)"
+          },
+          "gems": {
+            "Prismatic gems": "* [](https://www.wowhead.com/item=40155/reckless-ametrine)  \n [](https://www.wowhead.com/item=35760/reckless-pyrestone)  \n Try to get to 99 haste rating inside BGs (that will give you 20%)  \n * [](https://www.wowhead.com/item=40133/purified-dreadstone)  \n [](https://www.wowhead.com/item=32225/purified-shadowsong-amethyst)  \n Aim for 119 rating inside BGs (that will give you 20%)  \n * [](https://www.wowhead.com/item=28118/brilliant-ornate-ruby) or [](https://www.wowhead.com/item=40113/brilliant-cardinal-ruby) or [](https://www.wowhead.com/item=40113/brilliant-cardinal-ruby)  \n * After you reach Haste and Versatility [](https://www.wowhead.com/item=32215/timeless-shadowsong-amethyst) or [](https://www.wowhead.com/item=40164/timeless-dreadstone) if you want to have some more HP, I like to have around 2k outside."
+          },
+          "consumables": {
+            "Flask": "[](https://www.wowhead.com/item=75525/)",
+            "Potion": "[](https://www.wowhead.com/item=43570/endless-mana-potion) or [](https://www.wowhead.com/item=9144/wildvine-potion)",
+            "Weapon enchant": "[](https://www.wowhead.com/item=20750)",
+            "Food": "[](https://www.wowhead.com/spell=46688)"
+          },
+          "notes": [
+            "For smoother gameplay I like to get the haste rating mentioned above (99 rating inside BGs), while you can go with less/more haste I feel like it's not hard to reach it while giving some nice benefits (1.2 sec casts and 1,25 GCD), both are important since in most situations you will try to have dots up on multiple players. Also no amount of haste is wasted on DoTs when the DoT is over any left over tick duration will be consumed for damage as well, so there is not real caps for DoTs anymore. 20% haste increases your DoT dmg by roughly 20%  \n \n",
+
+            "Instead of ilvl28 BoE of the Aurora gear you can go for ilvl28 BoE of the Impatient or ilvl28 BoE of the Adaptable depending on your Haste and Versatility ratings  \n\n",
+
+            "I try to avoid mastery and crit. While some crit might be nice (haven't tried it), in order to get some crit you will have to sacrifice other more important secondary stats, only option would be to get 2 set bonus from [](https://www.wowhead.com/item-set=658/mana-etched-regalia)  \n\n",
+
+            "For talents you will run [](https://www.wowhead.com/spell=341273/unfurling-darkness) and [](https://www.wowhead.com/spell=211522/psyfiend) most if not all the time.  \n\n",
+
+            "So in the end you should aim to have 99 Haste rating, 119 Versatility rating (both equals to 20% inside BGs), around 215 SPELL POWER/ 200 INTELLECT and 2k HP outside BGs with no buffs. \n\n",
+
+            "As for races all have their positives and negatives. I prefer MECHAGNOMES since they are a MEME !",
+            "If you are Gnome / Nelf (night time*) / Goblin you will need less haste rating then mentioned above since both races have racials that increase HASTE* by 1%. \n\n",
+
+            "[Here is my priest](https://worldofwarcraft.com/en-gb/character/eu/argent-dawn/andrast%C3%AB) with some GF gear that is not included in this list. \n\n"
+          ],
+          "stats": [
+            "Intellect > Haste > Versatility"
           ],
           "talents": [],
           "pvp_talents": []
