@@ -402,6 +402,58 @@
           ],
           "talents": [],
           "pvp_talents": []
+        },
+        {
+          "id": "4",
+          "spec": "Feral",
+          "spec_handle": "feral",
+          "class": "Druid",
+          "class_handle": "druid",
+          "title": "Graet's Consistent Damage Build",
+          "stat_priority": "Agility > Haste > Mastery",
+          "type": "VET",
+          "author": "Graet",
+          "gear": {
+            "Head": "[](https://www.wowhead.com/item=27409?ilvl=25)",
+            "Neck": "iLvl 28 Feverflare + socket",
+            "Shoulders": "iLvl 28 Feverflare + socket",
+            "Back": "iLvl 28 Feverflare + socket",
+            "Chest": "[](https://www.wowhead.com/item=28202?ilvl=25)",
+            "Wrists": "iLvl 28 Feverflare + socket",
+            "Hands": "iLvl 28 Feverflare + socket",
+            "Waist": "iLvl 28 Feverflare + socket",
+            "Legs": "[](https://www.wowhead.com/item=27492?ilvl=25)",
+            "Boots": "iLvl 28 Feverflare + socket",
+            "Rings": "iLvl 28 Feverflare + socket",
+            "Trinket 1": "[](https://www.wowhead.com/item=77530/ghost-iron-dragonling?gems=59480:59479:59489)",
+            "Trinket 2": "* iLvl 28 Agility + Haste + socket  \n * [](https://www.wowhead.com/item=108902?ilvl=25)  \n * [](https://www.wowhead.com/item=122371?ilvl=24)  \n * [](https://www.wowhead.com/item=122370?ilvl=24)",
+            "Weapon": "[](https://www.wowhead.com/item=791?ilvl=27)"
+          },
+          "enchants": {
+            "Neck": "[](https://www.wowhead.com/item=141909/enchant-neck-mark-of-the-trained-soldier)",
+            "Back": "* [](https://www.wowhead.com/item=38973)  \n * [](https://www.wowhead.com/spell=126392)",
+            "Chest": "[](https://www.wowhead.com/item=74708/enchant-chest-glorious-stats)",
+            "Wrists": "[](https://www.wowhead.com/item=44815/enchant-bracer-greater-assault)",
+            "Hands": "[](https://www.wowhead.com/item=38967/enchant-gloves-major-agility)",
+            "Waist": "[](https://www.wowhead.com/spell=82200)",
+            "Legs": "[](https://www.wowhead.com/spell=124567/primal-leg-reinforcements)",
+            "Boots": "[](https://www.wowhead.com/item=38837/enchant-boots-minor-speed)",
+            "Rings": "[](https://www.wowhead.com/item=128542/enchant-ring-binding-of-haste)",
+            "Main Hand": "[](https://www.wowhead.com/spell=20030/superior-impact)"
+          },
+          "gems": {
+            "Prismatic gems": "* [](https://www.wowhead.com/item=28362/delicate-ornate-ruby)  \n * [](https://www.wowhead.com/item=32194/delicate-crimson-spinel)  \n * [](https://www.wowhead.com/item=40112/delicate-cardinal-ruby)"
+          },
+          "consumables": {
+            "Flask": "[](https://www.wowhead.com/item=75525/alchemists-flask)",
+            "Food": "[](https://www.wowhead.com/item=13928/grilled-squid)"
+          },
+          "notes": [],
+          "stats": [
+            "Agility > Haste > Mastery > Versatility"
+          ],
+          "talents": [],
+          "pvp_talents": []
         }
       ]
     },
