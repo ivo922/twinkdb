@@ -214,7 +214,7 @@ function Home() {
               </div>
             </div>
 
-            <h2>Guides:</h2>
+            {/* <h2>Guides:</h2>
 
             <div className="categories">
               <div className='categories__item'>
@@ -230,7 +230,7 @@ function Home() {
                   </h3>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             <h2>Tools:</h2>
 
