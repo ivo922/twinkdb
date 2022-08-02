@@ -8,6 +8,7 @@ const routes = {
   gems: '/gems',
   enchants: '/enchants',
   consumables: '/consumables',
+  farming: '/farming',
   builds: '/builds',
   calculator: '/calculator',
   changelog: '/changelog',

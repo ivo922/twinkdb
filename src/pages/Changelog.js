@@ -29,6 +29,180 @@ function Changelog() {
 
         <hr />
 
+        <Spoiler title="2 Aug 2022">
+          <h3>The following items have been added:</h3>
+
+          <ul>
+            <li>
+              <h4>Weapons:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=158369/galvanized-stormcrusher?ilvl=25"
+                  >
+                    Galvanized Stormcrusher
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=158714/swarms-edge?ilvl=25"
+                  >
+                    Swarm's Edge
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li>
+              <h4>Armor:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=158366/charged-sandstone-band?ilvl=25"
+                  >
+                    Charged sandstone band
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=162544/jade-ophidian-band?ilvl=25"
+                  >
+                    Jade Ophidian Band
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=159463/loop-of-pulsing-veins?ilvl=25"
+                  >
+                    Loop of Pulsing Veins
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=159425/shard-tipped-vambraces?ilvl=25"
+                  >
+                    Shard-Tipped Vambraces
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=159292/sporecallers-shroud?ilvl=25"
+                  >
+                    Sporecaller's Shroud
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </Spoiler>
+
+        <Spoiler title="22 July 2022">
+          <h3>The following items have been added:</h3>
+
+          <ul>
+            <li>
+              <h4>Weapons:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=647/destiny?bonus=6661&ilvl=27"
+                  >
+                    Destiny
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=2243/hand-of-edward-the-odd?bonus=6661&ilvl=27"
+                  >
+                    Hand of Edward the Odd
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=1168/skullflame-shield?bonus=6661&ilvl=27"
+                  >
+                    Skullflame Shield
+                  </a>
+                </li>
+              </ul>
+
+            </li>
+
+            <li>
+              <h4>Cloth:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=119357/grovetenders-cummerbund?bonus=6691&ilvl=25"
+                  >
+                    Grovetender's Cummerbund
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+          </ul>
+
+          <h3>The following items have been removed:</h3>
+
+          <ul>
+            <li>
+              <h4>Trinkets:</h4>
+
+              <ul>
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=113025?ilvl=24"
+                  >
+                    External Combustion Engine
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=113024?ilvl=24"
+                  >
+                    "Reliable" Threat Assessor
+                  </a>
+                </li>
+
+                <li>
+                  <a
+                    data-wh-icon-size="small"
+                    href="https://www.wowhead.com/item=113023?ilvl=24"
+                  >
+                    Foolproof Targeting Mechanism
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </Spoiler>
+
         <Spoiler title="16 June 2022">
           <h4>Added Andraste's shadow priest build.</h4>
 

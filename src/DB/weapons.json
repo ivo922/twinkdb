@@ -117,6 +117,20 @@
           "versatility": 8,
           "source_url": "[Classic BoE]",
           "rarity": 3
+        },
+        {
+          "name": "Destiny",
+          "item_url": "https://www.wowhead.com/item=647/destiny?bonus=6661&ilvl=27",
+          "sockets": 0,
+          "damage": "13 - 23 (5 DPS)",
+          "stamina": 0,
+          "main_stat": 0,
+          "critical": 0,
+          "haste": 0,
+          "mastery": 0,
+          "versatility": 0,
+          "source_url": "[Classic BoE]",
+          "rarity": 3
         }
       ]
     },
@@ -250,6 +264,20 @@
           "mastery": 3,
           "versatility": 0,
           "source_url": "https://www.wowhead.com/npc=122963|Rezan@Atal'Dazar",
+          "rarity": 2
+        },
+        {
+          "name": "Swarm's Edge",
+          "item_url": "https://www.wowhead.com/item=158714/swarms-edge?ilvl=25",
+          "sockets": "1 (proc)",
+          "damage": "6 - 12 (3.5 DPS)",
+          "stamina": 5,
+          "main_stat": 3,
+          "critical": 0,
+          "haste": 0,
+          "mastery": 3,
+          "versatility":  4,
+          "source_url": "https://www.wowhead.com/npc=133384|Merektha@Temple of Sethraliss",
           "rarity": 2
         },
         {
@@ -912,6 +940,20 @@
           "rarity": 2
         },
         {
+          "name": "Galvanized Stormcrusher",
+          "item_url": "https://www.wowhead.com/item=158369/galvanized-stormcrusher?ilvl=25",
+          "sockets": "1 (proc)",
+          "damage": "2 - 4",
+          "stamina": 5,
+          "main_stat": 19,
+          "critical": 0,
+          "haste": 4,
+          "mastery": 0,
+          "versatility": 3,
+          "source_url": "https://www.wowhead.com/npc=133389|Galvazzt@Temple of Sethraliss",
+          "rarity": 2
+        },
+        {
           "name": "Shadowspeaker's Shard",
           "item_url": "https://www.wowhead.com/item=119396&ilvl=25",
           "sockets": "1 (proc)",
@@ -982,6 +1024,21 @@
           "versatility": 0,
           "source_url": "[Draenor BoE]",
           "rarity": 3
+        },
+        {
+          "name": "Hand of Edward the Odd",
+          "item_url": "https://www.wowhead.com/item=2243/hand-of-edward-the-odd?bonus=6661&ilvl=27",
+          "sockets": 0,
+          "damage": "4 - 6",
+          "stamina": 5,
+          "main_stat": 20,
+          "critical": 0,
+          "haste": 0,
+          "mastery": 0,
+          "versatility": 5,
+          "source_url": "[Classic BoE]",
+          "rarity": 4,
+          "note": "Very rare."
         }
       ]
     },
@@ -1262,6 +1319,20 @@
           "source_url": "https://www.wowhead.com/npc=82616|Jabberjaw@Frostfire Ridge",
           "rarity": 2,
           "note": "Socket proc chance is ~5%. Drops loot once a day."
+        },
+        {
+          "name": "Skullflame Shield",
+          "item_url": "https://www.wowhead.com/item=1168/skullflame-shield?bonus=6661&ilvl=27",
+          "sockets": 0,
+          "armor": 68,
+          "stamina": 5,
+          "main_stat": "3 str  \n 11 int",
+          "critical": 0,
+          "haste": 0,
+          "mastery": 0,
+          "versatility": 0,
+          "source_url": "[Classic BoE]",
+          "rarity": 3
         }
       ]
     }

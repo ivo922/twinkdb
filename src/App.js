@@ -18,6 +18,8 @@ import Trinkets from './pages/Trinkets';
 import Gems from './pages/Gems';
 import Enchants from './pages/Enchants';
 import Builds from './pages/Builds';
+import Consumables from './pages/Consumables';
+import Farming from './pages/Farming';
 import Calculator from './pages/Calculator';
 import Changelog from './pages/Changelog';
 
@@ -38,7 +40,6 @@ import Wishlist from './components/Wishlist';
 import ReactMarkdown from 'react-markdown';
 
 import routes from './routes';
-import Consumables from './pages/Consumables';
 
 function App() {
   return (
@@ -119,6 +120,12 @@ function App() {
               element={<TablesList data={dataConsumables.types[2].categories} />}
             />
           </Route>
+
+          <Route
+            children
+            path={routes.farming}
+            element={<Farming />}
+          />
 
           <Route path={routes.builds} element={<Builds />}>
             <Route index element={<BuildsList />} />

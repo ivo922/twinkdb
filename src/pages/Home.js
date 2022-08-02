@@ -52,6 +52,10 @@ function Home() {
       src: require('../assets/images/calculator.png'),
       alt: 'Stats calculator',
     },
+    farming: {
+      src: require('../assets/images/farming.png'),
+      alt: 'Farming',
+    },
   };
 
   // Reload wowhead links on tab change.
@@ -68,16 +72,12 @@ function Home() {
         </h1>
 
         <p>
-          The purpose of this tool is to gather the best twink items for the 20s
-          bracket. <br />
-          <em>
-            <strong>This is by no means a definite BiS guide</strong>
-          </em>
+          The purpose of this site is to gather the best twink items, <br />example builds, farming spots and tools for the 20s
+          bracket.
           <br />
           Here you can find various dungeon drops, rare mob drops, quest rewards
           and crafted items. <br />
-          Legion and BFA green BoEs and non-existent items like Destiny,
-          Jackhammer or Edward will not be included.
+          Legion and BFA green BoEs will not be included.
         </p>
 
         <p>
@@ -214,6 +214,24 @@ function Home() {
               </div>
             </div>
 
+            <h2>Guides:</h2>
+
+            <div className="categories">
+              <div className='categories__item'>
+                <div className="category">
+                  <div className="category__image">
+                    <Link to="/farming">
+                      <img src={images.farming.src} alt={images.farming.alt} />
+                    </Link>
+                  </div>
+
+                  <h3 className="category__title">
+                    <Link to="/farming">Farming</Link>
+                  </h3>
+                </div>
+              </div>
+            </div>
+
             <h2>Tools:</h2>
 
             <div className="categories">
@@ -253,31 +271,92 @@ function Home() {
           <div className="container">
             <h2>Latest update:</h2>
 
-            <Spoiler title="16 June 2022">
-              <h4>Added Andraste's shadow priest build.</h4>
-
+            <Spoiler title="22 July 2022">
               <h3>The following items have been added:</h3>
 
               <ul>
                 <li>
-                  <h4>Consumables:</h4>
+                  <h4>Weapons:</h4>
 
                   <ul>
                     <li>
                       <a
                         data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=12820/winterfall-firewater"
+                        href="https://www.wowhead.com/item=647/destiny?bonus=6661&ilvl=27"
                       >
-                        Winterfall Firewater
+                        Destiny
                       </a>
                     </li>
 
                     <li>
                       <a
                         data-wh-icon-size="small"
-                        href="https://www.wowhead.com/item=119449/shadowberry"
+                        href="https://www.wowhead.com/item=2243/hand-of-edward-the-odd?bonus=6661&ilvl=27"
                       >
-                        Shadowberry
+                        Hand of Edward the Odd
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=1168/skullflame-shield?bonus=6661&ilvl=27"
+                      >
+                        Skullflame Shield
+                      </a>
+                    </li>
+                  </ul>
+
+                </li>
+
+                <li>
+                  <h4>Cloth:</h4>
+
+                  <ul>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=119357/grovetenders-cummerbund?bonus=6691&ilvl=25"
+                      >
+                        Grovetender's Cummerbund
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+
+              </ul>
+
+              <h3>The following items have been removed:</h3>
+
+              <ul>
+                <li>
+                  <h4>Trinkets:</h4>
+
+                  <ul>
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=113025?ilvl=24"
+                      >
+                        External Combustion Engine
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=113024?ilvl=24"
+                      >
+                        "Reliable" Threat Assessor
+                      </a>
+                    </li>
+
+                    <li>
+                      <a
+                        data-wh-icon-size="small"
+                        href="https://www.wowhead.com/item=113023?ilvl=24"
+                      >
+                        Foolproof Targeting Mechanism
                       </a>
                     </li>
                   </ul>

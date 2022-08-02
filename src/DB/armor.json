@@ -396,6 +396,23 @@
 
               "source_url": "https://www.wowhead.com/npc=17377|Keli'dan the Breaker@The Blood Furnace",
               "rarity": 1
+            },
+            {
+              "name": "Grovetender's Cummerbund",
+              "item_url": "https://www.wowhead.com/item=119357/grovetenders-cummerbund?bonus=6691&ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 3,
+              "main_stat": 5,
+              "stamina": 7,
+              "critical": 0,
+              "haste": 5,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=86257/basten|Basten@Gorgrond",
+              "rarity": 2,
+              "note": "Socket proc chance is ~5%. Drops loot once a day."
             }
           ]
         },
@@ -1778,6 +1795,21 @@
 
               "source_url": "[Utgarde Pinnacle BoE]",
               "rarity": 2
+            },{
+              "name": "Shard-Tipped Vambraces",
+              "item_url": "https://www.wowhead.com/item=159425/shard-tipped-vambraces?ilvl=25",
+
+              "sockets": 1,
+              "armor": 11,
+              "main_stat": 3,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 3,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=133944|Aspix@Temple of Sethraliss",
+              "rarity": 2
             }
           ]
         },
@@ -2410,6 +2442,22 @@
               "rarity": 2
             },
             {
+              "name": "Soirecakker's Shroud",
+              "item_url": "https://www.wowhead.com/item=159292/sporecallers-shroud?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 4,
+              "main_stat": 4,
+              "stamina": 5,
+              "critical": 3,
+              "haste": 0,
+              "mastery": 0,
+              "versatility": 4,
+
+              "source_url": "https://www.wowhead.com/npc=131383|Sporecaller Zancha@The Underrot",
+              "rarity": 2
+            },
+            {
               "name": "Sauroscale Cloak of Adaptation",
               "item_url": "https://www.wowhead.com/item=160984?ilvl=25",
 
@@ -2647,6 +2695,54 @@
               "versatility": 0,
 
               "source_url": "https://www.wowhead.com/npc=129431|Captain Eudora@Freehold",
+              "rarity": 2
+            },
+            {
+              "name": "Charged sandstone band",
+              "item_url": "https://www.wowhead.com/item=158366/charged-sandstone-band?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 13,
+              "haste": 0,
+              "mastery": 10,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=133389|Galvazzt@Temple of Sethraliss",
+              "rarity": 2
+            },
+            {
+              "name": "Jade Ophidian Band",
+              "item_url": "https://www.wowhead.com/item=162544/jade-ophidian-band?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 0,
+              "mastery": 14,
+              "versatility": 8,
+
+              "source_url": "https://www.wowhead.com/npc=133384|Merektha@Temple of Sethraliss",
+              "rarity": 2
+            },
+            {
+              "name": "Loop of Pulsing Veins",
+              "item_url": "https://www.wowhead.com/item=159463/loop-of-pulsing-veins?ilvl=25",
+
+              "sockets": "1 (proc)",
+              "armor": 0,
+              "main_stat": 0,
+              "stamina": 5,
+              "critical": 0,
+              "haste": 14,
+              "mastery": 9,
+              "versatility": 0,
+
+              "source_url": "https://www.wowhead.com/npc=131318|Elder Leaxa@The Underrot",
               "rarity": 2
             },
             {
